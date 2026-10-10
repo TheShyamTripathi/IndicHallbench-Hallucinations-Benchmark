@@ -2,7 +2,7 @@ import json
 import os
 
 # --- Configuration ---
-DATASET_FILE = r"E:\Neural Project\Translated dataset\dataset_ta.json"   # Input JSON file
+DATASET_FILE = r"E:\Neural Project\Translated dataset\dataset_te.json"   # Input JSON file
 BATCH_SIZE = 180
 TOTAL_BATCHES = 10
 OUTPUT_DIR = r"E:\Neural Project\Translated dataset\temp_batches2"
