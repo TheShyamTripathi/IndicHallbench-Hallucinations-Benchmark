@@ -1,0 +1,452 @@
+[
+    {
+        "question_id": "Q_ECO_091",
+        "question": "What is GDP the sum of?",
+        "ground_truth": "consumption, investment, government expenditures, and net exports"
+    },
+    {
+        "question_id": "Q_ECO_092",
+        "question": "Into how many categories do the US National Income and Product Accounts divide incomes?",
+        "ground_truth": "five"
+    },
+    {
+        "question_id": "Q_ECO_093",
+        "question": "What are the three critical missions of the IMF?",
+        "ground_truth": "monetary cooperation, trade and economic growth, discouraging harmful policies"
+    },
+    {
+        "question_id": "Q_ECO_094",
+        "question": "What are the core principles of the WTO?",
+        "ground_truth": "non-discrimination, reciprocity, transparency, consensus"
+    },
+    {
+        "question_id": "Q_ECO_095",
+        "question": "Who wrote The Wealth of Nations, which marked the inception of modern economic scholarship as a comprehensive system?",
+        "ground_truth": "Adam Smith"
+    },
+    {
+        "question_id": "Q_ECO_096",
+        "question": "Who wrote The General Theory of Employment, Interest and Money, which significantly influenced macroeconomics?",
+        "ground_truth": "John Maynard Keynes"
+    },
+    {
+        "question_id": "Q_ECO_097",
+        "question": "Who wrote Essays in Positive Economics, which advocated for positivist methodology in economics?",
+        "ground_truth": "Milton Friedman"
+    },
+    {
+        "question_id": "Q_ECO_098",
+        "question": "Who wrote Principles of Economics, which popularized the supply and demand model?",
+        "ground_truth": "Alfred Marshall"
+    },
+    {
+        "question_id": "Q_ECO_099",
+        "question": "Who wrote Das Kapital, which analyzed class struggle under capitalism?",
+        "ground_truth": "Karl Marx"
+    },
+    {
+        "question_id": "Q_ECO_100",
+        "question": "Where is the World Trade Organization located?",
+        "ground_truth": "Geneva, Switzerland"
+    },
+    {
+        "question_id": "Q_ECO_101",
+        "question": "Which global organization works to support economic growth and prosperity for all of its member countries?",
+        "ground_truth": "International Monetary Fund"
+    },
+    {
+        "question_id": "Q_ECO_102",
+        "question": "What was the WTO's predecessor and what was it designed to avoid?",
+        "ground_truth": "General Agreement on Tariffs and Trade"
+    },
+    {
+        "question_id": "Q_ECO_103",
+        "question": "What does the Board of Governors consist of?",
+        "ground_truth": "Board of Governors"
+    },
+    {
+        "question_id": "Q_ECO_104",
+        "question": "How long did the Uruguay Round negotiations last and what did they include?",
+        "ground_truth": "1986-94"
+    },
+    {
+        "question_id": "Q_ECO_105",
+        "question": "How many cases were brought to the WTO in its first ten years compared to the disputes dealt with during the entire life of GATT?",
+        "ground_truth": "more than 300 cases; 300 disputes"
+    },
+    {
+        "question_id": "Q_ECO_106",
+        "question": "What are examples of broad price indices?",
+        "ground_truth": "Consumer Price Index, Personal consumption expenditures price index, GDP deflator"
+    },
+    {
+        "question_id": "Q_ECO_107",
+        "question": "How is the inflation rate most widely calculated?",
+        "ground_truth": "consumer price index"
+    },
+    {
+        "question_id": "Q_ECO_108",
+        "question": "What does core inflation exclude from a broad price index like the CPI?",
+        "ground_truth": "food and energy prices"
+    },
+    {
+        "question_id": "Q_ECO_109",
+        "question": "What measures the total remuneration to employees for work done, including wages, salaries, and employer contributions to social security?",
+        "ground_truth": "Compensation of employees"
+    },
+    {
+        "question_id": "Q_ECO_110",
+        "question": "What is the surplus due to owners of incorporated businesses often called?",
+        "ground_truth": "Gross operating surplus"
+    },
+    {
+        "question_id": "Q_ECO_111",
+        "question": "What is the same measure as gross operating surplus but for unincorporated businesses?",
+        "ground_truth": "Gross mixed income"
+    },
+    {
+        "question_id": "Q_ECO_112",
+        "question": "What does the income approach measure GDP by adding?",
+        "ground_truth": "wages, interest, rent, profits"
+    },
+    {
+        "question_id": "Q_ECO_113",
+        "question": "What was the major inflationary cycle in Western Europe from the second half of the 15th century to the first half of the 17th century called?",
+        "ground_truth": "price revolution"
+    },
+    {
+        "question_id": "Q_ECO_114",
+        "question": "Who first used the phrase supply and demand and in what year?",
+        "ground_truth": "1767"
+    },
+    {
+        "question_id": "Q_ECO_115",
+        "question": "How many times did Thomas Robert Malthus use the phrase supply and demand in the second edition of the Essay on Population?",
+        "ground_truth": "twenty"
+    },
+    {
+        "question_id": "Q_ECO_116",
+        "question": "In what year did Fleeming Jenkin publish the first drawing of supply and demand curves in English?",
+        "ground_truth": "1870"
+    },
+    {
+        "question_id": "Q_ECO_117",
+        "question": "When was the Doha Development Agenda launched and where?",
+        "ground_truth": "November 2001"
+    },
+    {
+        "question_id": "Q_ECO_118",
+        "question": "When did the Uruguay Round negotiations take place and what did they result in?",
+        "ground_truth": "1986 to 1994"
+    },
+    {
+        "question_id": "Q_ECO_119",
+        "question": "When and where was the IMF conceived?",
+        "ground_truth": "July 1944"
+    },
+    {
+        "question_id": "Q_ECO_120",
+        "question": "When was the Bretton Woods system of fixed exchange rates replaced by flexible exchange rate regimes among major economies?",
+        "ground_truth": "after the 1970s"
+    },
+    {
+        "question_id": "Q_ECO_121",
+        "question": "In how many countries does the IMF have regional, resident representative, and capacity development offices?",
+        "ground_truth": "more than 90 countries"
+    },
+    {
+        "question_id": "Q_ECO_122",
+        "question": "Where are the WTO's headquarters located?",
+        "ground_truth": "Geneva, Switzerland"
+    },
+    {
+        "question_id": "Q_ECO_123",
+        "question": "What did mercantilism hold and what did physiocrats believe?",
+        "ground_truth": "gold and silver; agricultural production"
+    },
+    {
+        "question_id": "Q_ECO_124",
+        "question": "What did Adam Smith identify as the three factors of production and major contributors to a nation's wealth?",
+        "ground_truth": "land, labor, and capital"
+    },
+    {
+        "question_id": "Q_ECO_125",
+        "question": "What is GDP and how is it customarily reported?",
+        "ground_truth": "total market value of goods and services; annual basis"
+    },
+    {
+        "question_id": "Q_ECO_126",
+        "question": "How does GDP differ from gross national product?",
+        "ground_truth": "gross national product"
+    },
+    {
+        "question_id": "Q_ECO_127",
+        "question": "How does the expenditure method calculate GDP?",
+        "ground_truth": "final uses of goods and services"
+    },
+    {
+        "question_id": "Q_ECO_128",
+        "question": "What does the WTO's dispute settlement procedure encourage and what does it include?",
+        "ground_truth": "consultation; panel of experts; appeal"
+    },
+    {
+        "question_id": "Q_ECO_129",
+        "question": "What does the IMF monitor and assess regarding its member countries?",
+        "ground_truth": "monitors developments; assesses policies; makes recommendations"
+    },
+    {
+        "question_id": "Q_ECO_130",
+        "question": "Where do the IMF's resources mainly come from and how is each member's quota determined?",
+        "ground_truth": "capital subscription (quotas); relative position in world economy"
+    },
+    {
+        "question_id": "Q_ECO_131",
+        "question": "Who was Irving Fisher and what were his contributions to economics?",
+        "ground_truth": "Irving Fisher"
+    },
+    {
+        "question_id": "Q_ECO_132",
+        "question": "Who was Karl Marx and what were his contributions to economic thought?",
+        "ground_truth": "Karl Marx"
+    },
+    {
+        "question_id": "Q_ECO_133",
+        "question": "Who was Vilfredo Pareto and what concepts is he known for?",
+        "ground_truth": "Vilfredo Pareto"
+    },
+    {
+        "question_id": "Q_ECO_134",
+        "question": "Who was Thorstein Veblen and what concepts did he coin?",
+        "ground_truth": "Thorstein Veblen"
+    },
+    {
+        "question_id": "Q_ECO_135",
+        "question": "When was the IMF founded, how many countries participated, and when did it formally come into existence?",
+        "ground_truth": "1944; 44 countries; 27 December 1945"
+    },
+    {
+        "question_id": "Q_ECO_136",
+        "question": "When was the WTO officially established, when did the Uruguay Round negotiations take place, and what did they include?",
+        "ground_truth": "January 1, 1995; 1986-1994; GATT revision"
+    },
+    {
+        "question_id": "Q_ECO_137",
+        "question": "What are the broad and narrow price indices used to measure inflation?",
+        "ground_truth": "CPI, PCEPI, GDP deflator; PPI, ECI"
+    },
+    {
+        "question_id": "Q_ECO_138",
+        "question": "How can GDP be calculated using the income approach and the expenditure approach?",
+        "ground_truth": "COE, GOS, GMI; C, I, G, X-M"
+    },
+    {
+        "question_id": "Q_ECO_139",
+        "question": "Who first used the phrase supply and demand and when, who used it in 1776, and how many times did Malthus use it in 1803?",
+        "ground_truth": "1767; 1776; 1803; twenty times"
+    },
+    {
+        "question_id": "Q_ECO_140",
+        "question": "When did the Great Depression occur and what characterized it and the period after?",
+        "ground_truth": "1930s; deflation; prices rise"
+    },
+    {
+        "question_id": "Q_ECO_141",
+        "question": "Where are the IMF and WTO headquartered and in how many countries does the IMF have offices?",
+        "ground_truth": "Washington, D.C.; Geneva, Switzerland; more than 90 countries"
+    },
+    {
+        "question_id": "Q_ECO_142",
+        "question": "What does microeconomics study and what does macroeconomics study?",
+        "ground_truth": "Microeconomics studies individuals and firms; macroeconomics studies economies as systems"
+    },
+    {
+        "question_id": "Q_ECO_143",
+        "question": "What did Adam Smith's The Wealth of Nations identify, discuss, and mark?",
+        "ground_truth": "land, labor, capital; division of labor; modern economic scholarship"
+    },
+    {
+        "question_id": "Q_ECO_144",
+        "question": "What are the IMF's three critical missions and how many member countries does it have?",
+        "ground_truth": "monetary cooperation; trade and economic growth; discouraging harmful policies; 191 members"
+    },
+    {
+        "question_id": "Q_ECO_145",
+        "question": "Which agreement was signed on 30 October 1947 and entered into force on 1 January 1948?",
+        "ground_truth": "General Agreement on Tariffs and Trade"
+    },
+    {
+        "question_id": "Q_ECO_146",
+        "question": "Which agreement was signed on 15 April 1994 and entered into force on 1 January 1995?",
+        "ground_truth": "Agreement on Trade-Related Aspects of Intellectual Property Rights"
+    },
+    {
+        "question_id": "Q_ECO_147",
+        "question": "Under which article of the WTO Agreement is the World Trade Organization established?",
+        "ground_truth": "Article I"
+    },
+    {
+        "question_id": "Q_ECO_148",
+        "question": "How many member states does the World Trade Organization have?",
+        "ground_truth": "166"
+    },
+    {
+        "question_id": "Q_ECO_149",
+        "question": "What percentage of world trade in goods and services does the World Trade Organization account for?",
+        "ground_truth": "97%"
+    },
+    {
+        "question_id": "Q_ECO_150",
+        "question": "How many member countries does the International Monetary Fund have?",
+        "ground_truth": "191"
+    },
+    {
+        "question_id": "Q_ECO_151",
+        "question": "What was the IMF's membership date of entry into force?",
+        "ground_truth": "December 27, 1945"
+    },
+    {
+        "question_id": "Q_ECO_152",
+        "question": "When did the World Trade Organization begin operating?",
+        "ground_truth": "January 1, 1995"
+    },
+    {
+        "question_id": "Q_ECO_153",
+        "question": "Where is the International Monetary Fund headquarters located?",
+        "ground_truth": "Washington, D.C."
+    },
+    {
+        "question_id": "Q_ECO_154",
+        "question": "What percentage of world trade does the WTO oversee among its members, and how many countries have an observer role?",
+        "ground_truth": "97% of world trade; 23 observer countries"
+    },
+    {
+        "question_id": "Q_ECO_155",
+        "question": "When did the IMF's membership date of entry into force occur, and how many member countries does it have?",
+        "ground_truth": "December 27, 1945; 191 members"
+    },
+    {
+        "question_id": "Q_ECO_156",
+        "question": "Which agreement was signed on 30 October 1947 and entered into force on 1 January 1948?",
+        "ground_truth": "General Agreement on Tariffs and Trade"
+    },
+    {
+        "question_id": "Q_ECO_157",
+        "question": "Which agreement was signed on 15 April 1994 and entered into force on 1 January 1995?",
+        "ground_truth": "Agreement on Trade-Related Aspects of Intellectual Property Rights"
+    },
+    {
+        "question_id": "Q_ECO_158",
+        "question": "Under which article of the WTO Agreement is the World Trade Organization established?",
+        "ground_truth": "Article I"
+    },
+    {
+        "question_id": "Q_ECO_159",
+        "question": "When was the United Nations Economic and Social Council Resolution 1/13 (IV) adopted?",
+        "ground_truth": "18 February 1946"
+    },
+    {
+        "question_id": "Q_ECO_160",
+        "question": "When was the General Agreement on Trade in Services signed?",
+        "ground_truth": "15 April 1994"
+    },
+    {
+        "question_id": "Q_ECO_161",
+        "question": "How many member states does the World Trade Organization have?",
+        "ground_truth": "166"
+    },
+    {
+        "question_id": "Q_ECO_162",
+        "question": "What percentage of world trade in goods and services does the World Trade Organization account for?",
+        "ground_truth": "97%"
+    },
+    {
+        "question_id": "Q_ECO_163",
+        "question": "How many countries have an observer role in the World Trade Organization?",
+        "ground_truth": "23"
+    },
+    {
+        "question_id": "Q_ECO_164",
+        "question": "How many member countries does the International Monetary Fund have?",
+        "ground_truth": "191"
+    },
+    {
+        "question_id": "Q_ECO_165",
+        "question": "What was the IMF's membership date of entry into force?",
+        "ground_truth": "December 27, 1945"
+    },
+    {
+        "question_id": "Q_ECO_166",
+        "question": "How much lending did the IMF provide in fiscal year 2026 and to how many countries?",
+        "ground_truth": "$40 billion; 18 countries"
+    },
+    {
+        "question_id": "Q_ECO_167",
+        "question": "When did the World Trade Organization begin operating?",
+        "ground_truth": "January 1, 1995"
+    },
+    {
+        "question_id": "Q_ECO_168",
+        "question": "When was the World Trade Organization established?",
+        "ground_truth": "1 January 1995"
+    },
+    {
+        "question_id": "Q_ECO_169",
+        "question": "Where is the International Monetary Fund headquarters located?",
+        "ground_truth": "Washington, D.C."
+    },
+    {
+        "question_id": "Q_ECO_170",
+        "question": "What percentage of world trade does the WTO oversee among its members, and how many countries have an observer role?",
+        "ground_truth": "97% of world trade; 23 observer countries"
+    },
+    {
+        "question_id": "Q_ECO_171",
+        "question": "When was the General Agreement on Tariffs and Trade signed and when did it enter into force, and when was the World Trade Organization established?",
+        "ground_truth": "30 October 1947; 1 January 1948; 1 January 1995"
+    },
+    {
+        "question_id": "Q_ECO_172",
+        "question": "How many member countries does the International Monetary Fund have, and what was its membership date of entry into force?",
+        "ground_truth": "191 members; December 27, 1945"
+    },
+    {
+        "question_id": "Q_ECO_173",
+        "question": "How many member states does the World Trade Organization have, and how many member countries does the International Monetary Fund have?",
+        "ground_truth": "166; 191"
+    },
+    {
+        "question_id": "Q_ECO_174",
+        "question": "When was the General Agreement on Tariffs and Trade signed and when did it enter into force, and under which article of the WTO Agreement is the World Trade Organization established?",
+        "ground_truth": "GATT; Article I"
+    },
+    {
+        "question_id": "Q_ECO_175",
+        "question": "When was the Agreement on Trade-Related Aspects of Intellectual Property Rights signed and when did it enter into force, and when was the General Agreement on Trade in Services signed?",
+        "ground_truth": "TRIPS; 15 April 1994; 1 January 1995; GATS"
+    },
+    {
+        "question_id": "Q_ECO_176",
+        "question": "How many member states does the WTO have, what percentage of world trade does it account for, and how many countries have an observer role?",
+        "ground_truth": "166 members; 97% of world trade; 23 observers"
+    },
+    {
+        "question_id": "Q_ECO_177",
+        "question": "How many member countries does the IMF have, and what was its membership date of entry into force?",
+        "ground_truth": "191 members; December 27, 1945"
+    },
+    {
+        "question_id": "Q_ECO_178",
+        "question": "When was the World Trade Organization established, when did it begin operating, and what did the WTO Agreement provide for?",
+        "ground_truth": "1 January 1995; January 1, 1995"
+    },
+    {
+        "question_id": "Q_ECO_179",
+        "question": "What percentage of world trade does the WTO oversee among its members, and how many member countries does the IMF have?",
+        "ground_truth": "97% of world trade; 191 members"
+    },
+    {
+        "question_id": "Q_ECO_180",
+        "question": "When was the General Agreement on Tariffs and Trade signed and when did it enter into force, and how many member states does the World Trade Organization have?",
+        "ground_truth": "30 October 1947; 1 January 1948; 166 members"
+    }
+]

@@ -1,0 +1,452 @@
+[
+    {
+        "question_id": "Q_SCI_180",
+        "question": "What did studies of Nubian remains reveal about tetracycline use, and what is the theory about its source?",
+        "ground_truth": "Nubian mummies studied in the 1990s revealed that Kush was a pioneer of early antibiotics.Tetracycline was being used by Nubians, based on bone remains between 350 AD and 550 AD.The antibiotic was in wide commercial use only in the mid 20th century.The theory is that earthen jars containing grain for making beer contained the bacterium Streptomyces, which produced tetracycline.Nubians were not aware of tetracycline."
+    },
+    {
+        "question_id": "Q_SPO_001",
+        "question": "In what ancient civilization did the Olympic Games originate?",
+        "ground_truth": "ancient Greece"
+    },
+    {
+        "question_id": "Q_SPO_002",
+        "question": "What is the governing body of cricket?",
+        "ground_truth": "ICC"
+    },
+    {
+        "question_id": "Q_SPO_003",
+        "question": "Which organization is the governing body for association football?",
+        "ground_truth": "FIFA"
+    },
+    {
+        "question_id": "Q_SPO_004",
+        "question": "Which country hosted the first FIFA World Cup?",
+        "ground_truth": "Uruguay"
+    },
+    {
+        "question_id": "Q_SPO_005",
+        "question": "Which club maintains the Laws of Cricket?",
+        "ground_truth": "Marylebone Cricket Club"
+    },
+    {
+        "question_id": "Q_SPO_006",
+        "question": "Who revived the modern Olympic Games?",
+        "ground_truth": "Baron Pierre de Coubertin"
+    },
+    {
+        "question_id": "Q_SPO_007",
+        "question": "Which country won the first international cricket match?",
+        "ground_truth": "Canada"
+    },
+    {
+        "question_id": "Q_SPO_008",
+        "question": "How many players are on a cricket team?",
+        "ground_truth": "eleven"
+    },
+    {
+        "question_id": "Q_SPO_009",
+        "question": "In what year did the modern Olympic Games start?",
+        "ground_truth": "1896"
+    },
+    {
+        "question_id": "Q_SPO_010",
+        "question": "How many teams did the FIFA World Cup expand to in 1998?",
+        "ground_truth": "32"
+    },
+    {
+        "question_id": "Q_SPO_011",
+        "question": "How long is the pitch in cricket?",
+        "ground_truth": "22 yards"
+    },
+    {
+        "question_id": "Q_SPO_012",
+        "question": "How many viewers did the 2006 FIFA World Cup final draw?",
+        "ground_truth": "700 million"
+    },
+    {
+        "question_id": "Q_SPO_013",
+        "question": "How many National Olympic Committees does the IOC currently recognise?",
+        "ground_truth": "206"
+    },
+    {
+        "question_id": "Q_SPO_014",
+        "question": "In what year were the first Olympic Games recorded?",
+        "ground_truth": "776 BC"
+    },
+    {
+        "question_id": "Q_SPO_015",
+        "question": "In what year did the first FIFA World Cup take place?",
+        "ground_truth": "1930"
+    },
+    {
+        "question_id": "Q_SPO_016",
+        "question": "To what period does cricket's earliest definite reference date?",
+        "ground_truth": "mid-16th century"
+    },
+    {
+        "question_id": "Q_SPO_017",
+        "question": "How often are the modern Olympic Games held?",
+        "ground_truth": "every four years"
+    },
+    {
+        "question_id": "Q_SPO_018",
+        "question": "In what year did football become an official Olympic sport?",
+        "ground_truth": "1908"
+    },
+    {
+        "question_id": "Q_SPO_019",
+        "question": "In what year was the first Women's World Cup played?",
+        "ground_truth": "1991"
+    },
+    {
+        "question_id": "Q_SPO_020",
+        "question": "Where does the ICC have its headquarters?",
+        "ground_truth": "Dubai"
+    },
+    {
+        "question_id": "Q_SPO_021",
+        "question": "In which two years was or will cricket be featured in the Olympics?",
+        "ground_truth": "1900 and 2028"
+    },
+    {
+        "question_id": "Q_SPO_022",
+        "question": "In what city and country was the first World Cup final held?",
+        "ground_truth": "Montevideo, Uruguay"
+    },
+    {
+        "question_id": "Q_SPO_023",
+        "question": "Which organization is responsible for selecting the host city and overseeing the planning of the Olympic Games?",
+        "ground_truth": "The International Olympic Committee is responsible for selecting the host city and overseeing the planning of the Olympic Games."
+    },
+    {
+        "question_id": "Q_SPO_024",
+        "question": "Which club in London maintains the official rules known as the Laws of Cricket?",
+        "ground_truth": "The Marylebone Cricket Club in London maintains the official rules known as the Laws of Cricket."
+    },
+    {
+        "question_id": "Q_SPO_025",
+        "question": "What is the international governing body for association football that oversees major tournaments like the World Cup?",
+        "ground_truth": "FIFA is the international governing body for association football and oversees major tournaments like the World Cup."
+    },
+    {
+        "question_id": "Q_SPO_026",
+        "question": "In what small village in the Peloponnesus were the ancient Olympic Games held?",
+        "ground_truth": "The ancient Olympic Games were held in a small village in the Peloponnesus called Olympia."
+    },
+    {
+        "question_id": "Q_SPO_027",
+        "question": "Which country won the inaugural FIFA World Cup tournament in 1930?",
+        "ground_truth": "Uruguay won the inaugural FIFA World Cup tournament in 1930."
+    },
+    {
+        "question_id": "Q_SPO_028",
+        "question": "Which Summer Olympics featured women competing in 27 sports over 137 events?",
+        "ground_truth": "The 2008 Summer Olympics in Beijing featured women competing in 27 sports over 137 events."
+    },
+    {
+        "question_id": "Q_SPO_029",
+        "question": "Who was the driving force behind the revival of the modern Olympic Games?",
+        "ground_truth": "Baron Pierre de Coubertin was the driving force behind the revival of the modern Olympic Games."
+    },
+    {
+        "question_id": "Q_SPO_030",
+        "question": "Under what original name was the International Cricket Council founded?",
+        "ground_truth": "The International Cricket Council was originally founded as the Imperial Cricket Conference."
+    },
+    {
+        "question_id": "Q_SPO_031",
+        "question": "Which FIFA president stated his support for a 48-team World Cup in 2026?",
+        "ground_truth": "Gianni Infantino stated his support for a 48-team World Cup in 2026."
+    },
+    {
+        "question_id": "Q_SPO_032",
+        "question": "In which Summer Games did women's football make its Olympic debut?",
+        "ground_truth": "Women's football made its Olympic debut in the 1996 Summer Games."
+    },
+    {
+        "question_id": "Q_SPO_033",
+        "question": "What is the most famous perpetual trophy contested in Test cricket between England and Australia?",
+        "ground_truth": "The Ashes is the most famous perpetual trophy contested in Test cricket between England and Australia."
+    },
+    {
+        "question_id": "Q_SPO_034",
+        "question": "How many yards in length does a standard cricket pitch measure?",
+        "ground_truth": "A standard cricket pitch measures exactly 22 yards in length."
+    },
+    {
+        "question_id": "Q_SPO_035",
+        "question": "How many viewers worldwide did the 2006 FIFA World Cup final attract?",
+        "ground_truth": "The 2006 FIFA World Cup final attracted over 700 million viewers worldwide."
+    },
+    {
+        "question_id": "Q_SPO_036",
+        "question": "How many National Olympic Committees does the International Olympic Committee currently recognize?",
+        "ground_truth": "The International Olympic Committee currently recognizes 206 National Olympic Committees."
+    },
+    {
+        "question_id": "Q_SPO_037",
+        "question": "To how many teams did the FIFA World Cup tournament expand starting in 1998?",
+        "ground_truth": "The FIFA World Cup tournament expanded to include 32 teams starting in the year 1998."
+    },
+    {
+        "question_id": "Q_SPO_038",
+        "question": "How many players does each cricket team field during a match?",
+        "ground_truth": "Each cricket team fields exactly eleven players during a match."
+    },
+    {
+        "question_id": "Q_SPO_039",
+        "question": "Approximately how many people globally watched the 2018 FIFA World Cup?",
+        "ground_truth": "The 2018 FIFA World Cup was watched by approximately 3.5 billion people globally."
+    },
+    {
+        "question_id": "Q_SPO_040",
+        "question": "How many sports, disciplines, and events does the Olympic Games programme consist of?",
+        "ground_truth": "The Olympic Games programme consists of 35 sports, 30 disciplines, and 408 events."
+    },
+    {
+        "question_id": "Q_SPO_041",
+        "question": "How many participating nations were featured in the first FIFA World Cup in 1930?",
+        "ground_truth": "The first FIFA World Cup in 1930 featured a total of 13 participating nations."
+    },
+    {
+        "question_id": "Q_SPO_042",
+        "question": "How many athletes competed at the 2020 Summer Olympics and 2022 Winter Olympics combined?",
+        "ground_truth": "Over 14,000 athletes competed at the 2020 Summer Olympics and 2022 Winter Olympics combined."
+    },
+    {
+        "question_id": "Q_SPO_043",
+        "question": "In what year did the first recorded Olympic Games take place?",
+        "ground_truth": "The first recorded Olympic Games took place in the year 776 BC."
+    },
+    {
+        "question_id": "Q_SPO_044",
+        "question": "In what year were the modern Summer Olympic Games first held in Athens, Greece?",
+        "ground_truth": "The modern Summer Olympic Games were first held in Athens, Greece, in 1896."
+    },
+    {
+        "question_id": "Q_SPO_045",
+        "question": "To what century does the earliest definite reference to cricket being played date back?",
+        "ground_truth": "The earliest definite reference to cricket being played dates back to the mid-16th century."
+    },
+    {
+        "question_id": "Q_SPO_046",
+        "question": "In what year did football make its official debut as an Olympic sport at the London Games?",
+        "ground_truth": "Football made its official debut as an Olympic sport at the London Games in 1908."
+    },
+    {
+        "question_id": "Q_SPO_047",
+        "question": "In what year was the first international football match played?",
+        "ground_truth": "The first international football match was played in 1872."
+    },
+    {
+        "question_id": "Q_SPO_048",
+        "question": "In what two years were the FIFA World Cup tournaments cancelled due to World War II?",
+        "ground_truth": "The FIFA World Cup tournaments were cancelled in 1942 and 1946 due to World War II."
+    },
+    {
+        "question_id": "Q_SPO_049",
+        "question": "In what year did cricket make its only Olympic appearance?",
+        "ground_truth": "Cricket made its only Olympic appearance in the year 1900."
+    },
+    {
+        "question_id": "Q_SPO_050",
+        "question": "In what year was the first Women's World Cup played in China?",
+        "ground_truth": "The first Women’s World Cup was played in China in 1991."
+    },
+    {
+        "question_id": "Q_SPO_051",
+        "question": "In what year did the IOC decide to make all professional athletes eligible for the Olympics?",
+        "ground_truth": "The IOC decided to make all professional athletes eligible for the Olympics starting in 1986."
+    },
+    {
+        "question_id": "Q_SPO_052",
+        "question": "In what city is the headquarters of the International Cricket Council located?",
+        "ground_truth": "The headquarters of the International Cricket Council is located in Dubai."
+    },
+    {
+        "question_id": "Q_SPO_053",
+        "question": "In what city and country was the inaugural FIFA World Cup final held?",
+        "ground_truth": "The inaugural FIFA World Cup final was held in Montevideo, Uruguay."
+    },
+    {
+        "question_id": "Q_SPO_054",
+        "question": "Who were the ancient Olympic Games restricted to, and what types of games did they not include?",
+        "ground_truth": "The ancient Olympic Games were restricted to freeborn Greeks and did not include team or ball games."
+    },
+    {
+        "question_id": "Q_SPO_055",
+        "question": "How many teams will the 2026 FIFA World Cup feature, and how much is it expected to contribute to global GDP?",
+        "ground_truth": "The 2026 FIFA World Cup will feature 48 teams and is expected to contribute $40 billion to global GDP."
+    },
+    {
+        "question_id": "Q_SPO_056",
+        "question": "In what format and at which Summer Olympics will cricket return to the Olympic Games?",
+        "ground_truth": "Cricket will return to the Olympic Games in the T20 format at the 2028 Summer Olympics in Los Angeles."
+    },
+    {
+        "question_id": "Q_SPO_057",
+        "question": "Where and when was the first international football match played, and which two teams competed?",
+        "ground_truth": "The first international football match was played in Glasgow in 1872 between Scotland and England."
+    },
+    {
+        "question_id": "Q_SPO_058",
+        "question": "How many member nations does the International Cricket Council have, and how many hold full membership?",
+        "ground_truth": "The International Cricket Council has 105 member nations, twelve of which hold full membership and can play Test cricket."
+    },
+    {
+        "question_id": "Q_SPO_059",
+        "question": "What are the three main elements that make up the Olympic Movement?",
+        "ground_truth": "The Olympic Movement consists of three main elements: the International Olympic Committee, National Olympic Committees, and International Federations."
+    },
+    {
+        "question_id": "Q_SPO_060",
+        "question": "What is the name of the perpetual trophy contested in Test cricket that originated from the rivalry between England and Australia in 1882?",
+        "ground_truth": "The Ashes is a perpetual trophy contested in Test cricket, originating from the rivalry between England and Australia in 1882."
+    },
+    {
+        "question_id": "Q_SPO_061",
+        "question": "In what year did FIFA open the Olympic football tournament to players aged under 23 years?",
+        "ground_truth": "In 1992, FIFA opened the Olympic football tournament to players aged under 23 years."
+    },
+    {
+        "question_id": "Q_SPO_062",
+        "question": "Which organization based in London maintains the Laws of Cricket?",
+        "ground_truth": "The Marylebone Cricket Club, which is based in London, is the organization that maintains the Laws of Cricket."
+    },
+    {
+        "question_id": "Q_SPO_063",
+        "question": "How long is a cricket pitch and how many players are on each team?",
+        "ground_truth": "A cricket pitch is 22 yards long, and each team consists of eleven players."
+    },
+    {
+        "question_id": "Q_SPO_064",
+        "question": "Approximately how many viewers in India alone watched the 2011 Cricket World Cup final?",
+        "ground_truth": "The 2011 Cricket World Cup final was watched by approximately 135 million viewers in India alone."
+    },
+    {
+        "question_id": "Q_SPO_065",
+        "question": "How many sports, disciplines, and events make up the Olympic Games programme?",
+        "ground_truth": "The Olympic Games programme consists of 35 sports, 30 disciplines, and 408 events."
+    },
+    {
+        "question_id": "Q_SPO_066",
+        "question": "How many nations were featured in the first FIFA World Cup in 1930, and how were they distributed across South America, Europe, and North America?",
+        "ground_truth": "The first FIFA World Cup in 1930 featured 13 nations, with seven from South America, four from Europe, and two from North America."
+    },
+    {
+        "question_id": "Q_SPO_067",
+        "question": "During what time period were the ancient Olympic Games held every four years?",
+        "ground_truth": "The ancient Olympic Games were held every four years from 776 BC until 393 AD."
+    },
+    {
+        "question_id": "Q_SPO_068",
+        "question": "From which Summer Olympics was football dropped due to disagreements between FIFA and the IOC over amateur player status?",
+        "ground_truth": "Football was dropped from the 1932 Summer Olympics due to disagreements between FIFA and the IOC over amateur player status."
+    },
+    {
+        "question_id": "Q_SPO_069",
+        "question": "In what years was the International Cricket Council founded, renamed, and given its current name?",
+        "ground_truth": "The International Cricket Council was founded in 1909, renamed in 1965, and took its current name in 1989."
+    },
+    {
+        "question_id": "Q_SPO_070",
+        "question": "In what year was the first women's Olympic football tournament held, and how many years after FIFA opened the men's tournament to under-23 players was this?",
+        "ground_truth": "The first women's Olympic football tournament was held in 1996, four years after FIFA opened the men's tournament to under-23 players."
+    },
+    {
+        "question_id": "Q_SPO_071",
+        "question": "Where are the headquarters of the International Cricket Council and the Marylebone Cricket Club located?",
+        "ground_truth": "The International Cricket Council is headquartered in Dubai, while the Marylebone Cricket Club is based in London."
+    },
+    {
+        "question_id": "Q_SPO_072",
+        "question": "In what year did the Olympics feature cricket, and in what format and at which Summer Olympics is it scheduled to return?",
+        "ground_truth": "The 1900 Olympics featured cricket, and the sport is scheduled to return in the T20 format at the 2028 Summer Olympics in Los Angeles."
+    },
+    {
+        "question_id": "Q_SPO_073",
+        "question": "From which Old French word does the term 'sport' originate?",
+        "ground_truth": "desport"
+    },
+    {
+        "question_id": "Q_SPO_074",
+        "question": "How many non-physical sports does SportAccord recognise?",
+        "ground_truth": "five"
+    },
+    {
+        "question_id": "Q_SPO_075",
+        "question": "Who scored the first goal in World Cup history?",
+        "ground_truth": "Lucien Laurent"
+    },
+    {
+        "question_id": "Q_SPO_076",
+        "question": "Which country won the 1920 Olympic football tournament?",
+        "ground_truth": "Belgium"
+    },
+    {
+        "question_id": "Q_SPO_077",
+        "question": "Which UEFA President intended to extend the World Cup to 40 teams?",
+        "ground_truth": "Michel Platini"
+    },
+    {
+        "question_id": "Q_SPO_078",
+        "question": "Which NFL team is associated with the 'Redskins Rule'?",
+        "ground_truth": "Washington Commanders"
+    },
+    {
+        "question_id": "Q_SPO_079",
+        "question": "Which country became FIFA's 100th member in 1961?",
+        "ground_truth": "Guinea"
+    },
+    {
+        "question_id": "Q_SPO_080",
+        "question": "What was the estimated worth of the global sporting industry in 2013?",
+        "ground_truth": "$620 billion"
+    },
+    {
+        "question_id": "Q_SPO_081",
+        "question": "To how many teams did the World Cup expand in 1982?",
+        "ground_truth": "24"
+    },
+    {
+        "question_id": "Q_SPO_082",
+        "question": "How many teams entered the 2002 FIFA World Cup qualification?",
+        "ground_truth": "200"
+    },
+    {
+        "question_id": "Q_SPO_083",
+        "question": "How many nations attempted to qualify for the 2006 FIFA World Cup?",
+        "ground_truth": "198"
+    },
+    {
+        "question_id": "Q_SPO_084",
+        "question": "How many countries entered qualification for the 2010 FIFA World Cup?",
+        "ground_truth": "204"
+    },
+    {
+        "question_id": "Q_SPO_085",
+        "question": "By what percentage can a home team win before an election increase the incumbent's vote share?",
+        "ground_truth": "1.5%"
+    },
+    {
+        "question_id": "Q_SPO_086",
+        "question": "In what year did the inaugural British Home Championship take place?",
+        "ground_truth": "1884"
+    },
+    {
+        "question_id": "Q_SPO_087",
+        "question": "In what year did Sir Thomas Lipton organise a tournament in Turin?",
+        "ground_truth": "1909"
+    },
+    {
+        "question_id": "Q_SPO_088",
+        "question": "In what year did FIFA recognise the Olympic tournament as a world championship for amateurs?",
+        "ground_truth": "1914"
+    },
+    {
+        "question_id": "Q_SPO_089",
+        "question": "In what year did the ICC World Test Championship begin?",
+        "ground_truth": "2019"
+    }
+]

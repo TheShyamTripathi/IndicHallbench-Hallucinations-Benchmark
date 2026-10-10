@@ -1,0 +1,452 @@
+[
+    {
+        "question_id": "Q_SPO_180",
+        "question": "What are the three main elements that make up the Olympic Movement and what are their respective roles?",
+        "ground_truth": "The Olympic Movement is made of three main elements: the International Olympic Committee, which oversees the Games; International Federations, which govern sports at an international level; and National Olympic Committees, which regulate the movement within each country."
+    },
+    {
+        "question_id": "Q_TEC_001",
+        "question": "What global system is described as a system of interconnected computer networks?",
+        "ground_truth": "Internet"
+    },
+    {
+        "question_id": "Q_TEC_002",
+        "question": "Who originated the concept of a programmable computer?",
+        "ground_truth": "Charles Babbage"
+    },
+    {
+        "question_id": "Q_TEC_003",
+        "question": "What global collection contains documents, images, multimedia, applications, and other resources?",
+        "ground_truth": "World Wide Web"
+    },
+    {
+        "question_id": "Q_TEC_004",
+        "question": "Who proposed the Turing test in 1950?",
+        "ground_truth": "Alan Turing"
+    },
+    {
+        "question_id": "Q_TEC_005",
+        "question": "Which element is critical for fabricating most electronic circuits?",
+        "ground_truth": "Silicon"
+    },
+    {
+        "question_id": "Q_TEC_006",
+        "question": "What is identified as the earliest known technology?",
+        "ground_truth": "Stone tool"
+    },
+    {
+        "question_id": "Q_TEC_007",
+        "question": "What is the Internet Protocol Suite commonly known as?",
+        "ground_truth": "TCP/IP"
+    },
+    {
+        "question_id": "Q_TEC_008",
+        "question": "Around what date is the early Nile boat associated with the earliest known use of wind power?",
+        "ground_truth": "7,000 BCE"
+    },
+    {
+        "question_id": "Q_TEC_009",
+        "question": "About when do the oldest artifacts depicting wheeled carts date?",
+        "ground_truth": "3,500 BCE"
+    },
+    {
+        "question_id": "Q_TEC_010",
+        "question": "How many sites were connected to the young ARPANET by the end of 1971?",
+        "ground_truth": "15 sites"
+    },
+    {
+        "question_id": "Q_TEC_011",
+        "question": "How many bits does a byte consist of in almost all modern computers?",
+        "ground_truth": "Eight bits"
+    },
+    {
+        "question_id": "Q_TEC_012",
+        "question": "When does the term technology date back to?",
+        "ground_truth": "Early 17th century"
+    },
+    {
+        "question_id": "Q_TEC_013",
+        "question": "What period is given for the Industrial Revolution?",
+        "ground_truth": "1760–1830s"
+    },
+    {
+        "question_id": "Q_TEC_014",
+        "question": "Where was the oldest-known wooden wheel as of 2024 found?",
+        "ground_truth": "Ljubljana Marsh"
+    },
+    {
+        "question_id": "Q_TEC_015",
+        "question": "What kinds of products can technology include, and what does technology apply conceptual knowledge toward?",
+        "ground_truth": "Technology products"
+    },
+    {
+        "question_id": "Q_TEC_016",
+        "question": "What kinds of networks does the Internet connect, and what protocol suite does it use for communication?",
+        "ground_truth": "Internet networks"
+    },
+    {
+        "question_id": "Q_TEC_017",
+        "question": "What do programs enable modern digital electronic computers to perform?",
+        "ground_truth": "Computer programs"
+    },
+    {
+        "question_id": "Q_TEC_018",
+        "question": "How can semiconductor conductivity be modified, and what can different doping levels form?",
+        "ground_truth": "Semiconductor doping"
+    },
+    {
+        "question_id": "Q_TEC_019",
+        "question": "What connects World Wide Web resources, and what system provides named references to them?",
+        "ground_truth": "Web resources"
+    },
+    {
+        "question_id": "Q_TEC_020",
+        "question": "What are three sources through which bias can be introduced into machine learning applications?",
+        "ground_truth": "Machine learning bias"
+    },
+    {
+        "question_id": "Q_TEC_021",
+        "question": "What institutions or activities did writing provide a basis for?",
+        "ground_truth": "Writing and knowledge"
+    },
+    {
+        "question_id": "Q_TEC_022",
+        "question": "What type of metal type did the printing press use, what mechanism was its pressing mechanism adapted from, and what did its invention increase?",
+        "ground_truth": "Printing press"
+    },
+    {
+        "question_id": "Q_TEC_023",
+        "question": "What network uses TCP/IP to communicate between networks and devices?",
+        "ground_truth": "The Internet"
+    },
+    {
+        "question_id": "Q_TEC_024",
+        "question": "Who conceptualized and invented the first mechanical computer in the early 19th century?",
+        "ground_truth": "Charles Babbage"
+    },
+    {
+        "question_id": "Q_TEC_025",
+        "question": "What AI-related test measures a machine's ability to simulate human conversation?",
+        "ground_truth": "Turing test"
+    },
+    {
+        "question_id": "Q_TEC_026",
+        "question": "Which entity is identified as one of the applications and services carried by the Internet?",
+        "ground_truth": "World Wide Web"
+    },
+    {
+        "question_id": "Q_TEC_027",
+        "question": "Which two elemental semiconductor materials are described as commercially important?",
+        "ground_truth": "Silicon and germanium"
+    },
+    {
+        "question_id": "Q_TEC_028",
+        "question": "Which semiconductor is identified as the second-most common after silicon?",
+        "ground_truth": "Gallium arsenide"
+    },
+    {
+        "question_id": "Q_TEC_029",
+        "question": "What technological-historical development is also called the First Agricultural Revolution?",
+        "ground_truth": "Neolithic Revolution"
+    },
+    {
+        "question_id": "Q_TEC_030",
+        "question": "Which revolution in Britain involved developments in textile machinery, mining, metallurgy, transport, and machine tools?",
+        "ground_truth": "Industrial Revolution"
+    },
+    {
+        "question_id": "Q_TEC_031",
+        "question": "What type of AI program simulates the knowledge and analytical skills of human experts?",
+        "ground_truth": "Expert systems"
+    },
+    {
+        "question_id": "Q_TEC_032",
+        "question": "What AI subfield uses generative models to create forms of digital data?",
+        "ground_truth": "Generative AI"
+    },
+    {
+        "question_id": "Q_TEC_033",
+        "question": "What feature logically interrelates resources on the World Wide Web?",
+        "ground_truth": "Hyperlinks"
+    },
+    {
+        "question_id": "Q_TEC_034",
+        "question": "What protocol is identified as the main access protocol of the World Wide Web?",
+        "ground_truth": "HTTP"
+    },
+    {
+        "question_id": "Q_TEC_035",
+        "question": "In what year was the Internet Protocol Suite standardized?",
+        "ground_truth": "1982"
+    },
+    {
+        "question_id": "Q_TEC_036",
+        "question": "On what date were the first ARPANET nodes interconnected?",
+        "ground_truth": "29 October 1969"
+    },
+    {
+        "question_id": "Q_TEC_037",
+        "question": "At what data rate did NSFNet initially provide access to U.S. supercomputer sites?",
+        "ground_truth": "56 kbit/s"
+    },
+    {
+        "question_id": "Q_TEC_038",
+        "question": "How old is the oldest-known wooden wheel found in the Ljubljana Marsh?",
+        "ground_truth": "5,100–5,350 years"
+    },
+    {
+        "question_id": "Q_TEC_039",
+        "question": "How long ago do the earliest stone tools described in the Technology article date?",
+        "ground_truth": "2 million years"
+    },
+    {
+        "question_id": "Q_TEC_040",
+        "question": "About how long ago has archaeological evidence of hearths been dated?",
+        "ground_truth": "790,000 years"
+    },
+    {
+        "question_id": "Q_TEC_041",
+        "question": "How many different numbers can a byte represent?",
+        "ground_truth": "256 numbers"
+    },
+    {
+        "question_id": "Q_TEC_042",
+        "question": "What period is given for the development of the printing press?",
+        "ground_truth": "1450–1455 AD"
+    },
+    {
+        "question_id": "Q_TEC_043",
+        "question": "When did the Second Industrial Revolution begin, and until what major event did it last?",
+        "ground_truth": "1860s–World War I"
+    },
+    {
+        "question_id": "Q_TEC_044",
+        "question": "When were silicon wafers first introduced?",
+        "ground_truth": "1940s"
+    },
+    {
+        "question_id": "Q_TEC_045",
+        "question": "Which two locations contained the first interconnected ARPANET nodes?",
+        "ground_truth": "UCLA and SRI"
+    },
+    {
+        "question_id": "Q_TEC_046",
+        "question": "Which regions and countries received NSFNet expansion into academic and research organizations during 1988–89?",
+        "ground_truth": "Europe, Australia, New Zealand, Japan"
+    },
+    {
+        "question_id": "Q_TEC_047",
+        "question": "How can technology affect economic development and human prosperity, and what negative effects can it have?",
+        "ground_truth": "Technology impacts"
+    },
+    {
+        "question_id": "Q_TEC_048",
+        "question": "What did the invention of the wheel enable in terms of travel and machines?",
+        "ground_truth": "Wheel development"
+    },
+    {
+        "question_id": "Q_TEC_049",
+        "question": "How did agriculture and sedentism affect population size, child-rearing, and labor specialization during the Neolithic period?",
+        "ground_truth": "Neolithic social change"
+    },
+    {
+        "question_id": "Q_TEC_050",
+        "question": "What drove the British Industrial Revolution, and which technological areas did it involve?",
+        "ground_truth": "British Industrial Revolution"
+    },
+    {
+        "question_id": "Q_TEC_051",
+        "question": "How did ARPANET develop from its initial network arrangement to its number of connected sites by the end of 1971?",
+        "ground_truth": "ARPANET development"
+    },
+    {
+        "question_id": "Q_TEC_052",
+        "question": "How are World Wide Web resources interconnected, and what role do hyperlinks and URIs play?",
+        "ground_truth": "Web architecture"
+    },
+    {
+        "question_id": "Q_TEC_053",
+        "question": "How does semiconductor conductivity compare with conductors and insulators, and how can doping affect it?",
+        "ground_truth": "Semiconductor conductivity"
+    },
+    {
+        "question_id": "Q_TEC_054",
+        "question": "How do Group III and Group V elements affect doped silicon?",
+        "ground_truth": "Silicon doping"
+    },
+    {
+        "question_id": "Q_TEC_055",
+        "question": "How do generative AI models learn and what can they generate in response to input?",
+        "ground_truth": "Generative model operation"
+    },
+    {
+        "question_id": "Q_TEC_056",
+        "question": "What computing hardware and software developments supported large-scale machine-learning models in the late 2010s?",
+        "ground_truth": "AI computing"
+    },
+    {
+        "question_id": "Q_TEC_057",
+        "question": "Why could transistorized computers contain many binary logic circuits in relatively compact spaces?",
+        "ground_truth": "Transistor advantages"
+    },
+    {
+        "question_id": "Q_TEC_058",
+        "question": "How are binary numbers stored in modern computer memory, and how many different numbers can one byte represent?",
+        "ground_truth": "Computer binary storage"
+    },
+    {
+        "question_id": "Q_TEC_059",
+        "question": "What protocol suite does the Internet use for communication between networks and devices, and what is it commonly abbreviated as?",
+        "ground_truth": "TCP/IP"
+    },
+    {
+        "question_id": "Q_TEC_060",
+        "question": "Who originated the concept of a programmable computer and is described as the father of the computer?",
+        "ground_truth": "Charles Babbage"
+    },
+    {
+        "question_id": "Q_TEC_061",
+        "question": "Who proposed the Turing test, and what capability does the test measure?",
+        "ground_truth": "Turing test"
+    },
+    {
+        "question_id": "Q_TEC_062",
+        "question": "Which semiconductor material is critical for fabricating most electronic circuits, and what semiconductor is identified as the second-most common after it?",
+        "ground_truth": "Silicon"
+    },
+    {
+        "question_id": "Q_TEC_063",
+        "question": "How many sites were connected to ARPANET by the end of 1971, following its initial two-node connection?",
+        "ground_truth": "15 sites"
+    },
+    {
+        "question_id": "Q_TEC_064",
+        "question": "How many bits are in a byte, and how many different numbers can a byte represent?",
+        "ground_truth": "256 numbers"
+    },
+    {
+        "question_id": "Q_TEC_065",
+        "question": "What period is given for the Industrial Revolution, and what were several of its major technological developments?",
+        "ground_truth": "1760–1830s"
+    },
+    {
+        "question_id": "Q_TEC_066",
+        "question": "How did the meaning and terminology associated with technology develop from the early 17th century through the 20th century?",
+        "ground_truth": "Technology's terminology"
+    },
+    {
+        "question_id": "Q_TEC_067",
+        "question": "Which locations contained the initial ARPANET connection and the subsequent third and fourth sites?",
+        "ground_truth": "UCLA and Stanford Research Institute"
+    },
+    {
+        "question_id": "Q_TEC_068",
+        "question": "What sequence of early technological developments is described from stone tools through fire use and the wheel, and what did the wheel enable?",
+        "ground_truth": "Early technological development"
+    },
+    {
+        "question_id": "Q_TEC_069",
+        "question": "How did writing affect the spread of cultural knowledge and the development of knowledge-related institutions and activities?",
+        "ground_truth": "Writing and knowledge"
+    },
+    {
+        "question_id": "Q_TEC_070",
+        "question": "What types of resources does the World Wide Web contain, how are they interconnected, and what roles do URIs and HTTP have?",
+        "ground_truth": "World Wide Web architecture"
+    },
+    {
+        "question_id": "Q_TEC_071",
+        "question": "How does semiconductor conductivity compare with conductors and insulators, and how do Group III and Group V dopants affect semiconductor material?",
+        "ground_truth": "Semiconductor doping"
+    },
+    {
+        "question_id": "Q_TEC_072",
+        "question": "What are generative AI models, how do they learn, and what types of digital data can they generate?",
+        "ground_truth": "Generative AI"
+    },
+    {
+        "question_id": "Q_TEC_073",
+        "question": "What is the Internet Protocol Suite commonly known as?",
+        "ground_truth": "TCP/IP"
+    },
+    {
+        "question_id": "Q_TEC_074",
+        "question": "What uses hyperlinks to connect resources on the Internet?",
+        "ground_truth": "World Wide Web"
+    },
+    {
+        "question_id": "Q_TEC_075",
+        "question": "What type of AI programs simulate the knowledge and analytical skills of human experts?",
+        "ground_truth": "Expert systems"
+    },
+    {
+        "question_id": "Q_TEC_076",
+        "question": "Which semiconductor is identified as the second-most common after silicon?",
+        "ground_truth": "Gallium arsenide"
+    },
+    {
+        "question_id": "Q_TEC_077",
+        "question": "What is another name for the First Agricultural Revolution?",
+        "ground_truth": "Neolithic Revolution"
+    },
+    {
+        "question_id": "Q_TEC_078",
+        "question": "What is identified as the earliest known technology?",
+        "ground_truth": "Stone tool"
+    },
+    {
+        "question_id": "Q_TEC_079",
+        "question": "Who originated the concept of a programmable computer?",
+        "ground_truth": "Charles Babbage"
+    },
+    {
+        "question_id": "Q_TEC_080",
+        "question": "On what date were the first ARPANET nodes interconnected?",
+        "ground_truth": "29 October 1969"
+    },
+    {
+        "question_id": "Q_TEC_081",
+        "question": "How many sites were connected to ARPANET by the end of 1971?",
+        "ground_truth": "15 sites"
+    },
+    {
+        "question_id": "Q_TEC_082",
+        "question": "How many bits does a byte consist of?",
+        "ground_truth": "Eight bits"
+    },
+    {
+        "question_id": "Q_TEC_083",
+        "question": "How many different numbers can a byte represent?",
+        "ground_truth": "256 numbers"
+    },
+    {
+        "question_id": "Q_TEC_084",
+        "question": "When does the term technology date back to?",
+        "ground_truth": "Early 17th century"
+    },
+    {
+        "question_id": "Q_TEC_085",
+        "question": "What period is associated with the printing press in the history of technology timeline?",
+        "ground_truth": "1450–1455 AD"
+    },
+    {
+        "question_id": "Q_TEC_086",
+        "question": "Where was the oldest-known wooden wheel found?",
+        "ground_truth": "Ljubljana Marsh"
+    },
+    {
+        "question_id": "Q_TEC_087",
+        "question": "What tangible and intangible products can technology include?",
+        "ground_truth": "Technology products"
+    },
+    {
+        "question_id": "Q_TEC_088",
+        "question": "What types of networks can the Internet include, and what enables communication between them?",
+        "ground_truth": "Internet networks"
+    },
+    {
+        "question_id": "Q_TEC_089",
+        "question": "What enables modern computers to perform arithmetic, logical, and other tasks?",
+        "ground_truth": "Computer programs"
+    }
+]

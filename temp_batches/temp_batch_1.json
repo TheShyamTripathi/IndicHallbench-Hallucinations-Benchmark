@@ -1,0 +1,452 @@
+[
+    {
+        "question_id": "Q_CUL_001",
+        "question": "Who coined the term Kulturbrille, or 'culture glasses'?",
+        "ground_truth": "Franz Boas"
+    },
+    {
+        "question_id": "Q_CUL_002",
+        "question": "Which ancient Roman orator used the term on which the modern word 'culture' is based?",
+        "ground_truth": "Cicero"
+    },
+    {
+        "question_id": "Q_CUL_003",
+        "question": "Which organization administers the international treaty that gives World Heritage Sites their legal protection?",
+        "ground_truth": "UNESCO"
+    },
+    {
+        "question_id": "Q_CUL_004",
+        "question": "Who founded the Centre for Contemporary Cultural Studies?",
+        "ground_truth": "Richard Hoggart"
+    },
+    {
+        "question_id": "Q_CUL_005",
+        "question": "Who argued for 'the psychic unity of mankind'?",
+        "ground_truth": "Adolf Bastian"
+    },
+    {
+        "question_id": "Q_CUL_006",
+        "question": "Which temple, donated by Egypt, was moved to the Metropolitan Museum of Art in New York City?",
+        "ground_truth": "Temple of Dendur"
+    },
+    {
+        "question_id": "Q_CUL_007",
+        "question": "Which English poet and essayist contrasted 'culture' with anarchy?",
+        "ground_truth": "Matthew Arnold"
+    },
+    {
+        "question_id": "Q_CUL_008",
+        "question": "How many selection criteria exist for the World Heritage List, at least one of which a site must meet?",
+        "ground_truth": "Ten"
+    },
+    {
+        "question_id": "Q_CUL_009",
+        "question": "On what date did the General Conference of UNESCO adopt the Convention Concerning the Protection of the World Cultural and Natural Heritage?",
+        "ground_truth": "16 November 1972"
+    },
+    {
+        "question_id": "Q_CUL_010",
+        "question": "In which month and year was Liverpool's World Heritage status revoked?",
+        "ground_truth": "July 2021"
+    },
+    {
+        "question_id": "Q_CUL_011",
+        "question": "In which year did the Director-General of UNESCO launch the International Campaign to Save the Monuments of Nubia?",
+        "ground_truth": "1960"
+    },
+    {
+        "question_id": "Q_CUL_012",
+        "question": "Where did cultural sociology first emerge?",
+        "ground_truth": "Weimar Germany"
+    },
+    {
+        "question_id": "Q_CUL_013",
+        "question": "In which country is the Arabian Oryx Sanctuary, which was delisted in 2007, located?",
+        "ground_truth": "Oman"
+    },
+    {
+        "question_id": "Q_CUL_014",
+        "question": "In which country is the Wieliczka Salt Mine, located near Kraków, found?",
+        "ground_truth": "Poland"
+    },
+    {
+        "question_id": "Q_CUL_015",
+        "question": "In which country is Quito, one of the two entire cities declared World Heritage Sites in 1978, located?",
+        "ground_truth": "Ecuador"
+    },
+    {
+        "question_id": "Q_CUL_016",
+        "question": "Which expressive forms are listed among the cultural universals found in all human societies?",
+        "ground_truth": "Art, music, dance, ritual, religion"
+    },
+    {
+        "question_id": "Q_CUL_017",
+        "question": "Which technologies are listed among the cultural universals found in all human societies?",
+        "ground_truth": "Tool usage, cooking, shelter, clothing"
+    },
+    {
+        "question_id": "Q_CUL_018",
+        "question": "Which physical expressions of culture does the concept of material culture cover?",
+        "ground_truth": "Technology, architecture, and art"
+    },
+    {
+        "question_id": "Q_CUL_019",
+        "question": "Until 2004, how many sets of selection criteria existed for cultural heritage and for natural heritage respectively?",
+        "ground_truth": "Six cultural, four natural"
+    },
+    {
+        "question_id": "Q_CUL_020",
+        "question": "In sociology, what are the two types of culture?",
+        "ground_truth": "Non-material and material culture"
+    },
+    {
+        "question_id": "Q_CUL_021",
+        "question": "Into which two main groups do Petrakis and Kostis divide cultural background variables?",
+        "ground_truth": "Efficiency orientation, social orientation"
+    },
+    {
+        "question_id": "Q_CUL_022",
+        "question": "Into which three types are World Heritage Sites broken down in the regional breakdown table?",
+        "ground_truth": "Cultural, natural, mixed"
+    },
+    {
+        "question_id": "Q_CUL_023",
+        "question": "Which anthropologist described culture as 'that complex whole which includes knowledge, belief, art, morals, law, custom and any other capabilities and habits acquired by man as a member of society'?",
+        "ground_truth": "E. B. Tylor described culture as that complex whole which includes knowledge, belief, art, morals, law, custom and other capabilities and habits acquired by man as a member of society."
+    },
+    {
+        "question_id": "Q_CUL_024",
+        "question": "Which philosopher urged 'Sapere Aude' ('Dare to be wise!') against intellectual cowardice?",
+        "ground_truth": "Immanuel Kant urged 'Sapere Aude' ('Dare to be wise!') against intellectual cowardice."
+    },
+    {
+        "question_id": "Q_CUL_025",
+        "question": "Which German scholar, in reaction to Kant, argued that human creativity is as important as human rationality?",
+        "ground_truth": "Johann Gottfried Herder argued that human creativity, which takes unpredictable and highly diverse forms, is as important as human rationality."
+    },
+    {
+        "question_id": "Q_CUL_026",
+        "question": "Which anthropologist, trained in Adolf Bastian's tradition, brought it with him when he left Germany for the United States?",
+        "ground_truth": "Franz Boas brought Bastian's tradition with him when he left Germany for the United States."
+    },
+    {
+        "question_id": "Q_CUL_027",
+        "question": "Which Prussian linguist and philosopher called for an anthropology that would synthesize the interests of Kant and Herder?",
+        "ground_truth": "Wilhelm von Humboldt called for an anthropology that would synthesize the interests of Kant and Herder."
+    },
+    {
+        "question_id": "Q_CUL_028",
+        "question": "Which sociologist saw culture as 'the cultivation of individuals through the agency of external forms which have been objectified in the course of history'?",
+        "ground_truth": "Georg Simmel saw culture as the cultivation of individuals through the agency of external forms which have been objectified in the course of history."
+    },
+    {
+        "question_id": "Q_CUL_029",
+        "question": "Which expert, quoted in the Culture article, criticized the notion that an undeveloped brain is the main cause of teenagers' turmoil?",
+        "ground_truth": "Robert Epstein criticized the notion that an undeveloped brain is the main cause of teenagers' turmoil."
+    },
+    {
+        "question_id": "Q_CUL_030",
+        "question": "Who is named as the President of Blue Shield International?",
+        "ground_truth": "Karl von Habsburg is the President of Blue Shield International."
+    },
+    {
+        "question_id": "Q_CUL_031",
+        "question": "Which dam's future reservoir would inundate a large stretch of the Nile valley containing cultural treasures of ancient Egypt and ancient Nubia?",
+        "ground_truth": "The Aswan High Dam's reservoir would inundate a large stretch of the Nile valley containing cultural treasures of ancient Egypt and ancient Nubia."
+    },
+    {
+        "question_id": "Q_CUL_032",
+        "question": "Which UNESCO partner organization, named in the Culture article, helps coordinate international protection and local implementation of cultural heritage protection?",
+        "ground_truth": "Blue Shield International, a partner organization of UNESCO, coordinates international protection and local implementation of cultural heritage protection."
+    },
+    {
+        "question_id": "Q_CUL_033",
+        "question": "Which anthropologist said that World Heritage recognition often ignores contemporary local usage of certain sites?",
+        "ground_truth": "Jasper Chalcraft said that World Heritage recognition often ignores contemporary local usage of certain sites."
+    },
+    {
+        "question_id": "Q_CUL_034",
+        "question": "How many states parties compose the World Heritage Committee, and who elects them?",
+        "ground_truth": "The World Heritage Committee is composed of 21 states parties elected by the United Nations General Assembly."
+    },
+    {
+        "question_id": "Q_CUL_035",
+        "question": "How many ways in which cultural change can be brought about did Raimon Panikkar identify?",
+        "ground_truth": "Raimon Panikkar identified 29 ways in which cultural change can be brought about."
+    },
+    {
+        "question_id": "Q_CUL_036",
+        "question": "In which year did the anthropologist Edward Tylor propose a theory of the evolution of religion?",
+        "ground_truth": "Edward Tylor proposed his theory of the evolution of religion in 1870."
+    },
+    {
+        "question_id": "Q_CUL_037",
+        "question": "On what date did the World Heritage Convention come into force?",
+        "ground_truth": "The World Heritage Convention came into force on 17 December 1975."
+    },
+    {
+        "question_id": "Q_CUL_038",
+        "question": "In which year did the International Campaign to Save the Monuments of Nubia end?",
+        "ground_truth": "The campaign to save the monuments of Nubia ended in 1980."
+    },
+    {
+        "question_id": "Q_CUL_039",
+        "question": "In which year was the Dresden Elbe Valley removed from the World Heritage List?",
+        "ground_truth": "The Dresden Elbe Valley was removed from the World Heritage List in 2009."
+    },
+    {
+        "question_id": "Q_CUL_040",
+        "question": "In which year did the government of Egypt decide to build the new Aswan High Dam?",
+        "ground_truth": "The government of Egypt decided to build the new Aswan High Dam in 1954."
+    },
+    {
+        "question_id": "Q_CUL_041",
+        "question": "To which park in Madrid was the Temple of Debod moved?",
+        "ground_truth": "The Temple of Debod was moved to the Parque del Oeste in Madrid."
+    },
+    {
+        "question_id": "Q_CUL_042",
+        "question": "In which country is the Dresden Elbe Valley, a delisted World Heritage Site, located?",
+        "ground_truth": "The Dresden Elbe Valley is located in Germany."
+    },
+    {
+        "question_id": "Q_CUL_043",
+        "question": "In which country is Angkor, whose restoration UNESCO counts among its success stories, located?",
+        "ground_truth": "Angkor is located in Cambodia."
+    },
+    {
+        "question_id": "Q_CUL_044",
+        "question": "In which country are the ruins of Mohenjo-daro, which were the subject of a safeguarding campaign, located?",
+        "ground_truth": "The ruins of Mohenjo-daro are located in Pakistan."
+    },
+    {
+        "question_id": "Q_CUL_045",
+        "question": "In which country is the Ngorongoro Conservation Area, whose restoration UNESCO counts among its success stories, located?",
+        "ground_truth": "The Ngorongoro Conservation Area is located in Tanzania."
+    },
+    {
+        "question_id": "Q_CUL_046",
+        "question": "In which country is the rock art under World Heritage protection at the Tadrart Acacus located?",
+        "ground_truth": "The Tadrart Acacus rock art is located in Libya."
+    },
+    {
+        "question_id": "Q_CUL_047",
+        "question": "To which museum, in which city, was the Temple of Taffeh moved?",
+        "ground_truth": "The Temple of Taffeh was moved to the Rijksmuseum van Oudheden in Leiden."
+    },
+    {
+        "question_id": "Q_CUL_048",
+        "question": "How can culture be defined in the sociological field?",
+        "ground_truth": "Culture is the ways of thinking, the ways of acting, and the material objects that together shape a people's way of life."
+    },
+    {
+        "question_id": "Q_CUL_049",
+        "question": "What does non-material culture include?",
+        "ground_truth": "Non-material culture includes values, belief systems, rules, norms, morals, language, organizations, and institutions."
+    },
+    {
+        "question_id": "Q_CUL_050",
+        "question": "Which immaterial aspects of culture comprise the intangible cultural heritage of a society?",
+        "ground_truth": "Intangible cultural heritage comprises social organization, mythology, philosophy, literature (written and oral), and science."
+    },
+    {
+        "question_id": "Q_CUL_051",
+        "question": "Which problems may threaten a site's World Heritage characteristics and lead to it being added to the List of World Heritage in Danger?",
+        "ground_truth": "Threats may include armed conflict and war, natural disasters, pollution, poaching, and uncontrolled urbanisation or human development."
+    },
+    {
+        "question_id": "Q_CUL_052",
+        "question": "Into which five geographic regions has the World Heritage Committee divided the world?",
+        "ground_truth": "The five regions are Africa, Arab states, Asia and the Pacific, Europe and North America, and Latin America and the Caribbean."
+    },
+    {
+        "question_id": "Q_CUL_053",
+        "question": "Through which two processes may cultural ideas transfer from one society to another?",
+        "ground_truth": "Cultural ideas transfer between societies through diffusion or acculturation."
+    },
+    {
+        "question_id": "Q_CUL_054",
+        "question": "How do 'stimulus diffusion' and 'direct borrowing' differ in the context of cultural diffusion?",
+        "ground_truth": "Stimulus diffusion is the sharing of ideas, while direct borrowing is technological or tangible diffusion from one culture to another."
+    },
+    {
+        "question_id": "Q_CUL_055",
+        "question": "Which variables represent the 'efficiency orientation' of societies in the first group of cultural background variables?",
+        "ground_truth": "The efficiency orientation variables are performance orientation, future orientation, assertiveness, power distance, and uncertainty avoidance."
+    },
+    {
+        "question_id": "Q_CUL_056",
+        "question": "Which variables represent the 'social orientation' of societies in the second group of cultural background variables?",
+        "ground_truth": "The social orientation variables are gender egalitarianism, institutional collectivism, in-group collectivism, and human orientation."
+    },
+    {
+        "question_id": "Q_CUL_057",
+        "question": "What did the governments of Egypt and Sudan ask UNESCO to do in 1959?",
+        "ground_truth": "In 1959, Egypt and Sudan asked UNESCO to help protect and rescue endangered monuments and sites."
+    },
+    {
+        "question_id": "Q_CUL_058",
+        "question": "Into which three possibilities, or a mixture of them, do contemporary definitions of culture fall?",
+        "ground_truth": "Culture is defined as a general process of intellectual, spiritual, and aesthetic development, a particular way of life, or the works and practices of intellectual and especially artistic activity."
+    },
+    {
+        "question_id": "Q_CUL_059",
+        "question": "Which schools of philosophy have argued that culture is often used politically as a tool of the elites to manipulate the proletariat?",
+        "ground_truth": "Marxism and critical theory"
+    },
+    {
+        "question_id": "Q_CUL_060",
+        "question": "Which colleagues of Stuart Hall helped create an international intellectual movement with him from the 1970s onward?",
+        "ground_truth": "Paul Willis, Dick Hebdige, Tony Jefferson, and Angela McRobbie"
+    },
+    {
+        "question_id": "Q_CUL_061",
+        "question": "Which two temple complexes were the most famous ones salvaged and relocated to higher ground during the Nubia campaign?",
+        "ground_truth": "Abu Simbel and Philae"
+    },
+    {
+        "question_id": "Q_CUL_062",
+        "question": "Which philosophers did other Europeans follow in contrasting 'culture' with 'the state of nature'?",
+        "ground_truth": "Thomas Hobbes and Jean-Jacques Rousseau"
+    },
+    {
+        "question_id": "Q_CUL_063",
+        "question": "What was the total cost of the Nubia safeguarding project, and how much of it was collected from how many countries?",
+        "ground_truth": "Total cost: US$80 million; about $40 million collected from 50 countries"
+    },
+    {
+        "question_id": "Q_CUL_064",
+        "question": "In which years did a White House conference call for a 'World Heritage Trust', did the IUCN develop similar proposals, and were those proposals presented in Stockholm?",
+        "ground_truth": "White House conference: 1965; IUCN proposals developed: 1968; presented in Stockholm: 1972"
+    },
+    {
+        "question_id": "Q_CUL_065",
+        "question": "What were the lifespans of Immanuel Kant and Johann Gottfried Herder?",
+        "ground_truth": "Kant: 1724–1804; Herder: 1744–1803"
+    },
+    {
+        "question_id": "Q_CUL_066",
+        "question": "In which countries is the World Heritage Site 'The Architectural Work of Le Corbusier' located?",
+        "ground_truth": "Argentina, Belgium, France, Germany, India, Japan, and Switzerland"
+    },
+    {
+        "question_id": "Q_CUL_067",
+        "question": "In which two countries are the Uvs Nuur Basin and Landscapes of Dauria World Heritage Sites located?",
+        "ground_truth": "Mongolia and Russia"
+    },
+    {
+        "question_id": "Q_CUL_068",
+        "question": "In which countries are Casco Viejo and Hội An, two listed locations that have struggled to balance tourism benefits with preserving local culture, located?",
+        "ground_truth": "Casco Viejo: Panama; Hội An: Vietnam"
+    },
+    {
+        "question_id": "Q_CUL_069",
+        "question": "Into which four fields is American anthropology organized?",
+        "ground_truth": "Biological anthropology, linguistic anthropology, cultural anthropology, and archaeology (in the United States and Canada)"
+    },
+    {
+        "question_id": "Q_CUL_070",
+        "question": "After reviewing the state of conservation of a site on the danger list each year, what actions may the World Heritage Committee take?",
+        "ground_truth": "Request additional measures; delete the site from the danger list if threats have ceased; consider deletion from the World Heritage List entirely"
+    },
+    {
+        "question_id": "Q_CUL_071",
+        "question": "Which two conventions, named in the Culture article, deal with the protection of culture in armed conflict and the diversity of cultural expressions?",
+        "ground_truth": "The Hague Convention for the Protection of Cultural Property in the Event of Armed Conflict; the UNESCO Convention on the Protection and Promotion of the Diversity of Cultural Expressions"
+    },
+    {
+        "question_id": "Q_CUL_072",
+        "question": "What are the first steps a country must take to nominate a World Heritage Site, and which bodies evaluate the nomination?",
+        "ground_truth": "Step 1: Tentative List; Step 2: Nomination File; evaluated by the International Council on Monuments and Sites and the World Conservation Union"
+    },
+    {
+        "question_id": "Q_CUL_073",
+        "question": "Which ancient Roman orator used the term cultura animi, on which the modern word culture is based?",
+        "ground_truth": "Cicero"
+    },
+    {
+        "question_id": "Q_CUL_074",
+        "question": "Which anthropologist defined culture as a complex whole including knowledge, belief, art, morals, law, custom and other capabilities and habits acquired by man as a member of society?",
+        "ground_truth": "E. B. Tylor"
+    },
+    {
+        "question_id": "Q_CUL_075",
+        "question": "Which German American anthropologist coined the term Kulturbrille, or 'culture glasses'?",
+        "ground_truth": "Franz Boas"
+    },
+    {
+        "question_id": "Q_CUL_076",
+        "question": "Which organization administers the international treaty that gives World Heritage Sites legal protection?",
+        "ground_truth": "UNESCO"
+    },
+    {
+        "question_id": "Q_CUL_077",
+        "question": "Which English poet and essayist used the word culture to refer to an ideal of individual human refinement?",
+        "ground_truth": "Matthew Arnold"
+    },
+    {
+        "question_id": "Q_CUL_078",
+        "question": "Who founded the Centre for Contemporary Cultural Studies (CCCS) in 1964?",
+        "ground_truth": "Richard Hoggart"
+    },
+    {
+        "question_id": "Q_CUL_079",
+        "question": "Which Prussian linguist and philosopher called in 1795 for an anthropology that would synthesize the interests of Kant and Herder?",
+        "ground_truth": "Wilhelm von Humboldt"
+    },
+    {
+        "question_id": "Q_CUL_080",
+        "question": "How many ways in which cultural change can be brought about did Raimon Panikkar identify?",
+        "ground_truth": "29"
+    },
+    {
+        "question_id": "Q_CUL_081",
+        "question": "In what year did Adolf Bastian argue for 'the psychic unity of mankind'?",
+        "ground_truth": "1860"
+    },
+    {
+        "question_id": "Q_CUL_082",
+        "question": "On what date was the Convention Concerning the Protection of the World Cultural and Natural Heritage adopted by the General Conference of UNESCO?",
+        "ground_truth": "16 November 1972"
+    },
+    {
+        "question_id": "Q_CUL_083",
+        "question": "On what date did the World Heritage Convention come into force?",
+        "ground_truth": "17 December 1975"
+    },
+    {
+        "question_id": "Q_CUL_084",
+        "question": "In which city is the Metropolitan Museum of Art, where the Temple of Dendur, donated by Egypt, was moved?",
+        "ground_truth": "New York City"
+    },
+    {
+        "question_id": "Q_CUL_085",
+        "question": "In which city is the Parque del Oeste, where the Temple of Debod was moved?",
+        "ground_truth": "Madrid"
+    },
+    {
+        "question_id": "Q_CUL_086",
+        "question": "In which country is the Arabian Oryx Sanctuary, one of the three sites ever delisted from the World Heritage List?",
+        "ground_truth": "Oman"
+    },
+    {
+        "question_id": "Q_CUL_087",
+        "question": "In which country is the Wieliczka Salt Mine, which is located near Kraków?",
+        "ground_truth": "Poland"
+    },
+    {
+        "question_id": "Q_CUL_088",
+        "question": "What are the two types of culture in the sociological field?",
+        "ground_truth": "Non-material and material culture"
+    },
+    {
+        "question_id": "Q_CUL_089",
+        "question": "In which two years, respectively, was the Dresden Elbe Valley removed from the World Heritage List and Liverpool's World Heritage status revoked?",
+        "ground_truth": "2009 and 2021"
+    },
+    {
+        "question_id": "Q_CUL_090",
+        "question": "Which two governments requested UNESCO's assistance in 1959 to protect and rescue endangered monuments and sites?",
+        "ground_truth": "Egypt and Sudan"
+    }
+]

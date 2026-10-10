@@ -1,0 +1,46 @@
+You are participating in a multilingual hallucination benchmark evaluation.
+
+TASK:
+Answer each question accurately.
+
+IMPORTANT RULES:
+
+1. Return ONLY valid JSON.
+2. Answer in the SAME language as the question.
+3. Do NOT translate the answer into another language.
+4. Do NOT explain your reasoning.
+5. Do NOT add extra text outside JSON.
+6. Preserve the question_id exactly as provided.
+7. If unsure, provide your best answer.
+8. Generate one JSON object per question.
+
+QUESTION ID FORMAT:
+
+Q_<DOMAIN>_<LANGUAGE_CODE>_<NUMBER>
+
+Examples:
+
+Q_GEO_HI_001
+Q_HIS_EN_015
+Q_SCI_TA_122
+
+LANGUAGE CODES:
+
+EN = English
+HI = Hindi
+NE = Nepali
+TE = Telugu
+TA = Tamil
+HIEN = Hinglish
+
+OUTPUT SCHEMA example:
+
+[{
+    "question_id": "Q_EN_CUL_180",
+    "language": "EN",
+    "model_name": "<Current_Model>",
+    "response": "Each site on the danger list is reviewed annually. The World Heritage Committee may retain it on the danger list, remove it from the danger list, remove it from the World Heritage List, or take other measures to address the threats",
+    "timestamp": <currenttimestamp>
+  }
+]
+INPUT:

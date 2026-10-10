@@ -1,0 +1,452 @@
+[
+    {
+        "question_id": "Q_TEC_090",
+        "question": "How can semiconductor conductivity be modified, and what can different doping levels form?",
+        "ground_truth": "Semiconductor doping"
+    },
+    {
+        "question_id": "Q_TEC_091",
+        "question": "What connects World Wide Web resources, and what provides named references to them?",
+        "ground_truth": "Web resources"
+    },
+    {
+        "question_id": "Q_TEC_092",
+        "question": "What are three ways bias can be introduced into machine learning applications?",
+        "ground_truth": "Machine learning bias"
+    },
+    {
+        "question_id": "Q_TEC_093",
+        "question": "What areas did writing provide a basis for?",
+        "ground_truth": "Writing and knowledge"
+    },
+    {
+        "question_id": "Q_TEC_094",
+        "question": "What type of metal type did the printing press use, what was its pressing mechanism adapted from, and what did its invention increase?",
+        "ground_truth": "Printing press"
+    },
+    {
+        "question_id": "Q_TEC_095",
+        "question": "What global system of interconnected computer networks uses the Internet Protocol Suite for communication?",
+        "ground_truth": "Internet"
+    },
+    {
+        "question_id": "Q_TEC_096",
+        "question": "Who conceptualized and invented the first mechanical computer in the early 19th century?",
+        "ground_truth": "Charles Babbage"
+    },
+    {
+        "question_id": "Q_TEC_097",
+        "question": "Who proposed the Turing test in 1950?",
+        "ground_truth": "Alan Turing"
+    },
+    {
+        "question_id": "Q_TEC_098",
+        "question": "What collection contains documents, images, multimedia, applications, and other resources interconnected by hyperlinks?",
+        "ground_truth": "World Wide Web"
+    },
+    {
+        "question_id": "Q_TEC_099",
+        "question": "Which two elemental semiconductor materials are described as commercially important?",
+        "ground_truth": "Silicon and germanium"
+    },
+    {
+        "question_id": "Q_TEC_100",
+        "question": "What type of system simulates the knowledge and analytical skills of human experts?",
+        "ground_truth": "Expert systems"
+    },
+    {
+        "question_id": "Q_TEC_101",
+        "question": "What AI subfield uses generative models to create forms of digital data?",
+        "ground_truth": "Generative AI"
+    },
+    {
+        "question_id": "Q_TEC_102",
+        "question": "What is the main access protocol of the World Wide Web?",
+        "ground_truth": "HTTP"
+    },
+    {
+        "question_id": "Q_TEC_103",
+        "question": "What development is also known as the First Agricultural Revolution?",
+        "ground_truth": "Neolithic Revolution"
+    },
+    {
+        "question_id": "Q_TEC_104",
+        "question": "Which revolution in Britain involved textile machinery, mining, metallurgy, transport, and machine tools?",
+        "ground_truth": "Industrial Revolution"
+    },
+    {
+        "question_id": "Q_TEC_105",
+        "question": "Which semiconductor material is critical for fabricating most electronic circuits?",
+        "ground_truth": "Silicon"
+    },
+    {
+        "question_id": "Q_TEC_106",
+        "question": "In what year was the Internet Protocol Suite standardized?",
+        "ground_truth": "1982"
+    },
+    {
+        "question_id": "Q_TEC_107",
+        "question": "On what date were the first ARPANET nodes interconnected?",
+        "ground_truth": "29 October 1969"
+    },
+    {
+        "question_id": "Q_TEC_108",
+        "question": "At what data rate did NSFNet initially provide access to U.S. supercomputer sites?",
+        "ground_truth": "56 kbit/s"
+    },
+    {
+        "question_id": "Q_TEC_109",
+        "question": "How old is the oldest-known wooden wheel found in the Ljubljana Marsh?",
+        "ground_truth": "5,100–5,350 years"
+    },
+    {
+        "question_id": "Q_TEC_110",
+        "question": "How long ago do the earliest stone tools described in the Technology article date?",
+        "ground_truth": "2 million years"
+    },
+    {
+        "question_id": "Q_TEC_111",
+        "question": "About how long ago has archaeological evidence of hearths been dated?",
+        "ground_truth": "790,000 years"
+    },
+    {
+        "question_id": "Q_TEC_112",
+        "question": "How many different numbers can a byte represent?",
+        "ground_truth": "256 numbers"
+    },
+    {
+        "question_id": "Q_TEC_113",
+        "question": "What period is given for the Industrial Revolution?",
+        "ground_truth": "1760–1830s"
+    },
+    {
+        "question_id": "Q_TEC_114",
+        "question": "When did the Second Industrial Revolution begin and until when did it last?",
+        "ground_truth": "1860s–World War I"
+    },
+    {
+        "question_id": "Q_TEC_115",
+        "question": "When were silicon wafers first introduced?",
+        "ground_truth": "1940s"
+    },
+    {
+        "question_id": "Q_TEC_116",
+        "question": "What period is given for the printing press?",
+        "ground_truth": "1450–1455 AD"
+    },
+    {
+        "question_id": "Q_TEC_117",
+        "question": "Which two locations contained the first interconnected ARPANET nodes?",
+        "ground_truth": "UCLA and SRI"
+    },
+    {
+        "question_id": "Q_TEC_118",
+        "question": "Which regions and countries received NSFNet expansion during 1988–89?",
+        "ground_truth": "Europe, Australia, New Zealand, Japan"
+    },
+    {
+        "question_id": "Q_TEC_119",
+        "question": "How can technology affect economic development and human prosperity, and what negative effects can it have?",
+        "ground_truth": "Technology impacts"
+    },
+    {
+        "question_id": "Q_TEC_120",
+        "question": "What did the wheel enable in terms of travel and machine development?",
+        "ground_truth": "Wheel development"
+    },
+    {
+        "question_id": "Q_TEC_121",
+        "question": "How did agriculture and sedentism affect population, child-rearing, and labor specialization during the Neolithic period?",
+        "ground_truth": "Neolithic social change"
+    },
+    {
+        "question_id": "Q_TEC_122",
+        "question": "What drove the British Industrial Revolution, and which technological areas did it involve?",
+        "ground_truth": "British Industrial Revolution"
+    },
+    {
+        "question_id": "Q_TEC_123",
+        "question": "How did ARPANET develop from its initial resource-sharing network to its number of connected sites by the end of 1971?",
+        "ground_truth": "ARPANET development"
+    },
+    {
+        "question_id": "Q_TEC_124",
+        "question": "How are World Wide Web resources connected, and what roles do hyperlinks, URIs, and HTTP have?",
+        "ground_truth": "Web architecture"
+    },
+    {
+        "question_id": "Q_TEC_125",
+        "question": "How does semiconductor conductivity compare with conductors and insulators, and how can doping modify it?",
+        "ground_truth": "Semiconductor conductivity"
+    },
+    {
+        "question_id": "Q_TEC_126",
+        "question": "How do Group III and Group V elements affect doped silicon?",
+        "ground_truth": "Silicon doping"
+    },
+    {
+        "question_id": "Q_TEC_127",
+        "question": "How do generative AI models learn and what can they generate in response to input?",
+        "ground_truth": "Generative model operation"
+    },
+    {
+        "question_id": "Q_TEC_128",
+        "question": "What hardware and software developments supported large-scale machine-learning models in the late 2010s?",
+        "ground_truth": "AI computing"
+    },
+    {
+        "question_id": "Q_TEC_129",
+        "question": "Why could transistorized computers contain many binary logic circuits in relatively compact spaces?",
+        "ground_truth": "Transistor advantages"
+    },
+    {
+        "question_id": "Q_TEC_130",
+        "question": "How are binary numbers stored in modern computer memory, and how many different numbers can one byte represent?",
+        "ground_truth": "Computer binary storage"
+    },
+    {
+        "question_id": "Q_TEC_131",
+        "question": "Who proposed the Turing test, when was it proposed, and what capability does it measure?",
+        "ground_truth": "Turing test"
+    },
+    {
+        "question_id": "Q_TEC_132",
+        "question": "Which semiconductor is critical for fabricating most electronic circuits, and which semiconductor is second-most common after it?",
+        "ground_truth": "Silicon"
+    },
+    {
+        "question_id": "Q_TEC_133",
+        "question": "Who originated the concept of a programmable computer, and what mechanical computer did he conceptualize and invent?",
+        "ground_truth": "Charles Babbage"
+    },
+    {
+        "question_id": "Q_TEC_134",
+        "question": "What is the Internet Protocol Suite commonly called, and what does it enable?",
+        "ground_truth": "TCP/IP"
+    },
+    {
+        "question_id": "Q_TEC_135",
+        "question": "When were ARPANET's first nodes interconnected, and how many sites were connected by the end of 1971?",
+        "ground_truth": "29 October 1969"
+    },
+    {
+        "question_id": "Q_TEC_136",
+        "question": "How many bits does a byte contain, and how many different numbers can it represent?",
+        "ground_truth": "Eight bits"
+    },
+    {
+        "question_id": "Q_TEC_137",
+        "question": "What period is given for the Industrial Revolution, and what technological developments and energy source characterized it?",
+        "ground_truth": "1760–1830s"
+    },
+    {
+        "question_id": "Q_TEC_138",
+        "question": "How did the terminology and meaning of technology develop from the early 17th century through the 20th century?",
+        "ground_truth": "Early 17th century"
+    },
+    {
+        "question_id": "Q_TEC_139",
+        "question": "Which locations contained the initial ARPANET connection and its third and fourth sites?",
+        "ground_truth": "UCLA and Stanford Research Institute"
+    },
+    {
+        "question_id": "Q_TEC_140",
+        "question": "What sequence of early technological developments is described from stone tools through fire use and the wheel, and what did the wheel enable?",
+        "ground_truth": "Early technological development"
+    },
+    {
+        "question_id": "Q_TEC_141",
+        "question": "How did writing contribute to cultural knowledge, history, libraries, schools, and scientific research?",
+        "ground_truth": "Writing and knowledge"
+    },
+    {
+        "question_id": "Q_TEC_142",
+        "question": "What resources does the World Wide Web contain, how are they connected, and what roles do URIs and HTTP play?",
+        "ground_truth": "World Wide Web architecture"
+    },
+    {
+        "question_id": "Q_TEC_143",
+        "question": "How does semiconductor conductivity compare with conductors and insulators, and how do Group III and Group V elements affect silicon?",
+        "ground_truth": "Semiconductor doping"
+    },
+    {
+        "question_id": "Q_TEC_144",
+        "question": "How do generative AI models learn, what can they generate, and what kinds of outputs are identified?",
+        "ground_truth": "Generative AI"
+    },
+    {
+        "question_id": "Q_TEC_145",
+        "question": "What mechanical calculating machine was designed by Charles Babbage?",
+        "ground_truth": "Difference Engine"
+    },
+    {
+        "question_id": "Q_TEC_146",
+        "question": "What early electronic general-purpose digital computer was known as ENIAC?",
+        "ground_truth": "ENIAC"
+    },
+    {
+        "question_id": "Q_TEC_147",
+        "question": "What is the name of the early type of artificial neural network described in the fact?",
+        "ground_truth": "Perceptron"
+    },
+    {
+        "question_id": "Q_TEC_148",
+        "question": "How many bytes traditionally make up a kilobyte in binary-based computer terminology?",
+        "ground_truth": "1,024 bytes"
+    },
+    {
+        "question_id": "Q_TEC_149",
+        "question": "Approximately how many vacuum tubes did ENIAC contain?",
+        "ground_truth": "18,000 vacuum tubes"
+    },
+    {
+        "question_id": "Q_TEC_150",
+        "question": "In what year did the Dartmouth workshop associated with the founding of artificial intelligence take place?",
+        "ground_truth": "1956"
+    },
+    {
+        "question_id": "Q_TEC_151",
+        "question": "At what institution was the Dartmouth Summer Research Project on Artificial Intelligence held?",
+        "ground_truth": "Dartmouth College"
+    },
+    {
+        "question_id": "Q_TEC_152",
+        "question": "What were the main limitations of vacuum tubes in early electronic computers?",
+        "ground_truth": "Vacuum tube limitations"
+    },
+    {
+        "question_id": "Q_TEC_153",
+        "question": "What does the stored-program concept allow a computer to keep in memory, and how does this affect its ability to perform different tasks?",
+        "ground_truth": "Stored-program concept"
+    },
+    {
+        "question_id": "Q_TEC_154",
+        "question": "What approaches are included in artificial intelligence, and what kind of tasks do these approaches enable systems to perform?",
+        "ground_truth": "AI approaches"
+    },
+    {
+        "question_id": "Q_TEC_155",
+        "question": "How can impurities be controlled in a semiconductor, and what effect does this have on its electrical properties?",
+        "ground_truth": "Semiconductor engineering"
+    },
+    {
+        "question_id": "Q_TEC_156",
+        "question": "What proposed general-purpose mechanical computer was designed by Charles Babbage?",
+        "ground_truth": "Analytical Engine"
+    },
+    {
+        "question_id": "Q_TEC_157",
+        "question": "What was the name of the early stored-program electronic computer identified in the fact?",
+        "ground_truth": "Manchester Baby"
+    },
+    {
+        "question_id": "Q_TEC_158",
+        "question": "Who coined the term artificial intelligence?",
+        "ground_truth": "John McCarthy"
+    },
+    {
+        "question_id": "Q_TEC_159",
+        "question": "What mathematical model of computation is associated with Alan Turing?",
+        "ground_truth": "Turing machine"
+    },
+    {
+        "question_id": "Q_TEC_160",
+        "question": "What semiconductor device primarily permits current to flow in one direction?",
+        "ground_truth": "Diode"
+    },
+    {
+        "question_id": "Q_TEC_161",
+        "question": "In what year was the first transatlantic telephone cable completed?",
+        "ground_truth": "1956"
+    },
+    {
+        "question_id": "Q_TEC_162",
+        "question": "In what year was Sputnik 1 launched?",
+        "ground_truth": "1957"
+    },
+    {
+        "question_id": "Q_TEC_163",
+        "question": "Approximately how long did the Wright brothers' first successful powered flight last?",
+        "ground_truth": "12 seconds"
+    },
+    {
+        "question_id": "Q_TEC_164",
+        "question": "Approximately how far did the Wright brothers' first successful powered flight cover?",
+        "ground_truth": "120 feet"
+    },
+    {
+        "question_id": "Q_TEC_165",
+        "question": "In what year was the transistor invented?",
+        "ground_truth": "1947"
+    },
+    {
+        "question_id": "Q_TEC_166",
+        "question": "In what year was the first practical integrated circuit demonstrated?",
+        "ground_truth": "1958"
+    },
+    {
+        "question_id": "Q_TEC_167",
+        "question": "Near what location did the Wright brothers make their first successful powered flight?",
+        "ground_truth": "Kitty Hawk"
+    },
+    {
+        "question_id": "Q_TEC_168",
+        "question": "Why did transistors replace vacuum tubes in many electronic applications? What characteristics of transistors made them advantageous?",
+        "ground_truth": "Transistor advantages"
+    },
+    {
+        "question_id": "Q_TEC_169",
+        "question": "What are integrated circuits made to contain on a semiconductor substrate? How did this technology affect the size and integration of electronic systems?",
+        "ground_truth": "Integrated circuits"
+    },
+    {
+        "question_id": "Q_TEC_170",
+        "question": "How do machine learning systems learn patterns? Why is training data important to their behavior?",
+        "ground_truth": "Machine learning"
+    },
+    {
+        "question_id": "Q_TEC_171",
+        "question": "How is information stored in computer memory? What does a processor do with this stored information?",
+        "ground_truth": "Computer memory and processing"
+    },
+    {
+        "question_id": "Q_TEC_172",
+        "question": "What does the Domain Name System translate? How does this translation make Internet resources easier for users to identify?",
+        "ground_truth": "Domain Name System"
+    },
+    {
+        "question_id": "Q_TEC_173",
+        "question": "Who developed the World Wide Web, and which technologies described in the fact does it use? How do these technologies provide linked resources over the Internet?",
+        "ground_truth": "World Wide Web technologies"
+    },
+    {
+        "question_id": "Q_TEC_174",
+        "question": "What early programmable digital computer was developed by Konrad Zuse?",
+        "ground_truth": "Zuse Z3"
+    },
+    {
+        "question_id": "Q_TEC_175",
+        "question": "What early mathematical model of an artificial neuron was used in the development of neural-network theory?",
+        "ground_truth": "McCulloch–Pitts neuron"
+    },
+    {
+        "question_id": "Q_TEC_176",
+        "question": "How many possible address values are contained in the original IPv4 address space, according to the fact?",
+        "ground_truth": "4,294,967,296"
+    },
+    {
+        "question_id": "Q_TEC_177",
+        "question": "What period is generally associated with the first generation of electronic computers, and what principal electronic components characterized this generation?",
+        "ground_truth": "1940s–1950s"
+    },
+    {
+        "question_id": "Q_TEC_178",
+        "question": "What did the development of integrated circuits allow manufacturers to fabricate together on semiconductor material? How did this contribute to electronic-device development?",
+        "ground_truth": "Integrated-circuit miniaturization"
+    },
+    {
+        "question_id": "Q_TEC_179",
+        "question": "How does packet switching handle data during Internet communication? What happens to packets as they travel through interconnected networks?",
+        "ground_truth": "Packet switching"
+    }
+]

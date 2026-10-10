@@ -1,0 +1,452 @@
+[
+    {
+        "question_id": "Q_HIS_180",
+        "question": "What was the strategic objective of the Schlieffen Plan?",
+        "ground_truth": "The Schlieffen Plan planned to bypass France's frontier fortifications by an offensive through neutral Belgium to the north, sweep westward and then southward through northern France, capture Paris, and knock France out of the war within a few weeks."
+    },
+    {
+        "question_id": "Q_SCI_001",
+        "question": "Who is known as 'The Father of Medicine'?",
+        "ground_truth": "Hippocrates"
+    },
+    {
+        "question_id": "Q_SCI_002",
+        "question": "Which Greek astronomer was the first to propose a heliocentric model of the universe?",
+        "ground_truth": "Aristarchus of Samos"
+    },
+    {
+        "question_id": "Q_SCI_003",
+        "question": "Who became the first person to win two Nobel Prizes?",
+        "ground_truth": "Marie Curie"
+    },
+    {
+        "question_id": "Q_SCI_004",
+        "question": "Which scientist used Tycho Brahe's data to discover that planets have elliptical orbits?",
+        "ground_truth": "Johannes Kepler"
+    },
+    {
+        "question_id": "Q_SCI_005",
+        "question": "How many protons are in the nucleus of every carbon atom?",
+        "ground_truth": "6"
+    },
+    {
+        "question_id": "Q_SCI_006",
+        "question": "How many known particles of matter does the Standard Model account for?",
+        "ground_truth": "12"
+    },
+    {
+        "question_id": "Q_SCI_007",
+        "question": "How many particles does one mole contain exactly?",
+        "ground_truth": "6.02214076×10^23"
+    },
+    {
+        "question_id": "Q_SCI_008",
+        "question": "How many classical elements did Aristotle believe each had its own natural place?",
+        "ground_truth": "Four"
+    },
+    {
+        "question_id": "Q_SCI_009",
+        "question": "Approximately how many times greater is the mass of a nucleon than the mass of an electron?",
+        "ground_truth": "About 1,836 times"
+    },
+    {
+        "question_id": "Q_SCI_010",
+        "question": "About how many times larger is the radius of an atom than that of its nucleus?",
+        "ground_truth": "About 10,000 times"
+    },
+    {
+        "question_id": "Q_SCI_011",
+        "question": "To around how many cities in Europe had the movable type printing press spread?",
+        "ground_truth": "Around 270 cities"
+    },
+    {
+        "question_id": "Q_SCI_012",
+        "question": "In 1981, what was one estimate for the number of scientific and technical journals in publication?",
+        "ground_truth": "11,500"
+    },
+    {
+        "question_id": "Q_SCI_013",
+        "question": "In what year did William Whewell introduce the term scientist?",
+        "ground_truth": "1834"
+    },
+    {
+        "question_id": "Q_SCI_014",
+        "question": "In which city did the first university in Europe emerge?",
+        "ground_truth": "Bologna"
+    },
+    {
+        "question_id": "Q_SCI_015",
+        "question": "What particles make up the nucleus of an atom?",
+        "ground_truth": "Protons and neutrons"
+    },
+    {
+        "question_id": "Q_SCI_016",
+        "question": "What are the two main branches of natural science?",
+        "ground_truth": "Life science and physical science"
+    },
+    {
+        "question_id": "Q_SCI_017",
+        "question": "What are the three major branches into which modern science is commonly divided?",
+        "ground_truth": "Natural, social, and formal science"
+    },
+    {
+        "question_id": "Q_SCI_018",
+        "question": "Through which fundamental forces do matter particles interact in the Standard Model?",
+        "ground_truth": "Strong, weak, and electromagnetic"
+    },
+    {
+        "question_id": "Q_SCI_019",
+        "question": "Into which subdivisions may classical mechanics be divided?",
+        "ground_truth": "Statics, kinematics, and dynamics"
+    },
+    {
+        "question_id": "Q_SCI_020",
+        "question": "Which traditional branches does classical physics include?",
+        "ground_truth": "Classical mechanics, thermodynamics, electromagnetism"
+    },
+    {
+        "question_id": "Q_SCI_021",
+        "question": "Into which disciplines can physical science be subdivided?",
+        "ground_truth": "Physics, chemistry, astronomy, earth science"
+    },
+    {
+        "question_id": "Q_SCI_022",
+        "question": "What are Aristotle's four causes?",
+        "ground_truth": "Material, formal, moving, final"
+    },
+    {
+        "question_id": "Q_SCI_023",
+        "question": "Who developed the theory of atoms?",
+        "ground_truth": "The theory of atoms was developed by Leucippus and his student Democritus."
+    },
+    {
+        "question_id": "Q_SCI_024",
+        "question": "Who formed the foundation of classical mechanics with the Philosophiæ Naturalis Principia Mathematica?",
+        "ground_truth": "Isaac Newton formed the foundation of classical mechanics with his Principia."
+    },
+    {
+        "question_id": "Q_SCI_025",
+        "question": "Who first defined critical rationalism?",
+        "ground_truth": "Critical rationalism was first defined by Karl Popper."
+    },
+    {
+        "question_id": "Q_SCI_026",
+        "question": "Whose Big Bang theory was favoured over the steady-state model after the cosmic microwave background was discovered?",
+        "ground_truth": "The Big Bang theory is associated with Georges Lemaître."
+    },
+    {
+        "question_id": "Q_SCI_027",
+        "question": "Who developed a law of conservation of mass that demanded careful measurement and quantitative observations of chemical phenomena?",
+        "ground_truth": "Antoine Lavoisier developed the law of conservation of mass."
+    },
+    {
+        "question_id": "Q_SCI_028",
+        "question": "Which English scientist proposed the modern theory of atoms?",
+        "ground_truth": "John Dalton proposed the modern theory of atoms."
+    },
+    {
+        "question_id": "Q_SCI_029",
+        "question": "Whose discovery that radio signals were emitted by celestial bodies initiated the science of radio astronomy?",
+        "ground_truth": "Karl Jansky's discovery initiated the science of radio astronomy."
+    },
+    {
+        "question_id": "Q_SCI_030",
+        "question": "Total research funding in most developed countries is between what percentages of GDP?",
+        "ground_truth": "Total research funding in most developed countries is between 1.5% and 3% of GDP."
+    },
+    {
+        "question_id": "Q_SCI_031",
+        "question": "In the OECD, what fraction of research and development in scientific and technical fields is carried out by industry?",
+        "ground_truth": "Around two-thirds of research and development in the OECD is carried out by industry."
+    },
+    {
+        "question_id": "Q_SCI_032",
+        "question": "How many volumes had the movable type printing press already produced by the end of the 15th century?",
+        "ground_truth": "It had produced more than 20 million volumes by the end of the 15th century."
+    },
+    {
+        "question_id": "Q_SCI_033",
+        "question": "How many electrons do hydrogen and lithium need in their outermost shell to attain a stable configuration?",
+        "ground_truth": "They need only two electrons in their outermost shell."
+    },
+    {
+        "question_id": "Q_SCI_034",
+        "question": "How many electrons does each atom have in its valence shell when atoms follow the octet rule?",
+        "ground_truth": "Each atom has eight electrons in its valence shell."
+    },
+    {
+        "question_id": "Q_SCI_035",
+        "question": "How many new elements did Humphry Davy discover by extracting them from their oxides with electric current?",
+        "ground_truth": "Humphry Davy discovered nine new elements."
+    },
+    {
+        "question_id": "Q_SCI_036",
+        "question": "How many phases of solid iron are there that vary based on temperature and pressure?",
+        "ground_truth": "Solid iron has three phases."
+    },
+    {
+        "question_id": "Q_SCI_037",
+        "question": "For about how long was Aristotelian physics influential?",
+        "ground_truth": "Aristotelian physics was influential for about two millennia."
+    },
+    {
+        "question_id": "Q_SCI_038",
+        "question": "Approximately how many years after it was proposed was atomism found to be correct?",
+        "ground_truth": "Atomism was found to be correct approximately 2000 years after it was proposed."
+    },
+    {
+        "question_id": "Q_SCI_039",
+        "question": "Polyatomic molecules are constituted of more than how many atoms?",
+        "ground_truth": "Polyatomic molecules are constituted of more than six atoms."
+    },
+    {
+        "question_id": "Q_SCI_040",
+        "question": "How many centuries later did Galileo Galilei extensively cite the works of John Philoponus?",
+        "ground_truth": "Galileo cited Philoponus's works about ten centuries later."
+    },
+    {
+        "question_id": "Q_SCI_041",
+        "question": "What anniversary of Marie Curie's Nobel Prize in Chemistry was the basis for choosing 2011 as the International Year of Chemistry?",
+        "ground_truth": "It was the 100th anniversary of Marie Curie's Nobel Prize in Chemistry."
+    },
+    {
+        "question_id": "Q_SCI_042",
+        "question": "What were the sales of the global top 50 chemical producers in 2013?",
+        "ground_truth": "They had sales of US$980.5 billion."
+    },
+    {
+        "question_id": "Q_SCI_043",
+        "question": "In what year was Charles Darwin's book On the Origin of Species published?",
+        "ground_truth": "On the Origin of Species was published in 1859."
+    },
+    {
+        "question_id": "Q_SCI_044",
+        "question": "In what year did Wilhelm Wundt found the first laboratory for psychological research?",
+        "ground_truth": "Wilhelm Wundt founded the first psychology laboratory in 1879."
+    },
+    {
+        "question_id": "Q_SCI_045",
+        "question": "In which city was the House of Wisdom established?",
+        "ground_truth": "The House of Wisdom was established in Baghdad, Iraq."
+    },
+    {
+        "question_id": "Q_SCI_046",
+        "question": "From a single print shop in which German city did the movable type printing press spread?",
+        "ground_truth": "The printing press spread from a single print shop in Mainz, Germany."
+    },
+    {
+        "question_id": "Q_SCI_047",
+        "question": "Which kinds of light and radiation does optics study?",
+        "ground_truth": "Optics studies visible light as well as infrared and ultraviolet radiation."
+    },
+    {
+        "question_id": "Q_SCI_048",
+        "question": "Which disciplines are included in social science?",
+        "ground_truth": "Social science disciplines include anthropology, economics, history, human geography, political science, psychology, and sociology."
+    },
+    {
+        "question_id": "Q_SCI_049",
+        "question": "What happens to the electron exchanged between sodium and chlorine in the ionic bond of sodium chloride?",
+        "ground_truth": "Sodium loses one electron and chlorine gains it, forming Na+ and Cl−."
+    },
+    {
+        "question_id": "Q_SCI_050",
+        "question": "Which observations combined to turn astronomy into the first modern science?",
+        "ground_truth": "Brahe's observations and Galileo's telescopic observations together turned astronomy into the first modern science."
+    },
+    {
+        "question_id": "Q_SCI_051",
+        "question": "How do a cation and an anion differ in charge?",
+        "ground_truth": "A cation is positively charged and an anion is negatively charged."
+    },
+    {
+        "question_id": "Q_SCI_052",
+        "question": "How are electric currents and magnetic fields related?",
+        "ground_truth": "An electric current produces a magnetic field, and a changing magnetic field induces an electric current."
+    },
+    {
+        "question_id": "Q_SCI_053",
+        "question": "What did the ancient Egyptians develop from the 3rd millennium BCE?",
+        "ground_truth": "They developed a decimal numbering system, used geometry for practical problems, and developed a calendar."
+    },
+    {
+        "question_id": "Q_SCI_054",
+        "question": "What did the ancient Mesopotamians manufacture using knowledge about the properties of natural chemicals?",
+        "ground_truth": "They made pottery, faience, glass, soap, metals, lime plaster, and waterproofing."
+    },
+    {
+        "question_id": "Q_SCI_055",
+        "question": "What are important modern branches of acoustics?",
+        "ground_truth": "They include ultrasonics, bioacoustics, and electroacoustics."
+    },
+    {
+        "question_id": "Q_SCI_056",
+        "question": "What are applied sciences, and what are two examples?",
+        "ground_truth": "Applied sciences use scientific knowledge for practical purposes, such as engineering and medicine."
+    },
+    {
+        "question_id": "Q_SCI_057",
+        "question": "According to Arrhenius theory, what do an acid and a base produce when dissolved in water?",
+        "ground_truth": "An acid produces hydronium ions and a base produces hydroxide ions in water."
+    },
+    {
+        "question_id": "Q_SCI_058",
+        "question": "Who pioneered quantum mechanics?",
+        "ground_truth": "Quantum mechanics was pioneered by Heisenberg, Schrödinger and Dirac."
+    },
+    {
+        "question_id": "Q_SCI_059",
+        "question": "Who independently proposed the theory of evolution by natural selection, what did it explain, and where was it set out in detail?",
+        "ground_truth": "Charles Darwin and Alfred Russel Wallace independently proposed the theory of evolution by natural selection. The theory explained how different plants and animals originated and evolved. It was set out in detail in Darwin's book On the Origin of Species."
+    },
+    {
+        "question_id": "Q_SCI_060",
+        "question": "Who discovered the electron, at which university was he based, and in what year was it discovered?",
+        "ground_truth": "J.J. Thomson discovered the electron. He was at the University of Cambridge. The discovery was made in 1897."
+    },
+    {
+        "question_id": "Q_SCI_061",
+        "question": "Who developed calculus, what is calculus, and who applied it to solve physical problems?",
+        "ground_truth": "Isaac Newton and, separately, Gottfried Wilhelm Leibniz developed calculus. Calculus is the mathematical study of continuous change. Newton applied it to solve physical problems."
+    },
+    {
+        "question_id": "Q_SCI_062",
+        "question": "In the OECD, what shares of research and development are carried out by universities, government, and industry?",
+        "ground_truth": "Universities carry out about 20% of research and development in the OECD. Government carries out about 10%. Industry carries out around two-thirds."
+    },
+    {
+        "question_id": "Q_SCI_063",
+        "question": "What mass numbers may carbon atoms have, and what are atoms of an element with different mass numbers called?",
+        "ground_truth": "Carbon atoms may have mass numbers of 12 or 13. Atoms of an element with different mass numbers are called isotopes."
+    },
+    {
+        "question_id": "Q_SCI_064",
+        "question": "How many main branches of chemistry are illustrated, and what are they?",
+        "ground_truth": "There are six main branches of chemistry. They are inorganic, organic, physical, and analytical chemistry, plus biochemistry and applied chemistry."
+    },
+    {
+        "question_id": "Q_SCI_065",
+        "question": "How many states of matter meet at a triple point, and why is it a convenient way to define a set of conditions?",
+        "ground_truth": "A triple point occurs when three states meet. It is invariant. This makes it a convenient way to define a set of conditions."
+    },
+    {
+        "question_id": "Q_SCI_066",
+        "question": "How many noble gas elements are listed, which are they, and what is their smallest discrete unit?",
+        "ground_truth": "There are six noble gases: helium, neon, argon, krypton, xenon and radon. Their smallest discrete unit is a lone atom."
+    },
+    {
+        "question_id": "Q_SCI_067",
+        "question": "In which years are Boyle's law, Charles's law, Dalton's law, and Gay-Lussac's law dated?",
+        "ground_truth": "Boyle's law dates to 1662. Charles's law dates to 1787. Dalton's law dates to 1803. Gay-Lussac's law dates to 1809."
+    },
+    {
+        "question_id": "Q_SCI_068",
+        "question": "At which university did Ernest Rutherford carry out his pioneering scattering experiments, and what did he discover there?",
+        "ground_truth": "Rutherford worked at the University of Manchester. There he discovered the internal structure of the atom. He also discovered the existence of the proton."
+    },
+    {
+        "question_id": "Q_SCI_069",
+        "question": "Who founded the Milesian school, who continued it, and what were they the first to attempt?",
+        "ground_truth": "Thales of Miletus founded the Milesian school. Anaximander and Anaximenes continued it. They were the first to try to explain natural phenomena without the supernatural."
+    },
+    {
+        "question_id": "Q_SCI_070",
+        "question": "What is the scientific method, and what does it typically involve?",
+        "ground_truth": "The scientific method is an empirical cycle. It involves making observations and producing hypotheses. It also involves testing them with evidence and drawing conclusions."
+    },
+    {
+        "question_id": "Q_SCI_071",
+        "question": "How does a theory differ from a hypothesis in the range of observations it describes?",
+        "ground_truth": "A theory describes much broader sets of observations than a hypothesis. Many hypotheses can be logically bound together by a single theory. Thus a theory is a hypothesis explaining various other hypotheses."
+    },
+    {
+        "question_id": "Q_SCI_072",
+        "question": "In redox reactions, what are reduction and oxidation, and what do an oxidant and a reductant do?",
+        "ground_truth": "Redox reactions change atoms' oxidation states. Gaining electrons is reduction and losing electrons is oxidation. An oxidant removes electrons from another substance, while a reductant transfers electrons and is itself oxidized."
+    },
+    {
+        "question_id": "Q_SCI_073",
+        "question": "Which successor of Aristotle began the scientific study of plants?",
+        "ground_truth": "Theophrastus"
+    },
+    {
+        "question_id": "Q_SCI_074",
+        "question": "Whose dramatic improvement of the microscope allowed biology to begin developing quickly?",
+        "ground_truth": "Anton van Leeuwenhoek"
+    },
+    {
+        "question_id": "Q_SCI_075",
+        "question": "Whose works originated serious evolutionary thinking by presenting a coherent theory of evolution?",
+        "ground_truth": "Jean-Baptiste Lamarck"
+    },
+    {
+        "question_id": "Q_SCI_076",
+        "question": "Which geographer accurately calculated the circumference of the Earth?",
+        "ground_truth": "Eratosthenes"
+    },
+    {
+        "question_id": "Q_SCI_077",
+        "question": "How many animal species did Aristotle classify?",
+        "ground_truth": "More than 540"
+    },
+    {
+        "question_id": "Q_SCI_078",
+        "question": "How many animal species did Aristotle dissect at least?",
+        "ground_truth": "At least 50"
+    },
+    {
+        "question_id": "Q_SCI_079",
+        "question": "Into how many equal parts was the Mohenjo-daro ruler divided?",
+        "ground_truth": "Ten"
+    },
+    {
+        "question_id": "Q_SCI_080",
+        "question": "How many days came at the end of the year, after the twelve thirty-day months, in the official Egyptian calendar?",
+        "ground_truth": "Five"
+    },
+    {
+        "question_id": "Q_SCI_081",
+        "question": "What base did the Maya positional numeral system use?",
+        "ground_truth": "20"
+    },
+    {
+        "question_id": "Q_SCI_082",
+        "question": "About how many rules does Pāṇini's grammar formulate for Sanskrit?",
+        "ground_truth": "Close to 4,000"
+    },
+    {
+        "question_id": "Q_SCI_083",
+        "question": "How many sunspot records do Chinese astronomical observations include from 364 BCE?",
+        "ground_truth": "112"
+    },
+    {
+        "question_id": "Q_SCI_084",
+        "question": "For how many years did Zu Chongzhi's ratio for pi remain the most accurate value?",
+        "ground_truth": "1200 years"
+    },
+    {
+        "question_id": "Q_SCI_085",
+        "question": "In what year did Carl Linnaeus publish a basic taxonomy for the natural world?",
+        "ground_truth": "1735"
+    },
+    {
+        "question_id": "Q_SCI_086",
+        "question": "Where did Aristotle observe the habits and attributes of plants and animals?",
+        "ground_truth": "Lesbos"
+    },
+    {
+        "question_id": "Q_SCI_087",
+        "question": "Besides the interaction between organisms and their environment, what does ecology study?",
+        "ground_truth": "Distribution and abundance of life"
+    },
+    {
+        "question_id": "Q_SCI_088",
+        "question": "Which two scientists reified the third tenet of cell theory?",
+        "ground_truth": "Remak and Virchow"
+    },
+    {
+        "question_id": "Q_SCI_089",
+        "question": "Who cracked the genetic code?",
+        "ground_truth": "Khorana, Holley, and Nirenberg"
+    }
+]

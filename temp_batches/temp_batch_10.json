@@ -1,0 +1,452 @@
+[
+    {
+        "question_id": "Q_SCI_090",
+        "question": "Whose experiments pointed to DNA as the component of chromosomes that held genes?",
+        "ground_truth": "Alfred Hershey and Martha Chase"
+    },
+    {
+        "question_id": "Q_SCI_091",
+        "question": "What three liberal arts made up the Trivium?",
+        "ground_truth": "Grammar, rhetoric, and logic"
+    },
+    {
+        "question_id": "Q_SCI_092",
+        "question": "What four liberal arts made up the Quadrivium?",
+        "ground_truth": "Arithmetic, geometry, astronomy, and music"
+    },
+    {
+        "question_id": "Q_SCI_093",
+        "question": "Which elements did Aristotle believe everything was derived from, including the celestial one?",
+        "ground_truth": "Earth, water, air, fire, Aether"
+    },
+    {
+        "question_id": "Q_SCI_094",
+        "question": "Which concepts did Euclid introduce in his Elements that are still in use today?",
+        "ground_truth": "Definition, axiom, theorem, and proof"
+    },
+    {
+        "question_id": "Q_SCI_095",
+        "question": "Whose investigations led to new interest in entomology and helped develop techniques of microscopic dissection and staining?",
+        "ground_truth": "Jan Swammerdam's investigations led to new interest in entomology."
+    },
+    {
+        "question_id": "Q_SCI_096",
+        "question": "Who treated species as artificial categories and suggested the possibility of common descent?",
+        "ground_truth": "Georges-Louis Leclerc, Comte de Buffon, did."
+    },
+    {
+        "question_id": "Q_SCI_097",
+        "question": "Who famously said that nothing in biology makes sense except in the light of evolution?",
+        "ground_truth": "Theodosius Dobzhansky said it."
+    },
+    {
+        "question_id": "Q_SCI_098",
+        "question": "Whose experiments with fruit flies supported the chromosome theory of inheritance by establishing sex linkage?",
+        "ground_truth": "Thomas Hunt Morgan's experiments did."
+    },
+    {
+        "question_id": "Q_SCI_099",
+        "question": "Who was the first to base conclusions on dissection of the human body and to describe the nervous system?",
+        "ground_truth": "Herophilos was the first."
+    },
+    {
+        "question_id": "Q_SCI_100",
+        "question": "Who was the first to show that amber was a resin from pine trees?",
+        "ground_truth": "Pliny the Elder was the first."
+    },
+    {
+        "question_id": "Q_SCI_101",
+        "question": "Who was the first to describe the magnetic-needle compass used for navigation?",
+        "ground_truth": "Shen Kuo was the first to describe it."
+    },
+    {
+        "question_id": "Q_SCI_102",
+        "question": "In what proportion were the dimensions of the bricks made by the Indus Valley Civilisation?",
+        "ground_truth": "Their dimensions were in the proportion 4:2:1."
+    },
+    {
+        "question_id": "Q_SCI_103",
+        "question": "How far northwest of Luoyang had the earthquake struck that Zhang Heng's seismometer indicated?",
+        "ground_truth": "It struck 400 to 500 km northwest of Luoyang."
+    },
+    {
+        "question_id": "Q_SCI_104",
+        "question": "About how many years ago has the domestication of maize in southern Mexico been dated?",
+        "ground_truth": "It has been dated to about 9,000 years ago."
+    },
+    {
+        "question_id": "Q_SCI_105",
+        "question": "According to the Rigveda passage, how many days are in the year?",
+        "ground_truth": "The year has 360 days."
+    },
+    {
+        "question_id": "Q_SCI_106",
+        "question": "To how many significant figures did Liu Hui calculate pi?",
+        "ground_truth": "Liu Hui calculated pi to 5 significant figures."
+    },
+    {
+        "question_id": "Q_SCI_107",
+        "question": "How many arts did Varro's Nine Books of Disciplines cover?",
+        "ground_truth": "It covered nine arts."
+    },
+    {
+        "question_id": "Q_SCI_108",
+        "question": "How many Jantar Mantar observatories did Jai Singh II construct in total?",
+        "ground_truth": "He constructed five."
+    },
+    {
+        "question_id": "Q_SCI_109",
+        "question": "For how long were Galen's audacious brain and eye surgeries not tried again?",
+        "ground_truth": "They were not tried again for almost two millennia."
+    },
+    {
+        "question_id": "Q_SCI_110",
+        "question": "Which Pythagorean triplets does the Mesopotamian tablet Plimpton 322 record?",
+        "ground_truth": "It records (3, 4, 5) and (5, 12, 13)."
+    },
+    {
+        "question_id": "Q_SCI_111",
+        "question": "Which right triangle was used in ancient Egypt, along with other geometry rules, to build rectilinear structures?",
+        "ground_truth": "The 3-4-5 right triangle."
+    },
+    {
+        "question_id": "Q_SCI_112",
+        "question": "Over what span of time did scientific thinking emerge gradually?",
+        "ground_truth": "It emerged over tens of thousands of years."
+    },
+    {
+        "question_id": "Q_SCI_113",
+        "question": "How many years later did Ptolemy's model, which Copernicus' model never displaced, fall out of favor?",
+        "ground_truth": "It fell out of favor 70 years later."
+    },
+    {
+        "question_id": "Q_SCI_114",
+        "question": "Into how many halves was the Roman Empire administratively divided during the 3rd and 4th centuries CE?",
+        "ground_truth": "It was divided into two halves."
+    },
+    {
+        "question_id": "Q_SCI_115",
+        "question": "In what year is Daniel Bernoulli's Hydrodynamica dated, in which gases are conceived as numerous particles in rapid random motion?",
+        "ground_truth": "Hydrodynamica is dated 1738."
+    },
+    {
+        "question_id": "Q_SCI_116",
+        "question": "In what year did James Watson and Francis Crick discover the double-helical structure of DNA?",
+        "ground_truth": "They discovered it in 1953."
+    },
+    {
+        "question_id": "Q_SCI_117",
+        "question": "In which city did Su Song erect a large astronomical clocktower?",
+        "ground_truth": "In Kaifeng city."
+    },
+    {
+        "question_id": "Q_SCI_118",
+        "question": "Where are the megalithic structures located that featured calendar arrangements aligned with the heliacal rising of Sirius?",
+        "ground_truth": "At Nabta Playa in Upper Egypt."
+    },
+    {
+        "question_id": "Q_SCI_119",
+        "question": "Which subdisciplines does biology include?",
+        "ground_truth": "They include molecular biology, physiology, ecology, evolutionary biology, developmental biology, and systematics."
+    },
+    {
+        "question_id": "Q_SCI_120",
+        "question": "Across which levels of organization does biology examine life?",
+        "ground_truth": "From molecules and cells to organisms, populations, and ecosystems."
+    },
+    {
+        "question_id": "Q_SCI_121",
+        "question": "Which kinds of organisms do biologists classify, from single-celled to multicellular?",
+        "ground_truth": "They classify single-celled archaea and bacteria and multicellular plants, fungi, and animals."
+    },
+    {
+        "question_id": "Q_SCI_122",
+        "question": "Which processes does molecular biology examine as orchestrated by nucleic acids and proteins?",
+        "ground_truth": "Replication, transcription, translation, protein synthesis, and complex biomolecular interactions."
+    },
+    {
+        "question_id": "Q_SCI_123",
+        "question": "Which components did the Ebers and Edwin Smith papyri apply to the treatment of disease?",
+        "ground_truth": "Examination, diagnosis, treatment, and prognosis."
+    },
+    {
+        "question_id": "Q_SCI_124",
+        "question": "Which three philosophies did lower-faculty students at medieval universities study toward a Magister degree?",
+        "ground_truth": "They studied metaphysics, ethics, and natural philosophy."
+    },
+    {
+        "question_id": "Q_SCI_125",
+        "question": "Who was the main medicinal authority in East Semitic cultures, and who was the less frequent healer closer to a modern physician?",
+        "ground_truth": "The main authority was the asipu, an exorcist-healer, and the less frequent healer was the asu, closer to a modern physician."
+    },
+    {
+        "question_id": "Q_SCI_126",
+        "question": "What did Thales postulate about land and earthquakes in place of the god Poseidon?",
+        "ground_truth": "Land floats on water, and earthquakes are caused by the agitation of that water."
+    },
+    {
+        "question_id": "Q_SCI_127",
+        "question": "What does physics deal with, and what does its scope encompass?",
+        "ground_truth": "Physics deals with the structure of matter and the interactions between the fundamental constituents of the observable universe, including forces and gravitational, electromagnetic, and nuclear force fields."
+    },
+    {
+        "question_id": "Q_SCI_128",
+        "question": "How is chemistry defined in terms of substances, transformations, and energy?",
+        "ground_truth": "Chemistry is the science of the properties, composition, and structure of elements and compounds, their transformations, and the energy released or absorbed."
+    },
+    {
+        "question_id": "Q_SCI_129",
+        "question": "Which astronomical periods identified by Mesopotamian proto-scientists are still widely used in Western calendars?",
+        "ground_truth": "The solar year and the lunar month."
+    },
+    {
+        "question_id": "Q_SCI_130",
+        "question": "What kinds of chemical bond are listed for holding atoms together in molecules or crystals?",
+        "ground_truth": "It can be a covalent bond, an ionic bond, a hydrogen bond, or due to Van der Waals force."
+    },
+    {
+        "question_id": "Q_SCI_131",
+        "question": "Who began promoting the now universal cell ideas in 1838, and what two ideas did they promote?",
+        "ground_truth": "Schleiden and Schwann began promoting these ideas. They held that the basic unit of organisms is the cell. They also held that individual cells have all the characteristics of life."
+    },
+    {
+        "question_id": "Q_SCI_132",
+        "question": "Who produced the first known anatomy textbook based on human dissection, and where had medical teachers and students begun opening human bodies?",
+        "ground_truth": "Mondino de Luzzi produced the first known anatomy textbook based on human dissection. Medical teachers and students at Bologna had begun to open human bodies. Dissection had usually been banned in classical antiquity."
+    },
+    {
+        "question_id": "Q_SCI_133",
+        "question": "Which scholar wrote the Book of Healing and The Canon of Medicine, and how long were they used as standard medicinal texts?",
+        "ground_truth": "Ibn Sina, known as Avicenna in the West, wrote two notable medical works. They were the Book of Healing and The Canon of Medicine. Both were used as standard medicinal texts in the Muslim world and Europe well into the 17th century."
+    },
+    {
+        "question_id": "Q_SCI_134",
+        "question": "How many fundamental themes are central to biology, and what are they?",
+        "ground_truth": "There are five themes. They are the cell as the basic unit of life, and genes and heredity as the basis of inheritance. They also include evolution as the driver of biological diversity, energy transformation for sustaining life processes, and homeostasis."
+    },
+    {
+        "question_id": "Q_SCI_135",
+        "question": "How many tenets were consolidated into cell theory by the 1860s, and what were they?",
+        "ground_truth": "There were three tenets. The cell is the basic unit of organisms. Individual cells have all the characteristics of life, and all cells come from the division of other cells."
+    },
+    {
+        "question_id": "Q_SCI_136",
+        "question": "How many major linguistic cultures continued classical learning in the Middle Ages, and what were they?",
+        "ground_truth": "There were three. They were Greek (the Byzantine Empire), Arabic (the Islamic world), and Latin (Western Europe)."
+    },
+    {
+        "question_id": "Q_SCI_137",
+        "question": "How many chapters does the second part of the Siddhanta Shiromani have, and what do they cover?",
+        "ground_truth": "The second part has 13 chapters. They cover the nature of the sphere. They also cover significant astronomical and trigonometric calculations based on it."
+    },
+    {
+        "question_id": "Q_SCI_138",
+        "question": "How many of Varro's nine arts later defined the seven liberal arts of medieval schools, and how are they identified?",
+        "ground_truth": "Seven. It was the first seven of Varro's nine arts that later defined the seven liberal arts of medieval schools."
+    },
+    {
+        "question_id": "Q_SCI_139",
+        "question": "In which years did Beddoes, Burdach, Treviranus, and Lamarck each independently introduce the term biology in its modern sense?",
+        "ground_truth": "Thomas Beddoes introduced it in 1799. Karl Friedrich Burdach introduced it in 1800. Gottfried Reinhold Treviranus and Jean-Baptiste Lamarck introduced it in 1802."
+    },
+    {
+        "question_id": "Q_SCI_140",
+        "question": "At which place was the Cistercian blast furnace cited among medieval metallurgical achievements?",
+        "ground_truth": "The furnace was at Laskill. It was a Cistercian blast furnace. It is cited for its metallurgical achievements among medieval technological advances."
+    },
+    {
+        "question_id": "Q_SCI_141",
+        "question": "What is deep homology, which organs illustrate it, and where do the controlling genes come from?",
+        "ground_truth": "Deep homology is the finding that dissimilar organs, long thought to have evolved separately, are controlled by similar genes. Examples are the eyes of insects, vertebrates and cephalopod molluscs. The genes come from the evo-devo gene toolkit."
+    },
+    {
+        "question_id": "Q_SCI_142",
+        "question": "What does conservation biology study, and what does it aim to protect against?",
+        "ground_truth": "Conservation biology is the study of the conservation of Earth's biodiversity. Its aim is to protect species, their habitats, and ecosystems. It protects them from excessive rates of extinction and the erosion of biotic interactions."
+    },
+    {
+        "question_id": "Q_SCI_143",
+        "question": "How did madrasa students learn, and what was an Ijazah?",
+        "ground_truth": "Madrasa students learned from one specific teacher. The teacher issued a certificate called an Ijazah. It was a license to teach and pass on a very specific set of texts."
+    },
+    {
+        "question_id": "Q_SCI_144",
+        "question": "What did the legacy of the classical Greek period include in terms of factual knowledge, and in which fields?",
+        "ground_truth": "The legacy included substantial advances in factual knowledge. These were especially in anatomy, zoology, botany, mineralogy, geography, mathematics and astronomy."
+    },
+    {
+        "question_id": "Q_SCI_145",
+        "question": "Which scholar improved the measurements of Hipparchus preserved in Ptolemy's Almagest?",
+        "ground_truth": "Al-Battani"
+    },
+    {
+        "question_id": "Q_SCI_146",
+        "question": "Whose discovery of the pulmonary transit of blood in the human body occurred in a hospital setting?",
+        "ground_truth": "Ibn al-Nafis"
+    },
+    {
+        "question_id": "Q_SCI_147",
+        "question": "How many of the Siddhanta Shiromani's chapters are described as covering topics such as the mean and true longitudes of the planets?",
+        "ground_truth": "The first 12"
+    },
+    {
+        "question_id": "Q_SCI_148",
+        "question": "How many days long were the years that Maya writing used to track social, religious, political, and economic events?",
+        "ground_truth": "360 days"
+    },
+    {
+        "question_id": "Q_SCI_149",
+        "question": "From a combination of how many of the characteristics hot, wet, cold, and dry were earth, water, air, and fire each derived?",
+        "ground_truth": "Two"
+    },
+    {
+        "question_id": "Q_SCI_150",
+        "question": "According to Plimpton 322, how long before Pythagoras might the Mesopotamians have been aware of the Pythagorean theorem?",
+        "ground_truth": "Over a millennium"
+    },
+    {
+        "question_id": "Q_SCI_151",
+        "question": "In what year did Narayana Pandita write the Ganita Kaumudi?",
+        "ground_truth": "1356"
+    },
+    {
+        "question_id": "Q_SCI_152",
+        "question": "Of which place's observatory did Hulagu Khan, who led the siege of Baghdad, become a patron?",
+        "ground_truth": "Maragheh"
+    },
+    {
+        "question_id": "Q_SCI_153",
+        "question": "Whose works, printed in 1543, are frequently said to mark the beginning of the Scientific Revolution?",
+        "ground_truth": "Vesalius and Copernicus"
+    },
+    {
+        "question_id": "Q_SCI_154",
+        "question": "Whose biogeography, uniformitarian geology, and writings on population growth did Darwin combine with his own observations?",
+        "ground_truth": "Humboldt, Lyell, and Malthus"
+    },
+    {
+        "question_id": "Q_SCI_155",
+        "question": "Which three higher faculties could medieval students join after completing the baccalaureate?",
+        "ground_truth": "Law, medicine, and theology"
+    },
+    {
+        "question_id": "Q_SCI_156",
+        "question": "Who updated the Aryabhatan model for the interior planets Mercury and Venus in the Tantrasangraha?",
+        "ground_truth": "Nilakantha Somayaji updated the Aryabhatan model for Mercury and Venus."
+    },
+    {
+        "question_id": "Q_SCI_157",
+        "question": "Who provided the infinite and Taylor series expansion of some trigonometric functions and a pi approximation?",
+        "ground_truth": "Madhava of Sangamagrama provided them."
+    },
+    {
+        "question_id": "Q_SCI_158",
+        "question": "Which Byzantine scholar was the first to question Aristotle's teaching of physics by introducing the theory of impetus?",
+        "ground_truth": "John Philoponus was the first."
+    },
+    {
+        "question_id": "Q_SCI_159",
+        "question": "Who developed the theory that impetus was the cause of the motion of projectiles?",
+        "ground_truth": "Jean Buridan developed it."
+    },
+    {
+        "question_id": "Q_SCI_160",
+        "question": "Indian logic stands as one of how many original traditions of logic?",
+        "ground_truth": "Indian logic is one of three original traditions of logic."
+    },
+    {
+        "question_id": "Q_SCI_161",
+        "question": "Over how long a period did the eastward transmission of Greek heritage to Western Asia span?",
+        "ground_truth": "It spanned over a thousand years."
+    },
+    {
+        "question_id": "Q_SCI_162",
+        "question": "Maya logographs represent calendar periods amounting to how many days and even how many years?",
+        "ground_truth": "The periods amount to 20 days and even 20 years."
+    },
+    {
+        "question_id": "Q_SCI_163",
+        "question": "In which volume of Hanow's Philosophiae naturalis sive physicae dogmaticae does the compound biologia appear in the title?",
+        "ground_truth": "It appears in the title of Volume 3."
+    },
+    {
+        "question_id": "Q_SCI_164",
+        "question": "The Tetralemma is the name for a comparable argument described as having how many corners?",
+        "ground_truth": "It is described as a four corner argument."
+    },
+    {
+        "question_id": "Q_SCI_165",
+        "question": "In Babylonian astronomy, on what quantity of clay tablets are records of the motions of the stars, planets, and the moon left?",
+        "ground_truth": "They are left on thousands of clay tablets."
+    },
+    {
+        "question_id": "Q_SCI_166",
+        "question": "In what year did William Harvey publish De Motu Cordis?",
+        "ground_truth": "He published it in 1628."
+    },
+    {
+        "question_id": "Q_SCI_167",
+        "question": "In which Pre-Columbian region did the Zapotec civilization establish the first known full writing system?",
+        "ground_truth": "In Mesoamerica."
+    },
+    {
+        "question_id": "Q_SCI_168",
+        "question": "What features characterized the oral tradition of preliterate societies regarding fluidity, the universe, and causes?",
+        "ground_truth": "It was fluid, described the universe as sky and earth with a potential underworld, and identified causes with beginnings."
+    },
+    {
+        "question_id": "Q_SCI_169",
+        "question": "Which phenomena, poorly accounted for in the modern evolutionary synthesis, do some evolutionary research fields try to explain?",
+        "ground_truth": "They include speciation, the evolution of sexual reproduction, cooperation, ageing, and evolvability."
+    },
+    {
+        "question_id": "Q_SCI_170",
+        "question": "What does classical genetics study, and what are its principles called?",
+        "ground_truth": "It studies how genes and traits pass from parents to offspring, and its principles are called Mendelian inheritance."
+    },
+    {
+        "question_id": "Q_SCI_171",
+        "question": "What does bioenergetics concern, and which processes does it include?",
+        "ground_truth": "It concerns energy flow through living systems, including cellular respiration and metabolic and enzymatic processes."
+    },
+    {
+        "question_id": "Q_SCI_172",
+        "question": "Which surgical procedures does the Susrutasamhita describe?",
+        "ground_truth": "It describes rhinoplasty, repair of torn ear lobes, perineal lithotomy, and cataract surgery."
+    },
+    {
+        "question_id": "Q_SCI_173",
+        "question": "How did Islamic trigonometry extend the works of Ptolemy's Almagest and the Indian Siddhanta?",
+        "ground_truth": "It added trigonometric functions, drew up tables, and applied trigonometry to spheres and planes."
+    },
+    {
+        "question_id": "Q_SCI_174",
+        "question": "What did Brahmagupta suggest about gravity in 628, and what did he explain about zero and the Hindu-Arabic numeral system?",
+        "ground_truth": "Brahmagupta suggested in 628 that gravity was a force of attraction.He lucidly explained the use of zero as both a placeholder and a decimal digit.He also explained the Hindu-Arabic numeral system now used universally."
+    },
+    {
+        "question_id": "Q_SCI_175",
+        "question": "Into how many main categories did Navya-Nyaya systematise all Nyaya concepts, and what are they?",
+        "ground_truth": "Navya-Nyaya systematised all Nyaya concepts into four main categories.The first is sense or perception (pratyaksa).The second is inference (anumana).The third is comparison or similarity (upamana).The fourth is testimony (sound or word; sabda)."
+    },
+    {
+        "question_id": "Q_SCI_176",
+        "question": "Which topics does the Bakhshali manuscript cover, including indeterminate equations of which degree?",
+        "ground_truth": "The Bakhshali manuscript contains problems involving arithmetic, algebra and geometry, including mensuration.Its topics include fractions, square roots, and arithmetic and geometric progressions.It covers solutions of simple equations and simultaneous linear equations.It also includes quadratic equations and indeterminate equations of the second degree."
+    },
+    {
+        "question_id": "Q_SCI_177",
+        "question": "In what order are the elements arranged in their natural state, and what is the role of Aether?",
+        "ground_truth": "In their natural state, earth is closest to the Earth, followed by water, air, fire, and finally Aether.Water sits above earth, air above water, and fire above air.Aether was a celestial element and made up the matter of the celestial bodies."
+    },
+    {
+        "question_id": "Q_SCI_178",
+        "question": "What did Ibn al-Haytham synthesize, where was it set out, and for how long was it relied upon in Europe?",
+        "ground_truth": "Ibn al-Haytham (Alhazen) synthesized a new theory of vision in the 11th century, based on the works of his predecessors.His theory included a complete system of geometrical optics.It was set out in great detail in his Book of Optics.The book was translated into Latin.It was relied upon as a principal source on optics in Europe until the 17th century."
+    },
+    {
+        "question_id": "Q_SCI_179",
+        "question": "Which technological accomplishments did Joseph Needham attribute to China?",
+        "ground_truth": "According to Joseph Needham, accomplishments included the water-powered celestial globe (Zhang Heng), dry docks, and sliding calipers.They also included the double-action piston pump, the blast furnace, and the multi-tube seed drill.Further examples were the wheelbarrow, the suspension bridge, and the winnowing machine.They also included gunpowder, the raised-relief map, toilet paper, and the efficient harness."
+    }
+]

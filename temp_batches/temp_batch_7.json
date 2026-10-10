@@ -1,0 +1,452 @@
+[
+    {
+        "question_id": "Q_GEO_181",
+        "question": "What bodies of water and region define the Sahara's northern, eastern, western, and southern boundaries, and which major regions are included within the Sahara?",
+        "ground_truth": "The Sahara extends from the Red Sea and Mediterranean Sea to the Atlantic Ocean, with the Sahel forming its southern boundary. The Sahel is a semi-arid tropical savanna around the Niger River valley and the Sudan region of sub-Saharan Africa. The Sahara includes regions such as the western Sahara, Ahaggar Mountains, Tibesti Mountains, Aïr Mountains, Ténéré desert, and Libyan Desert."
+    },
+    {
+        "question_id": "Q_HIS_001",
+        "question": "Who conquered the Kathmandu Valley and laid the foundation for the modern state of Nepal?",
+        "ground_truth": "Prithvi Narayan Shah"
+    },
+    {
+        "question_id": "Q_HIS_002",
+        "question": "Which dynasty ruled the Kathmandu Valley during Nepal's middle period?",
+        "ground_truth": "Malla dynasty"
+    },
+    {
+        "question_id": "Q_HIS_003",
+        "question": "Which family dominated Nepalese politics from 1846 to 1951?",
+        "ground_truth": "Rana family"
+    },
+    {
+        "question_id": "Q_HIS_004",
+        "question": "Who dismissed the Nepali Congress government and imprisoned most of its leaders?",
+        "ground_truth": "King Mahendra"
+    },
+    {
+        "question_id": "Q_HIS_005",
+        "question": "Against which entity was the Indian Rebellion of 1857 directed?",
+        "ground_truth": "British East India Company"
+    },
+    {
+        "question_id": "Q_HIS_006",
+        "question": "Which organization first convened in Bombay in December 1885?",
+        "ground_truth": "Indian National Congress"
+    },
+    {
+        "question_id": "Q_HIS_007",
+        "question": "What was the duration of the Indian Rebellion of 1857?",
+        "ground_truth": "1857-1859"
+    },
+    {
+        "question_id": "Q_HIS_008",
+        "question": "In which year was Nepal formed into a single kingdom?",
+        "ground_truth": "1769"
+    },
+    {
+        "question_id": "Q_HIS_009",
+        "question": "During which centuries did the Malla dynasty rule in Nepal?",
+        "ground_truth": "10th–18th century"
+    },
+    {
+        "question_id": "Q_HIS_010",
+        "question": "During which years did the Rana family dominate Nepal?",
+        "ground_truth": "1846–1951"
+    },
+    {
+        "question_id": "Q_HIS_011",
+        "question": "In which year was Nepal's independence recognized by Britain?",
+        "ground_truth": "1923"
+    },
+    {
+        "question_id": "Q_HIS_012",
+        "question": "In which month and year did the Indian Rebellion of 1857 begin in Meerut?",
+        "ground_truth": "May 1857"
+    },
+    {
+        "question_id": "Q_HIS_013",
+        "question": "In which year did direct administration by the British in India begin?",
+        "ground_truth": "1858"
+    },
+    {
+        "question_id": "Q_HIS_014",
+        "question": "In which month and year was the Indian National Congress founded?",
+        "ground_truth": "December 1885"
+    },
+    {
+        "question_id": "Q_HIS_015",
+        "question": "In which month and year did British rule in India come to an end?",
+        "ground_truth": "August 1947"
+    },
+    {
+        "question_id": "Q_HIS_016",
+        "question": "In which year did Nepal become a multiparty republic after the monarchy was abolished?",
+        "ground_truth": "2008"
+    },
+    {
+        "question_id": "Q_HIS_017",
+        "question": "Where did the Indian Rebellion of 1857 begin?",
+        "ground_truth": "Meerut"
+    },
+    {
+        "question_id": "Q_HIS_018",
+        "question": "To which city did Prithvi Narayan Shah move his capital after conquering the valley?",
+        "ground_truth": "Kathmandu"
+    },
+    {
+        "question_id": "Q_HIS_019",
+        "question": "Who conquered the Kathmandu Valley in 1769 and moved his capital to Kathmandu?",
+        "ground_truth": "Prithvi Narayan Shah"
+    },
+    {
+        "question_id": "Q_HIS_020",
+        "question": "Who dismissed the Nepali Congress government in December 1960 and abolished the 1959 constitution in 1962?",
+        "ground_truth": "King Mahendra"
+    },
+    {
+        "question_id": "Q_HIS_021",
+        "question": "Where did the Indian Rebellion of 1857 begin and to which cities did it spread?",
+        "ground_truth": "Meerut"
+    },
+    {
+        "question_id": "Q_HIS_022",
+        "question": "Who founded the Indian National Congress along with several Indian nationalist leaders?",
+        "ground_truth": "Allan Octavian Hume"
+    },
+    {
+        "question_id": "Q_HIS_023",
+        "question": "Which family ruled the principality of Gorkha?",
+        "ground_truth": "The Shah family ruled the principality of Gorkha."
+    },
+    {
+        "question_id": "Q_HIS_024",
+        "question": "Who was the great Malla ruler who introduced the first legal and social code strongly influenced by contemporary Hindu principles?",
+        "ground_truth": "Jaya Sthiti was the great Malla ruler who introduced the first legal and social code strongly influenced by contemporary Hindu principles."
+    },
+    {
+        "question_id": "Q_HIS_025",
+        "question": "Who divided his kingdom among his three sons, creating the independent principalities of Kathmandu, Patan, and Bhaktapur?",
+        "ground_truth": "Yaksha Malla divided his kingdom among his three sons, creating the independent principalities of Kathmandu, Patan, and Bhaktapur."
+    },
+    {
+        "question_id": "Q_HIS_026",
+        "question": "Who was the great Gorkha ruler who conquered the Kathmandu Valley in 1769?",
+        "ground_truth": "Prithvi Narayan Shah was the great Gorkha ruler who conquered the Kathmandu Valley in 1769."
+    },
+    {
+        "question_id": "Q_HIS_027",
+        "question": "Who seized Gurkha in 1559 and established his own kingdom?",
+        "ground_truth": "Drabya Shah seized Gurkha in 1559 and established his own kingdom."
+    },
+    {
+        "question_id": "Q_HIS_028",
+        "question": "Who assumed the throne of Nepal in 1794?",
+        "ground_truth": "Rana Bahadur Shah assumed the throne of Nepal in 1794."
+    },
+    {
+        "question_id": "Q_HIS_029",
+        "question": "Who signed the Treaty of Sugauli and reigned until his early death from smallpox at age 19?",
+        "ground_truth": "Girvan Yuddha Bikram Shah signed the Treaty of Sugauli and reigned until his early death from smallpox at age 19."
+    },
+    {
+        "question_id": "Q_HIS_030",
+        "question": "Who was the first Rana prime minister who normalized Nepal-British relations by supporting the British in the Indian Rebellion of 1857?",
+        "ground_truth": "Jang Bahadur Shah was the first Rana prime minister who normalized Nepal-British relations by supporting the British in the Indian Rebellion of 1857."
+    },
+    {
+        "question_id": "Q_HIS_031",
+        "question": "Who was the Rana Prime Minister of Nepal who served from 1901 to 1929?",
+        "ground_truth": "Chandra Shamsher was the Rana Prime Minister of Nepal who served from 1901 to 1929."
+    },
+    {
+        "question_id": "Q_HIS_032",
+        "question": "From which century to which century did the Malla dynasty rule in Nepal?",
+        "ground_truth": "The Malla dynasty ruled in Nepal from the 10th to the 18th century."
+    },
+    {
+        "question_id": "Q_HIS_033",
+        "question": "What was the approximate reign period of Yaksha Malla?",
+        "ground_truth": "Yaksha Malla reigned from approximately 1429 to approximately 1482."
+    },
+    {
+        "question_id": "Q_HIS_034",
+        "question": "In which year did Prithvi Narayan Shah conquer the Kathmandu Valley?",
+        "ground_truth": "Prithvi Narayan Shah conquered the Kathmandu Valley in 1769."
+    },
+    {
+        "question_id": "Q_HIS_035",
+        "question": "In which year did Prithvi Narayan Shah become king of Gurkha?",
+        "ground_truth": "Prithvi Narayan Shah became king of Gurkha in 1742."
+    },
+    {
+        "question_id": "Q_HIS_036",
+        "question": "In which year did the East India Company aid the raja of Kathmandu, allowing him to repulse Prithvi Narayan Shah's encroachments?",
+        "ground_truth": "The East India Company aided the raja of Kathmandu in 1767, allowing him to repulse Prithvi Narayan Shah's encroachments."
+    },
+    {
+        "question_id": "Q_HIS_037",
+        "question": "During which years did the Rana family dominate Nepal?",
+        "ground_truth": "The Rana family dominated Nepal from 1846 to 1951."
+    },
+    {
+        "question_id": "Q_HIS_038",
+        "question": "In which year did Nepal gain admission to the United Nations?",
+        "ground_truth": "Nepal gained admission to the United Nations in 1955."
+    },
+    {
+        "question_id": "Q_HIS_039",
+        "question": "In which year did Nepal establish a multiparty parliamentary system?",
+        "ground_truth": "Nepal established a multiparty parliamentary system in 1991."
+    },
+    {
+        "question_id": "Q_HIS_040",
+        "question": "In which year was the Nepalese monarchy dissolved and Nepal declared a democratic republic?",
+        "ground_truth": "The Nepalese monarchy was dissolved in 2008 and Nepal was declared a democratic republic."
+    },
+    {
+        "question_id": "Q_HIS_041",
+        "question": "In which month and year did the Indian Rebellion of 1857 begin in Meerut?",
+        "ground_truth": "The Indian Rebellion of 1857 began in Meerut in May 1857."
+    },
+    {
+        "question_id": "Q_HIS_042",
+        "question": "In which year did direct administration by the British in India begin?",
+        "ground_truth": "Direct administration by the British in India began in 1858."
+    },
+    {
+        "question_id": "Q_HIS_043",
+        "question": "In which month and year was the Indian National Congress founded?",
+        "ground_truth": "The Indian National Congress was founded in December 1885."
+    },
+    {
+        "question_id": "Q_HIS_044",
+        "question": "In which month and year did British rule in India come to an end?",
+        "ground_truth": "British rule in India came to an end in August 1947."
+    },
+    {
+        "question_id": "Q_HIS_045",
+        "question": "In which year was the Treaty of Sugauli signed?",
+        "ground_truth": "The Treaty of Sugauli was signed in 1816."
+    },
+    {
+        "question_id": "Q_HIS_046",
+        "question": "During which years did the Anglo-Nepalese War take place?",
+        "ground_truth": "The Anglo-Nepalese War took place from 1814 to 1816."
+    },
+    {
+        "question_id": "Q_HIS_047",
+        "question": "In which year was Nepal's independence recognized by Britain?",
+        "ground_truth": "Nepal's independence was recognized by Britain in 1923."
+    },
+    {
+        "question_id": "Q_HIS_048",
+        "question": "To which city did Prithvi Narayan Shah move his capital after conquering the valley in 1769?",
+        "ground_truth": "Prithvi Narayan Shah moved his capital to Kathmandu after conquering the valley in 1769."
+    },
+    {
+        "question_id": "Q_HIS_049",
+        "question": "Where did the Indian Rebellion of 1857 begin?",
+        "ground_truth": "The Indian Rebellion of 1857 began in Meerut."
+    },
+    {
+        "question_id": "Q_HIS_050",
+        "question": "Where did Prithvi Narayan Shah establish the capital of Nepal?",
+        "ground_truth": "Prithvi Narayan Shah established the capital of Nepal at Kathmandu."
+    },
+    {
+        "question_id": "Q_HIS_051",
+        "question": "What was the ancestral home of the ruling house of Nepal?",
+        "ground_truth": "Gurkha was the ancestral home of the ruling house of Nepal."
+    },
+    {
+        "question_id": "Q_HIS_052",
+        "question": "Who conquered the Kathmandu Valley in 1769 and moved his capital to Kathmandu, providing the foundation for the modern state of Nepal?",
+        "ground_truth": "Prithvi Narayan Shah conquered the Kathmandu Valley in 1769 and moved his capital to Kathmandu, providing the foundation for the modern state of Nepal."
+    },
+    {
+        "question_id": "Q_HIS_053",
+        "question": "Who divided his kingdom among his three sons, creating the independent principalities of Kathmandu, Patan, and Bhaktapur?",
+        "ground_truth": "Yaksha Malla divided his kingdom among his three sons, creating the independent principalities of Kathmandu, Patan, and Bhaktapur."
+    },
+    {
+        "question_id": "Q_HIS_054",
+        "question": "Who conquered the valley in 1769 after the Mallas were weakened by familial dissension and widespread social and economic discontent?",
+        "ground_truth": "Prithvi Narayan Shah conquered the valley in 1769 after the Mallas were weakened by familial dissension and widespread social and economic discontent."
+    },
+    {
+        "question_id": "Q_HIS_055",
+        "question": "Which family dominated Nepal from 1846 to 1951, during which Nepal remained closed to the outside world until a palace revolt in 1950 restored the crown's authority in 1951?",
+        "ground_truth": "The Rana family dominated Nepal from 1846 to 1951, during which Nepal remained closed to the outside world until a palace revolt in 1950 restored the crown's authority in 1951."
+    },
+    {
+        "question_id": "Q_HIS_056",
+        "question": "Where did the Indian Rebellion of 1857 begin in May 1857 and to which cities did it spread?",
+        "ground_truth": "The Indian Rebellion of 1857 began in Meerut in May 1857 and spread to Delhi, Agra, Kanpur, and Lucknow."
+    },
+    {
+        "question_id": "Q_HIS_057",
+        "question": "Who became king of Gurkha in 1742 and conquered the Kathmandu Valley in 1769?",
+        "ground_truth": "Prithvi Narayan Shah became king of Gurkha in 1742 and conquered the Kathmandu Valley in 1769."
+    },
+    {
+        "question_id": "Q_HIS_058",
+        "question": "During which years did the Anglo-Nepalese War take place, and in which year was Nepal forced to sign the Treaty of Sugauli?",
+        "ground_truth": "The Anglo-Nepalese War took place from 1814 to 1816, and Nepal was forced to sign the Treaty of Sugauli in 1816."
+    },
+    {
+        "question_id": "Q_HIS_059",
+        "question": "Which dynasty was the first ruling family of plains Indian origin in Nepal Valley, and what kind of records supplement its dynastic chronicles?",
+        "ground_truth": "The Lichchavi dynasty was the first ruling family in the area of plains Indian origin in Nepal Valley, and the Lichchavi dynastic chronicles are supplemented by numerous stone inscriptions and are particularly full from 500 to 700 CE."
+    },
+    {
+        "question_id": "Q_HIS_060",
+        "question": "Which dynasty ruled Nepal Valley and surrounding areas from the 10th to the 18th century, and who was its great ruler who reigned from approximately 1382 to 1395?",
+        "ground_truth": "The Malla dynasty ruled Nepal Valley and surrounding areas from the 10th to the 18th century, and the great Malla ruler Jaya Sthiti reigned from approximately 1382 to 1395."
+    },
+    {
+        "question_id": "Q_HIS_061",
+        "question": "Which family ruled Gorkha, one of the principalities in the hills, and who was the great Gorkha ruler who conquered Nepal Valley in 1769?",
+        "ground_truth": "The Shah family ruled Gorkha, one of the principalities in the hills, and the great Gorkha ruler Prithvi Narayan Shah conquered Nepal Valley in 1769."
+    },
+    {
+        "question_id": "Q_HIS_062",
+        "question": "Who reigned from 1742 to 1775 and established a unified state in the central Himalayas, and what event in 1947 deprived the Ranas of a vital external source of support?",
+        "ground_truth": "Prithvi Narayan Shah reigned from 1742 to 1775 and established a unified state in the central Himalayas, and the British withdrawal from India in 1947 deprived the Ranas of a vital external source of support."
+    },
+    {
+        "question_id": "Q_HIS_063",
+        "question": "When did the Early Harappan Period begin and end, and when did the mature Indus civilization emerge and continue in full glory?",
+        "ground_truth": "The Early Harappan Period began in the mid-4th millennium BCE and continued until the mid-3rd millennium, and the mature Indus civilization emerged between 2600 and 2500 BCE and continued in full glory to about 2000 BCE."
+    },
+    {
+        "question_id": "Q_HIS_064",
+        "question": "In which year was a constitution approved under which general elections for a national assembly were held, and when did King Mahendra dismiss the Nepali Congress government and abolish the 1959 constitution?",
+        "ground_truth": "A constitution was approved in 1959 under which general elections for a national assembly were held, and King Mahendra dismissed the Nepali Congress government in December 1960 and the constitution of 1959 was abolished in 1962."
+    },
+    {
+        "question_id": "Q_HIS_065",
+        "question": "When did a coalition of centrist and leftist opposition forces begin a campaign demanding basic political reforms, and when did King Birendra lift the ban on political parties and appoint a coalition interim government?",
+        "ground_truth": "In February 1990 a coalition of centrist and leftist opposition forces began a campaign demanding basic political reforms, and in April 1990 King Birendra lifted the ban on political parties and appointed a coalition interim government."
+    },
+    {
+        "question_id": "Q_HIS_066",
+        "question": "In which year did the British victory in the Battle of Plassey begin the company's transformation from a trading corporation to a colonial power, and when did direct administration by the British in India begin?",
+        "ground_truth": "The British victory in the Battle of Plassey in 1757 began the company's transformation from a trading corporation to a colonial power, and in 1858 direct administration by the British in India began."
+    },
+    {
+        "question_id": "Q_HIS_067",
+        "question": "When was the Indian National Congress founded, and when did it first convene in Bombay?",
+        "ground_truth": "The Indian National Congress was founded in December 1885, and the Indian National Congress first convened in Bombay in December 1885."
+    },
+    {
+        "question_id": "Q_HIS_068",
+        "question": "When and where did the Indian Rebellion of 1857 begin, how long did it last, and to which cities did it spread?",
+        "ground_truth": "The Indian Rebellion of 1857 began in Meerut in May 1857 and lasted until 1859, and the rebellion spread to Delhi, Agra, Kanpur, and Lucknow."
+    },
+    {
+        "question_id": "Q_HIS_069",
+        "question": "When did British rule in India come to an end, and on what date did India become free from British rule?",
+        "ground_truth": "British rule in India came to an end in August 1947, and India became free from British rule on August 15, 1947."
+    },
+    {
+        "question_id": "Q_HIS_070",
+        "question": "Where did Prithvi Narayan Shah move his capital after conquering Nepal Valley in 1769, and what is the capital of Nepal?",
+        "ground_truth": "Prithvi Narayan Shah conquered Nepal Valley in 1769 and moved his capital to Kathmandu, and the capital of Nepal is Kathmandu."
+    },
+    {
+        "question_id": "Q_HIS_071",
+        "question": "Explain how the division of Yaksha Malla's kingdom led to the creation of independent principalities and how Prithvi Narayan Shah later conquered the valley and moved his capital.",
+        "ground_truth": "Yaksha Malla divided his kingdom among his three sons and created the independent principalities of Kathmandu, Patan, and Bhaktapur. Prithvi Narayan Shah later conquered the valley in 1769 and moved his capital to Kathmandu."
+    },
+    {
+        "question_id": "Q_HIS_072",
+        "question": "Describe the emergence of the Indus civilization, its two largest sites, and the characteristic layout that these cities shared.",
+        "ground_truth": "The Indus civilization emerged about 2600 BCE and its two largest sites were Mohenjo-daro and Harappa. Both cities shared a characteristic layout with a great fortified citadel mound to the west and a larger lower city to the east."
+    },
+    {
+        "question_id": "Q_HIS_073",
+        "question": "Which culture is known for producing bronze drums?",
+        "ground_truth": "Dong Son culture"
+    },
+    {
+        "question_id": "Q_HIS_074",
+        "question": "Which empire was a great Sumatran trading empire?",
+        "ground_truth": "Srivijaya"
+    },
+    {
+        "question_id": "Q_HIS_075",
+        "question": "Which state flourished in the Tonle Sap region?",
+        "ground_truth": "Khmer"
+    },
+    {
+        "question_id": "Q_HIS_076",
+        "question": "What attacks occurred in the second half of the 13th century?",
+        "ground_truth": "Mongol attacks"
+    },
+    {
+        "question_id": "Q_HIS_077",
+        "question": "Which dynasty ruled in Myanmar during the classical period?",
+        "ground_truth": "Toungoo dynasty"
+    },
+    {
+        "question_id": "Q_HIS_078",
+        "question": "Which people opposed Chinese rule until they gained independence in 939 CE?",
+        "ground_truth": "Vietnamese"
+    },
+    {
+        "question_id": "Q_HIS_079",
+        "question": "How much can Dong Son drums weigh?",
+        "ground_truth": "150 pounds"
+    },
+    {
+        "question_id": "Q_HIS_080",
+        "question": "When do hominid fossils in Southeast Asia date from?",
+        "ground_truth": "1,500,000 years ago"
+    },
+    {
+        "question_id": "Q_HIS_081",
+        "question": "When did the Hoabinhian culture last from?",
+        "ground_truth": "13,000 to 5000 BCE"
+    },
+    {
+        "question_id": "Q_HIS_082",
+        "question": "When did sea levels rise to approximately their present level?",
+        "ground_truth": "6000 BCE"
+    },
+    {
+        "question_id": "Q_HIS_083",
+        "question": "When were metallworking and agriculture being practiced?",
+        "ground_truth": "3rd millennium BCE"
+    },
+    {
+        "question_id": "Q_HIS_084",
+        "question": "When did the Dong Son culture begin producing bronze drums?",
+        "ground_truth": "500 BCE"
+    },
+    {
+        "question_id": "Q_HIS_085",
+        "question": "When was most of Southeast Asia first influenced by China and India?",
+        "ground_truth": "150 BCE and 150 CE"
+    },
+    {
+        "question_id": "Q_HIS_086",
+        "question": "When did the Vietnamese gain independence from China?",
+        "ground_truth": "939 CE"
+    },
+    {
+        "question_id": "Q_HIS_087",
+        "question": "When was Palembang in southern Sumatra visited by Buddhist devotees?",
+        "ground_truth": "7th century CE"
+    },
+    {
+        "question_id": "Q_HIS_088",
+        "question": "When did the Khmer state flourish in the Tonle Sap region?",
+        "ground_truth": "9th and mid-13th centuries"
+    },
+    {
+        "question_id": "Q_HIS_089",
+        "question": "Where is the Dong Son site located?",
+        "ground_truth": "northern Vietnam"
+    }
+]
