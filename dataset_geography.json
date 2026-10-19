@@ -2338,18 +2338,5 @@
       "answer_length_category": "Multisentence",
       "primary_hallucination_type": "Temporal",
       "source_url": "https://en.wikipedia.org/wiki/Sahara"
-    },
-    {
-      "question_id": "Q_GEO_181",
-      "fact_id": "GEO_181",
-      "domain": "Geography",
-      "difficulty": "Hard",
-      "question_type": "Multifact",
-      "question": "What bodies of water and region define the Sahara's northern, eastern, western, and southern boundaries, and which major regions are included within the Sahara?",
-      "ground_truth": "The Sahara extends from the Red Sea and Mediterranean Sea to the Atlantic Ocean, with the Sahel forming its southern boundary. The Sahel is a semi-arid tropical savanna around the Niger River valley and the Sudan region of sub-Saharan Africa. The Sahara includes regions such as the western Sahara, Ahaggar Mountains, Tibesti Mountains, Aïr Mountains, Ténéré desert, and Libyan Desert.",
-      "answer_type": "Medium",
-      "answer_length_category": "Multisentence",
-      "primary_hallucination_type": "Multifact",
-      "source_url": "https://en.wikipedia.org/wiki/Sahara"
     }
   ]
