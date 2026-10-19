@@ -1,0 +1,18 @@
+{
+  "canonical_question_count": 10800,
+  "input_response_count": 64800,
+  "merged_record_count": 64800,
+  "model_counts": {
+    "GPT-5.6 Luna": 10800,
+    "Claude Sonnet 5.5": 10800,
+    "DeepSeek-V4.1-Flash": 10800,
+    "Gemini 3": 10800,
+    "Qwen 3.7": 10800,
+    "GLM-5.3 Flash": 10800
+  },
+  "questions_with_response_counts": {
+    "6": 10800
+  },
+  "unknown_question_ids": [],
+  "missing_fields": []
+}
