@@ -11340,1264 +11340,1264 @@
     "timestamp": "2026-10-10T11:38:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_001",
+    "question_id": "Q_HI-EN_TEC_001",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "Adam Smith",
-    "timestamp": "2026-10-10T11:48:33+05:30"
+    "response": "Internet ko paraspar jude computer networks ki pranali ke roop mein varnit kiya gaya hai.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_002",
+    "question_id": "Q_HI-EN_TEC_002",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "The Wealth of Nations",
-    "timestamp": "2026-10-10T11:48:33+05:30"
+    "response": "Programmable computer ki avdharna Charles Babbage ne di.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_003",
+    "question_id": "Q_HI-EN_TEC_003",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "Karl Marx",
-    "timestamp": "2026-10-10T11:48:33+05:30"
+    "response": "World Wide Web (WWW) mein documents, images, multimedia, applications, aur anya sansadhan hain.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_004",
+    "question_id": "Q_HI-EN_TEC_004",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "John Maynard Keynes",
-    "timestamp": "2026-10-10T11:48:33+05:30"
+    "response": "1950 mein Turing test Alan Turing ne prastavit kiya.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_005",
+    "question_id": "Q_HI-EN_TEC_005",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "Milton Friedman",
-    "timestamp": "2026-10-10T11:48:33+05:30"
+    "response": "Adhikansh electronic circuits banane ke liye silicon sabse mahatvapurn tatva hai.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_006",
+    "question_id": "Q_HI-EN_TEC_006",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "Alfred Marshall",
-    "timestamp": "2026-10-10T11:48:33+05:30"
+    "response": "Pathar ke auzaron (stone tools) ko sabse prarambhik gyat technology ke roop mein pehchaana gaya hai.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_007",
+    "question_id": "Q_HI-EN_TEC_007",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "29 deshon ne",
-    "timestamp": "2026-10-10T11:48:33+05:30"
+    "response": "Internet Protocol Suite ko aam taur par TCP/IP ke naam se jaana jaata hai.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_008",
+    "question_id": "Q_HI-EN_TEC_008",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "39 sadasya",
-    "timestamp": "2026-10-10T11:48:33+05:30"
+    "response": "Pawan urja ke sabse prarambhik gyat upyog se judi prarambhik Nile naav lagbhag 5,000 saal purani hain.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_009",
+    "question_id": "Q_HI-EN_TEC_009",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "8 May 1947",
-    "timestamp": "2026-10-10T11:48:33+05:30"
+    "response": "Pahiye wali gaadiyon ko darshane wali sabse purani kalakritiyan lagbhag 4th millennium BC ki hain.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_010",
+    "question_id": "Q_HI-EN_TEC_010",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "Har do saal mein ek baar",
-    "timestamp": "2026-10-10T11:48:33+05:30"
+    "response": "1971 ke ant tak yuva ARPANET se 23 sites judi thi.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_011",
+    "question_id": "Q_HI-EN_TEC_011",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "November 2001",
-    "timestamp": "2026-10-10T11:48:33+05:30"
+    "response": "Lagbhag sabhi aadhunik computers mein ek byte 8 bits ka hota hai.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_012",
+    "question_id": "Q_HI-EN_TEC_012",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "26 February se 2 March 2024",
-    "timestamp": "2026-10-10T11:48:33+05:30"
+    "response": "Technology shabd 17vi sadi ki shuruaat ka hai.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_013",
+    "question_id": "Q_HI-EN_TEC_013",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "1720",
-    "timestamp": "2026-10-10T11:48:33+05:30"
+    "response": "Industrial Revolution ke liye 18vi sadi ke uttarardh se 19vi sadi ki shuruaat tak ki avadhi di gayi hai.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_014",
+    "question_id": "Q_HI-EN_TEC_014",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "Ghair-bazaari karya (unpaid work), gharelu kaam, aur illicit/informal economy",
-    "timestamp": "2026-10-10T11:48:33+05:30"
+    "response": "2024 tak gyat sabse purana lakdi ka pahiya Ljubljana Marshes mein mila tha.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_015",
+    "question_id": "Q_HI-EN_TEC_015",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "27 December 1945",
-    "timestamp": "2026-10-10T11:48:33+05:30"
+    "response": "Technology mein moort aur amoort dono prakar ke utpad shaamil ho sakte hain, aur yeh avdharnatmak gyan ko vyavaharik uddeshyon ya samasya samadhan ki or lagu karti hai.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_016",
+    "question_id": "Q_HI-EN_TEC_016",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "1 March 1947",
-    "timestamp": "2026-10-10T11:48:33+05:30"
+    "response": "Internet alag-alag computer networks ko jodta hai, aur sanchar ke liye yeh Internet Protocol Suite (TCP/IP) ka upyog karta hai.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_017",
+    "question_id": "Q_HI-EN_TEC_017",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "Washington, D.C., United States",
-    "timestamp": "2026-10-10T11:48:33+05:30"
+    "response": "Programs aadhunik digital electronic computers ko ankganitiya, tarkik, aur anya nirdeshon ka paalan karne mein saksham banate hain.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_018",
+    "question_id": "Q_HI-EN_TEC_018",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "Durlabh sansadhanon ke aabantan, utpadan, vitaran aur upbhog ka adhyayan",
-    "timestamp": "2026-10-10T11:48:33+05:30"
+    "response": "Semiconductor ki chalakta ko doping dwara badla ja sakta hai, aur alag-alag doping star p-type aur n-type semiconductor bana sakte hain.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_019",
+    "question_id": "Q_HI-EN_TEC_019",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "Bhoomi (Land), Shram (Labor), aur Punji (Capital)",
-    "timestamp": "2026-10-10T11:48:33+05:30"
+    "response": "World Wide Web hyperlinks ke madhyam se sansadhanon ko jodta hai, aur Uniform Resource Identifiers (URIs) unhe naamit sandarbh pradan karte hain.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_020",
+    "question_id": "Q_HI-EN_TEC_020",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "Upbhog (C), Nivesh (I), Sarkari Vyay (G), aur Shuddh Niryat (NX)",
-    "timestamp": "2026-10-10T11:48:33+05:30"
+    "response": "Machine learning applications mein bias aane ke teen mukhya strot hain: data bias, algorithmic bias, aur human/evaluation bias.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_021",
+    "question_id": "Q_HI-EN_TEC_021",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "Krishi (Agriculture)",
-    "timestamp": "2026-10-10T11:48:33+05:30"
+    "response": "Lekhan ne itihas, pustakalayon, schoolon, aur vaigyanik anusandhan jaisi sansthaon aur gatividhiyon ka aadhar pradan kiya.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_022",
+    "question_id": "Q_HI-EN_TEC_022",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "Sone aur chandi ke bhandar par",
-    "timestamp": "2026-10-10T11:48:33+05:30"
+    "response": "Printing press ne movable metal type ka upyog kiya, iski dabane wali yantriki traditional wine presses se anukoolit thi, aur iske aavishkar ne gyan aur suchna ke prasar ko badhaya.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_023",
+    "question_id": "Q_HI-EN_TEC_023",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "Adam Smith",
-    "timestamp": "2026-10-10T11:48:33+05:30"
+    "response": "Networks aur devices ke beech sanchar ke liye Internet TCP/IP network ka upyog karta hai.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_024",
+    "question_id": "Q_HI-EN_TEC_024",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "The Wealth of Nations",
-    "timestamp": "2026-10-10T11:48:33+05:30"
+    "response": "19vi sadi ki shuruaat mein pehle mechanical computer ki parikalpana aur aavishkar Charles Babbage ne kiya.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_025",
+    "question_id": "Q_HI-EN_TEC_025",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "Vyaktigat aarthik ikaiyon jaise ki upbhokta, ferm, aur bazaar ke vyavhar ka",
-    "timestamp": "2026-10-10T11:48:33+05:30"
+    "response": "Turing test kisi machine ki manav baatcheet ki nakal karne ki kshamta ko maapta hai.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_026",
+    "question_id": "Q_HI-EN_TEC_026",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "Sampurna arthvyavastha ke samagra chalan aur karakon ka",
-    "timestamp": "2026-10-10T11:48:33+05:30"
+    "response": "World Wide Web ko Internet dwara le jaayi jaane wali applications aur services mein se ek ke roop mein pehchaana gaya hai.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_027",
+    "question_id": "Q_HI-EN_TEC_027",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "Fabian Society sadasyon (Beatrice Webb, Sidney Webb, Graham Wallas, George Bernard Shaw)",
-    "timestamp": "2026-10-10T11:48:33+05:30"
+    "response": "Silicon aur Germanium do tatviya semiconductor padarth vyavsayik roop se mahatvapurn bataye gaye hain.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_028",
+    "question_id": "Q_HI-EN_TEC_028",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "Ministerial Conference",
-    "timestamp": "2026-10-10T11:48:33+05:30"
+    "response": "Germanium ko silicon ke baad doosre sabse aam semiconductor ke roop mein pehchaana gaya hai.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_029",
+    "question_id": "Q_HI-EN_TEC_029",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "International Monetary Fund (IMF) / World Trade Organization (WTO)",
-    "timestamp": "2026-10-10T11:48:33+05:30"
+    "response": "Neolithic Revolution ko First Agricultural Revolution bhi kehlata hai.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_030",
+    "question_id": "Q_HI-EN_TEC_030",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "Bretton Woods system (Fixed Exchange Rate system)",
-    "timestamp": "2026-10-10T11:48:33+05:30"
+    "response": "Britain mein Industrial Revolution mein textile machinery, khanan, dhatukarm, parivahan, aur machine tools mein vikas shaamil the.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_031",
+    "question_id": "Q_HI-EN_TEC_031",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "Ek nishchit samay avadhi mein kisi desh ke andar utpadit sabhi antim vastuon aur sevaon ka kul bazar moolya.",
-    "timestamp": "2026-10-10T11:48:33+05:30"
+    "response": "Expert system ek aisa AI program hai jo manav visheshagyon ke gyan aur vishleshanatmak kaushal ki nakal karta hai.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_032",
+    "question_id": "Q_HI-EN_TEC_032",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "Consumer Price Index (CPI) aur GDP Deflator",
-    "timestamp": "2026-10-10T11:48:33+05:30"
+    "response": "Generative AI upkshetra digital data ke roop banane ke liye generative models ka upyog karta hai.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_033",
+    "question_id": "Q_HI-EN_TEC_033",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "Price Revolution",
-    "timestamp": "2026-10-10T11:48:33+05:30"
+    "response": "Hyperlinks World Wide Web par sansadhanon ko tarkik roop se paraspar jodti hai.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_034",
+    "question_id": "Q_HI-EN_TEC_034",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "Consumer Price Index (CPI) mein hui pratishat parivartan ke madhyam se",
-    "timestamp": "2026-10-10T11:48:33+05:30"
+    "response": "Hypertext Transfer Protocol (HTTP) ko World Wide Web ke mukhya access protocol ke roop mein pehchaana gaya hai.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_035",
+    "question_id": "Q_HI-EN_TEC_035",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "5 shreniyon mein",
-    "timestamp": "2026-10-10T11:48:33+05:30"
+    "response": "Internet Protocol Suite 1983 mein maanakikrit hua.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_036",
+    "question_id": "Q_HI-EN_TEC_036",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "Compensation of employees",
-    "timestamp": "2026-10-10T11:48:33+05:30"
+    "response": "Pehle ARPANET nodes 29 October 1969 ko paraspar jode gaye the.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_037",
+    "question_id": "Q_HI-EN_TEC_037",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "Gross operating surplus",
-    "timestamp": "2026-10-10T11:48:33+05:30"
+    "response": "NSFNet ne shuru mein U.S. supercomputer sites tak 56 kbps data rate par pahunch pradan ki.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_038",
+    "question_id": "Q_HI-EN_TEC_038",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "Gross Domestic Product (GDP)",
-    "timestamp": "2026-10-10T11:48:33+05:30"
+    "response": "Ljubljana Marsh mein mila sabse purana gyat lakdi ka pahiya lagbhag 5,100 se 5,350 saal purana hai.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_039",
+    "question_id": "Q_HI-EN_TEC_039",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "1870",
-    "timestamp": "2026-10-10T11:48:33+05:30"
+    "response": "Technology article mein varnit sabse prarambhik pathar ke auzar lakho saal purane (lagbhag 3.3 million saal) hain.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_040",
+    "question_id": "Q_HI-EN_TEC_040",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "1890",
-    "timestamp": "2026-10-10T11:48:33+05:30"
+    "response": "Chulhon ke puratattvik saakshya ko lagbhag 790,000 saal pehle ka aanka gaya hai.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_041",
+    "question_id": "Q_HI-EN_TEC_041",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "Lagbhag 20 baar",
-    "timestamp": "2026-10-10T11:48:33+05:30"
+    "response": "Ek byte 256 alag-alag sankhyaon ko darsha sakta hai.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_042",
+    "question_id": "Q_HI-EN_TEC_042",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "1838",
-    "timestamp": "2026-10-10T11:48:33+05:30"
+    "response": "Printing press ke vikas ke liye 15vi sadi (around 1440) ki avadhi di gayi hai.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_043",
+    "question_id": "Q_HI-EN_TEC_043",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "International Monetary Fund (IMF)",
-    "timestamp": "2026-10-10T11:48:33+05:30"
+    "response": "Second Industrial Revolution 19vi sadi ke ant mein shuru hui aur 20vi sadi ki shuruaat (World War I) tak chali.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_044",
+    "question_id": "Q_HI-EN_TEC_044",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "Jeevan ki laagat (Cost of Living) aur Purchasing Power Parity (PPP)",
-    "timestamp": "2026-10-10T11:48:33+05:30"
+    "response": "Silicon wafers pehli baar 1950 ke dashak mein prastut kiye gaye the.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_045",
+    "question_id": "Q_HI-EN_TEC_045",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "1916",
-    "timestamp": "2026-10-10T11:48:33+05:30"
+    "response": "Pehle paraspar jude ARPANET nodes UCLA aur Stanford Research Institute (SRI) the.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_046",
+    "question_id": "Q_HI-EN_TEC_046",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "China duniya ki 11vi sabse badi arthvyavastha se badhkar 2ra sabse bada desh ban gaya.",
-    "timestamp": "2026-10-10T11:48:33+05:30"
+    "response": "1988-89 ke dauran NSFNet ka vistaar antarrashtriy star par Canada, Europe, aur kai anya deshon ke shaikshik aur research sangathanon tak hua.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_047",
+    "question_id": "Q_HI-EN_TEC_047",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "Varshik (Annual) ya Chhamahi/Timaahi (Quarterly) aadhar par",
-    "timestamp": "2026-10-10T11:48:33+05:30"
+    "response": "Technology aarthik vikas aur manav samriddhi ko badhava de sakti hai, lekin iske nakaratmak prabhavon mein pradushan, sansadhanon ka ksharan, aur berojgari shaamil ho sakte hain.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_048",
+    "question_id": "Q_HI-EN_TEC_048",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "Desh ki bhaugolik seema ke andar hone wala sabhi utpadan shaamil hota hai.",
-    "timestamp": "2026-10-10T11:48:33+05:30"
+    "response": "Pahiye ke aavishkar ne yatra ko aasan banaya aur parivahan tatha heavy machinery ke vikas ko sambhav banaya.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_049",
+    "question_id": "Q_HI-EN_TEC_049",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "November 2001",
-    "timestamp": "2026-10-10T11:48:33+05:30"
+    "response": "Neolithic kaal ke dauran krishi aur sthayi nivas ne jansankhya aakar mein vriddhi ki, bachchon ke paalan-poshan ke tariko ko badla, aur shram vishishtikaran (division of labour) ko sambhav banaya.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_050",
+    "question_id": "Q_HI-EN_TEC_050",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "June 2022",
-    "timestamp": "2026-10-10T11:48:33+05:30"
+    "response": "British Industrial Revolution ko koyle aur bhaap shakti ne prerit kiya, aur ismein textile machinery, khanan, dhatukarm, aur parivahan jaise takneeki kshetra shaamil the.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_051",
+    "question_id": "Q_HI-EN_TEC_051",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "1970s ke uttarardh aur 1980s mein",
-    "timestamp": "2026-10-10T11:48:33+05:30"
+    "response": "ARPANET apne prarambhik do nodes se viksit hokar 1971 ke ant tak 23 alag-alag sites aur nodes tak jud gaya tha.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_052",
+    "question_id": "Q_HI-EN_TEC_052",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "1900",
-    "timestamp": "2026-10-10T11:48:33+05:30"
+    "response": "World Wide Web sansadhan hyperlinks aur URIs ke madhyam se paraspar jude hain, jahan hyperlinks ek resource se doosre resource par jane ka rasta dete hain aur URIs unhe anumaanit pata dete hain.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_053",
+    "question_id": "Q_HI-EN_TEC_053",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "Bretton Woods, New Hampshire, United States",
-    "timestamp": "2026-10-10T11:48:33+05:30"
+    "response": "Semiconductor ki chalakta conductors aur insulators ke beech ki hoti hai, aur doping iski chalakta ko niyantrit ya badhane mein madad karti hai.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_054",
+    "question_id": "Q_HI-EN_TEC_054",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "Washington, D.C., United States",
-    "timestamp": "2026-10-10T11:48:33+05:30"
+    "response": "Group III tatva (jaise boron) p-type semiconductor banate hain jabki Group V tatva (jaise phosphorus) n-type semiconductor banate hain, jo silicon ki chalakta ko badhate hain.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_055",
+    "question_id": "Q_HI-EN_TEC_055",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "Mercantilism ek aarthik niti thi jo niryat ko badhava deti thi; iske anusar sampatti sone-chandi ke bhandar par nirbhar thi.",
-    "timestamp": "2026-10-10T11:48:33+05:30"
+    "response": "Generative AI models large datasets se patterns seekhte hain aur input ke jawab mein text, images, aur anya digital data utpann kar sakte hain.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_056",
+    "question_id": "Q_HI-EN_TEC_056",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "Unhone prashasanik hastakshep ke bina laissez-faire aur krishi dwara utpadit adhishesh ka vichar viksit kiya.",
-    "timestamp": "2026-10-10T11:48:33+05:30"
+    "response": "2010s ke ant mein powerful GPUs, tensor processing units (TPUs), aur advanced deep learning architectures ne bade paimane ke machine-learning models ka samarthan kiya.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_057",
+    "question_id": "Q_HI-EN_TEC_057",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "Bhoomi, Shram aur Punji; aur shram vibhajan (division of labor) ko pramukh yogdankarta mana.",
-    "timestamp": "2026-10-10T11:48:33+05:30"
+    "response": "Transistors chhote aakar ke hote hain aur kam garmi paida karte hain, isliye transistorized computers apekshakrit compact sthanon mein kai binary logic circuits rakh sakte the.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_058",
+    "question_id": "Q_HI-EN_TEC_058",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "GDP = Upbhog (C) + Nivesh (I) + Sarkari Vyay (G) + Shuddh Niryat (NX)",
-    "timestamp": "2026-10-10T11:48:33+05:30"
+    "response": "Aadhunik computer memory mein binary sankhyayein 0s aur 1s (bits) ke roop mein sangrahit hoti hain, aur ek byte 256 alag-alag sankhyaon ko darsha sakta hai.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_059",
+    "question_id": "Q_HI-EN_TEC_059",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "Irving Fisher ek American economist the; unhone quantity theory of money aur interest rate theories mein yogdan diya.",
-    "timestamp": "2026-10-10T11:48:33+05:30"
+    "response": "Internet networks aur devices ke beech sanchar ke liye Internet Protocol Suite ka upyog karta hai, aur ise aam taur par TCP/IP ke naam se jaana jaata hai.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_060",
+    "question_id": "Q_HI-EN_TEC_060",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "Karl Marx",
-    "timestamp": "2026-10-10T11:48:33+05:30"
+    "response": "Programmable computer ki avdharna Charles Babbage ne di aur unhe computer ka janak kaha jaata hai.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_061",
+    "question_id": "Q_HI-EN_TEC_061",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "Vilfredo Pareto",
-    "timestamp": "2026-10-10T11:48:33+05:30"
+    "response": "Turing test Alan Turing ne prastavit kiya, aur yeh test kisi machine ki manav baatcheet ki nakal karne ki kshamta ko maapta hai.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_062",
+    "question_id": "Q_HI-EN_TEC_062",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "Thorstein Veblen",
-    "timestamp": "2026-10-10T11:48:33+05:30"
+    "response": "Adhikansh electronic circuits banane ke liye silicon semiconductor padarth mahatvapurn hai, aur uske baad Germanium doosre sabse aam semiconductor ke roop mein pehchaana gaya hai.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_063",
+    "question_id": "Q_HI-EN_TEC_063",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "July 1944 mein Bretton Woods Conference mein, jismein 44 deshon ne bhaag liya.",
-    "timestamp": "2026-10-10T11:48:33+05:30"
+    "response": "Apne prarambhik do-node connection ke baad, 1971 ke ant tak ARPANET se 23 sites judi thi.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_064",
+    "question_id": "Q_HI-EN_TEC_064",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "Consumer Price Index (CPI), Producer Price Index (PPI), aur GDP Deflator",
-    "timestamp": "2026-10-10T11:48:33+05:30"
+    "response": "Ek byte mein 8 bits hote hain, aur ek byte 256 alag-alag sankhyaon ko darsha sakta hai.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_065",
+    "question_id": "Q_HI-EN_TEC_065",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "Karmachariyon ka paarishramik, sakal parichalan adhishesh, sakal mishrit aay, aur utpadan par kar minus sab-sidi.",
-    "timestamp": "2026-10-10T11:48:33+05:30"
+    "response": "Industrial Revolution ke liye 18vi sadi ke uttarardh se 19vi sadi ki shuruaat tak ki avadhi di gayi hai, aur iske kuch pramukh takneeki vikas bhaap engine, textile machinery aur lohe ka utpadan the.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_066",
+    "question_id": "Q_HI-EN_TEC_066",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "GATT ke nirnay sarvasammati (consensus) dwara liye jate the, jisse koi bhi desh unhe block kar sakta tha.",
-    "timestamp": "2026-10-10T11:48:33+05:30"
+    "response": "17vi sadi ki shuruaat se 20vi sadi tak technology shabd ka arth keval kalaon se badhkar vyapak roop se vaigyanik aur audyogik takneekiyon tak viksit hua.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_067",
+    "question_id": "Q_HI-EN_TEC_067",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "1971 mein, jab US ne dollar ki sone mein pariwartaniyata ko nilambit kar diya (Nixon Shock).",
-    "timestamp": "2026-10-10T11:48:33+05:30"
+    "response": "Prarambhik ARPANET connection UCLA aur Stanford mein tha, jabki teesri aur chauthi sites University of California, Santa Barbara (UCSB) aur University of Utah par thi.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_068",
+    "question_id": "Q_HI-EN_TEC_068",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "Great Depression gambhir deflatiion aur berozgari ki visheshta thi; tab se keematon mein aam taur par mudrasfiti (inflation) dekhi gayi hai.",
-    "timestamp": "2026-10-10T11:48:33+05:30"
+    "response": "Prarambhik vikas pathar ke auzaron se aag ke upyog aur phir pahiye tak hua, aur pahiye ne parivahan aur machinery ke vikas ko sambhav banaya.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_069",
+    "question_id": "Q_HI-EN_TEC_069",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "IMF Washington, D.C. mein hai; WTO Ministerial Conferences vibhinn shahron (jaise Geneva, Doha, Abu Dhabi) mein hui hain.",
-    "timestamp": "2026-10-10T11:48:33+05:30"
+    "response": "Lekhan ne saanskritik gyan ke prasar, itihas, pustakalayon, schoolon, aur vaigyanik anusandhan ke vikas mein mahatvapurn yogdan diya.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_070",
+    "question_id": "Q_HI-EN_TEC_070",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "Microeconomics vyaktigat ikaiyon ka aur Macroeconomics samagra arthvyavastha ka vishleshan karta hai.",
-    "timestamp": "2026-10-10T11:48:33+05:30"
+    "response": "World Wide Web mein documents, images aur multimedia jaise sansadhan hain, jo URIs dwara naamit hote hain aur HTTP ke madhyam se access kiye jaate hain.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_071",
+    "question_id": "Q_HI-EN_TEC_071",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "Bhoomi, Shram aur Punji ki pehchaan ki; shram vibhajan aur karya ke vishishtikaran par charcha ki.",
-    "timestamp": "2026-10-10T11:48:33+05:30"
+    "response": "Semiconductor ki chalakta conductors aur insulators ke beech hoti hai, aur Group III ya Group V tatva (dopants) iski chalakta ko p-type ya n-type mein badal kar prabhavit karte hain.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_072",
+    "question_id": "Q_HI-EN_TEC_072",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "CPI aur PPI ke madhyam se maapi jati hai; core inflation mein khadya aur oorja (food & energy) ki keematein shaamil nahi hoti.",
-    "timestamp": "2026-10-10T11:48:33+05:30"
+    "response": "Generative AI models aise models hain jo training data se patterns seekhte hain aur text, images, aur anya digital data utpann kar sakte hain.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_073",
+    "question_id": "Q_HI-EN_TEC_073",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "Board of Governors",
-    "timestamp": "2026-10-10T11:48:33+05:30"
+    "response": "Internet Protocol Suite ko aam taur par TCP/IP ke naam se jaana jaata hai.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_074",
+    "question_id": "Q_HI-EN_TEC_074",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "24 Executive Directors",
-    "timestamp": "2026-10-10T11:48:33+05:30"
+    "response": "Internet par sansadhanon ko jodne ke liye World Wide Web (ya web pages) mein hyperlinks ka upyog kiya jaata hai.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_075",
+    "question_id": "Q_HI-EN_TEC_075",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "Managing Director",
-    "timestamp": "2026-10-10T11:48:33+05:30"
+    "response": "Expert systems manav visheshagyon ke gyan aur vishleshanatmak kaushal ki nakal karte hain.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_076",
+    "question_id": "Q_HI-EN_TEC_076",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "Ministerial Conference",
-    "timestamp": "2026-10-10T11:48:33+05:30"
+    "response": "Germanium ko silicon ke baad doosre sabse aam semiconductor ke roop mein pehchaana gaya hai.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_077",
+    "question_id": "Q_HI-EN_TEC_077",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "General Council",
-    "timestamp": "2026-10-10T11:48:33+05:30"
+    "response": "First Agricultural Revolution ka doosra naam Neolithic Revolution hai.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_078",
+    "question_id": "Q_HI-EN_TEC_078",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "GDP Deflator / Consumer Price Index (CPI)",
-    "timestamp": "2026-10-10T11:48:33+05:30"
+    "response": "Pathar ke auzaron (stone tools) ko sabse prarambhik gyat technology ke roop mein pehchaana gaya hai.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_079",
+    "question_id": "Q_HI-EN_TEC_079",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "190 sadasya desh",
-    "timestamp": "2026-10-10T11:48:33+05:30"
+    "response": "Programmable computer ki avdharna Charles Babbage ne di.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_080",
+    "question_id": "Q_HI-EN_TEC_080",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "29 sadasya deshon ne",
-    "timestamp": "2026-10-10T11:48:33+05:30"
+    "response": "Pehle ARPANET nodes 29 October 1969 ko paraspar jode gaye the.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_081",
+    "question_id": "Q_HI-EN_TEC_081",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "Desh ke quota ke aadhar par nirdharit seema tak",
-    "timestamp": "2026-10-10T11:48:33+05:30"
+    "response": "1971 ke ant tak ARPANET se 23 sites judi thi.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_082",
+    "question_id": "Q_HI-EN_TEC_082",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "18 vibhag",
-    "timestamp": "2026-10-10T11:48:33+05:30"
+    "response": "Ek byte mein 8 bits hote hain.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_083",
+    "question_id": "Q_HI-EN_TEC_083",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "Lagbhag 2,700 karmachari",
-    "timestamp": "2026-10-10T11:48:33+05:30"
+    "response": "Ek byte 256 alag-alag sankhyaon ko darsha sakta hai.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_084",
+    "question_id": "Q_HI-EN_TEC_084",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "Lagbhag 150 se adhik deshon se",
-    "timestamp": "2026-10-10T11:48:33+05:30"
+    "response": "Technology shabd 17vi sadi ki shuruaat ka hai.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_085",
+    "question_id": "Q_HI-EN_TEC_085",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "Lagbhag 30,000 pannon ka",
-    "timestamp": "2026-10-10T11:48:33+05:30"
+    "response": "History of technology timeline mein printing press ka vikas 15vi sadi (around 1440) se juda hai.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_086",
+    "question_id": "Q_HI-EN_TEC_086",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "Lagbhag 60 samjhaute",
-    "timestamp": "2026-10-10T11:48:33+05:30"
+    "response": "Sabse purana gyat lakdi ka pahiya Ljubljana Marshes (Slovenia) mein mila tha.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_087",
+    "question_id": "Q_HI-EN_TEC_087",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "27 December 1945",
-    "timestamp": "2026-10-10T11:48:33+05:30"
+    "response": "Technology mein moort (jaise auzar aur machines) aur amoort (jaise software aur methods) dono utpad shaamil ho sakte hain.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_088",
+    "question_id": "Q_HI-EN_TEC_088",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "1 January 1995",
-    "timestamp": "2026-10-10T11:48:33+05:30"
+    "response": "Internet mein vividh local aur global networks shaamil ho sakte hain, aur unke beech sanchar ko TCP/IP protocol suite sambhav banata hai.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_089",
+    "question_id": "Q_HI-EN_TEC_089",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "Washington, D.C., United States",
-    "timestamp": "2026-10-10T11:48:33+05:30"
+    "response": "Aadhunik computers ko ankganitiya, tarkik, aur anya karya karne mein programs aur processor saksham banate hain.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_090",
+    "question_id": "Q_HI-EN_TEC_090",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "Bhoomi (Land), Shram (Labor), aur Punji (Capital)",
-    "timestamp": "2026-10-10T11:48:33+05:30"
+    "response": "Semiconductor ki chalakta ko doping (ashuddhiyan milana) dwara badla ja sakta hai, aur alag-alag doping star p-type aur n-type semiconductor banate hain.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_091",
+    "question_id": "Q_HI-EN_TEC_091",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "C + I + G + (X - M) ya sabhi aay ki shreniyon ka yog",
-    "timestamp": "2026-10-10T11:58:33+05:30"
+    "response": "World Wide Web hyperlinks ke madhyam se sansadhanon ko jodta hai, aur URIs unhe naamit sandarbh pradan karte hain.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_092",
+    "question_id": "Q_HI-EN_TEC_092",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "5 shreniyon mein",
-    "timestamp": "2026-10-10T11:58:33+05:30"
+    "response": "Machine learning applications mein bias aane ke teen mukhya strot hain: data bias, algorithmic bias, aur human/evaluation bias.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_093",
+    "question_id": "Q_HI-EN_TEC_093",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "Vaishvik aarthik sthirta ko badhava dena, antarrashtriya vyapar ko sugam banana, aur garibi ko kam karna.",
-    "timestamp": "2026-10-10T11:58:33+05:30"
+    "response": "Lekhan ne itihas, pustakalayon, schoolon, aur vaigyanik anusandhan jaisi sansthaon aur kshetron ka aadhar pradan kiya.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_094",
+    "question_id": "Q_HI-EN_TEC_094",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "Ghair-bhedbhav (MFN aur National Treatment), khula vyapar, aur pardarshita.",
-    "timestamp": "2026-10-10T11:58:33+05:30"
+    "response": "Printing press ne movable metal type ka upyog kiya, iski dabane wali yantriki wine presses se anukoolit thi, aur iske aavishkar ne gyan ke prasar ko badhaya.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_095",
+    "question_id": "Q_HI-EN_TEC_095",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "Adam Smith",
-    "timestamp": "2026-10-10T11:58:33+05:30"
+    "response": "Internet ek aisi vaishvik pranali hai jo sanchar ke liye Internet Protocol Suite (TCP/IP) ka upyog karti hai.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_096",
+    "question_id": "Q_HI-EN_TEC_096",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "John Maynard Keynes",
-    "timestamp": "2026-10-10T11:58:33+05:30"
+    "response": "19vi sadi ki shuruaat mein pehle mechanical computer ki parikalpana aur aavishkar Charles Babbage ne kiya.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_097",
+    "question_id": "Q_HI-EN_TEC_097",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "Milton Friedman",
-    "timestamp": "2026-10-10T11:58:33+05:30"
+    "response": "1950 mein Turing test Alan Turing ne prastavit kiya.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_098",
+    "question_id": "Q_HI-EN_TEC_098",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "Alfred Marshall",
-    "timestamp": "2026-10-10T11:58:33+05:30"
+    "response": "World Wide Web (WWW) ek aisa sangrah hai jismein hyperlinks dwara paraspar jude documents, images, multimedia, applications, aur anya sansadhan hain.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_099",
+    "question_id": "Q_HI-EN_TEC_099",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "Karl Marx",
-    "timestamp": "2026-10-10T11:58:33+05:30"
+    "response": "Silicon aur Germanium do tatviya semiconductor padarth vyavsayik roop se mahatvapurn bataye gaye hain.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_100",
+    "question_id": "Q_HI-EN_TEC_100",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "Geneva, Switzerland",
-    "timestamp": "2026-10-10T11:58:33+05:30"
+    "response": "Expert system ek aisi pranali hai jo manav visheshagyon ke gyan aur vishleshanatmak kaushal ki nakal karti hai.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_101",
+    "question_id": "Q_HI-EN_TEC_101",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "International Monetary Fund (IMF) / World Bank",
-    "timestamp": "2026-10-10T11:58:33+05:30"
+    "response": "Generative AI upkshetra digital data ke roop banane ke liye generative models ka upyog karta hai.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_102",
+    "question_id": "Q_HI-EN_TEC_102",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "GATT (General Agreement on Tariffs and Trade); sanrakshanvaad (protectionism) se bachne ke liye.",
-    "timestamp": "2026-10-10T11:58:33+05:30"
+    "response": "World Wide Web ka mukhya access protocol Hypertext Transfer Protocol (HTTP) hai.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_103",
+    "question_id": "Q_HI-EN_TEC_103",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "Pratyek sadasya desh ke ek Governor aur ek Alternate Governor.",
-    "timestamp": "2026-10-10T11:58:33+05:30"
+    "response": "Neolithic Revolution First Agricultural Revolution ke naam se bhi jaana jaata hai.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_104",
+    "question_id": "Q_HI-EN_TEC_104",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "1986 se 1994 (8 saal) tak chali; ismein vyapar, sevaon, aur intellectual property ke naye niyam shaamil the.",
-    "timestamp": "2026-10-10T11:58:33+05:30"
+    "response": "Britain mein Industrial Revolution mein textile machinery, khanan, dhatukarm, parivahan, aur machine tools shaamil the.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_105",
+    "question_id": "Q_HI-EN_TEC_105",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "WTO ke pehle 10 saalon mein GATT ke poore 47 saalon se bhi adhik mamle laaye gaye the.",
-    "timestamp": "2026-10-10T11:58:33+05:30"
+    "response": "Adhikansh electronic circuits banane ke liye silicon semiconductor padarth mahatvapurn hai.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_106",
+    "question_id": "Q_HI-EN_TEC_106",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "Consumer Price Index (CPI) aur GDP Deflator",
-    "timestamp": "2026-10-10T11:58:33+05:30"
+    "response": "Internet Protocol Suite 1983 mein maanakikrit hua.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_107",
+    "question_id": "Q_HI-EN_TEC_107",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "Price index mein vaarshik pratishat badlav ke aadhar par.",
-    "timestamp": "2026-10-10T11:58:33+05:30"
+    "response": "Pehle ARPANET nodes 29 October 1969 ko paraspar jode gaye the.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_108",
+    "question_id": "Q_HI-EN_TEC_108",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "Khadya (food) aur oorja (energy) ki asthir keematon ko.",
-    "timestamp": "2026-10-10T11:58:33+05:30"
+    "response": "NSFNet ne shuru mein U.S. supercomputer sites tak 56 kbps data rate par pahunch pradan ki.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_109",
+    "question_id": "Q_HI-EN_TEC_109",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "Compensation of employees",
-    "timestamp": "2026-10-10T11:58:33+05:30"
+    "response": "Ljubljana Marsh mein mila sabse purana gyat lakdi ka pahiya lagbhag 5,100 se 5,350 saal purana hai.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_110",
+    "question_id": "Q_HI-EN_TEC_110",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "Gross operating surplus",
-    "timestamp": "2026-10-10T11:58:33+05:30"
+    "response": "Technology article mein varnit sabse prarambhik pathar ke auzar lakho saal purane hain.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_111",
+    "question_id": "Q_HI-EN_TEC_111",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "Gross mixed income",
-    "timestamp": "2026-10-10T11:58:33+05:30"
+    "response": "Chulhon ke puratattvik saakshya ko lagbhag 790,000 saal pehle ka aanka gaya hai.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_112",
+    "question_id": "Q_HI-EN_TEC_112",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "Vetan, munafa, kiraya, byaj aur karon ko jodkar.",
-    "timestamp": "2026-10-10T11:58:33+05:30"
+    "response": "Ek byte 256 alag-alag sankhyaon ko darsha sakta hai.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_113",
+    "question_id": "Q_HI-EN_TEC_113",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "Price Revolution",
-    "timestamp": "2026-10-10T11:58:33+05:30"
+    "response": "Industrial Revolution ke liye 18vi sadi ke uttarardh se 19vi sadi ki shuruaat tak ki avadhi di gayi hai.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_114",
+    "question_id": "Q_HI-EN_TEC_114",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "James Steuart ne 1767 mein.",
-    "timestamp": "2026-10-10T11:58:33+05:30"
+    "response": "Second Industrial Revolution 19vi sadi ke ant mein shuru hui aur World War I tak chali.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_115",
+    "question_id": "Q_HI-EN_TEC_115",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "Lagbhag 20 baar",
-    "timestamp": "2026-10-10T11:58:33+05:30"
+    "response": "Silicon wafers pehli baar 1950 ke dashak mein prastut kiye gaye the.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_116",
+    "question_id": "Q_HI-EN_TEC_116",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "1870",
-    "timestamp": "2026-10-10T11:58:33+05:30"
+    "response": "Printing press ke liye 15vi sadi (around 1440) ki avadhi di gayi hai.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_117",
+    "question_id": "Q_HI-EN_TEC_117",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "November 2001 mein, Doha, Qatar mein.",
-    "timestamp": "2026-10-10T11:58:33+05:30"
+    "response": "Pehle paraspar jude ARPANET nodes UCLA aur Stanford Research Institute (SRI) the.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_118",
+    "question_id": "Q_HI-EN_TEC_118",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "1986-1994 tak hui; iska parinaam WTO ki sthapna tha.",
-    "timestamp": "2026-10-10T11:58:33+05:30"
+    "response": "1988-89 ke dauran NSFNet ka vistaar Canada, Europe, aur anya deshon ke shaikshik aur research sangathanon tak hua.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_119",
+    "question_id": "Q_HI-EN_TEC_119",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "July 1944 mein, Bretton Woods, New Hampshire mein.",
-    "timestamp": "2026-10-10T11:58:33+05:30"
+    "response": "Technology aarthik vikas aur manav samriddhi ko badhava de sakti hai, jabki iske nakaratmak prabhavon mein pradushan aur sansadhan ksharan shaamil ho sakte hain.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_120",
+    "question_id": "Q_HI-EN_TEC_120",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "1970s ke shuruat (1971-1973) mein.",
-    "timestamp": "2026-10-10T11:58:33+05:30"
+    "response": "Pahiye ne yatra ko aasan banaya aur parivahan tatha machine vikas ke sandarbh mein heavy machinery ko sambhav banaya.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_121",
+    "question_id": "Q_HI-EN_TEC_121",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "100 se adhik deshon mein",
-    "timestamp": "2026-10-10T11:58:33+05:30"
+    "response": "Neolithic kaal ke dauran krishi aur sthayi nivas ne jansankhya aakar mein vriddhi ki, bachchon ke paalan-poshan ke tariko ko badla, aur shram vishishtikaran ko sambhav banaya.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_122",
+    "question_id": "Q_HI-EN_TEC_122",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "Geneva, Switzerland",
-    "timestamp": "2026-10-10T11:58:33+05:30"
+    "response": "British Industrial Revolution ko koyle aur bhaap shakti ne prerit kiya, aur ismein textile machinery, khanan, dhatukarm, aur parivahan jaise takneeki kshetra shaamil the.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_123",
+    "question_id": "Q_HI-EN_TEC_123",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "Mercantilism niryat aur dhatu-sanchay par bal deta tha; Physiocrats krishi ko hi sampatti ka mool strot mante the.",
-    "timestamp": "2026-10-10T11:58:33+05:30"
+    "response": "ARPANET apne prarambhik network se viksit hokar 1971 ke ant tak 23 sites ki sankhya tak phunch gaya tha.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_124",
+    "question_id": "Q_HI-EN_TEC_124",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "Bhoomi, Shram aur Punji; shram vibhajan aur mukta bazaar ko mukhya yogdankarta mana.",
-    "timestamp": "2026-10-10T11:58:33+05:30"
+    "response": "World Wide Web sansadhan hyperlinks, URIs aur HTTP ke madhyam se jude hain, jahan hyperlinks unhe jodte hain, URIs pata dete hain, aur HTTP unke transfer ko sambhav banata hai.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_125",
+    "question_id": "Q_HI-EN_TEC_125",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "Ek desh mein utpadit kul antim moolya; ise vaarshik ya timaahi aadhar par report kiya jata hai.",
-    "timestamp": "2026-10-10T11:58:33+05:30"
+    "response": "Semiconductor ki chalakta conductors aur insulators ke beech hoti hai, aur doping iski chalakta ko badal kar p-type ya n-type bana sakti hai.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_126",
+    "question_id": "Q_HI-EN_TEC_126",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "GDP bhaugolik seema ke andar utpadan ko maapta hai, jabki GNP desh ke nagrikon dwara kiye gaye utpadan ko.",
-    "timestamp": "2026-10-10T11:58:33+05:30"
+    "response": "Group III aur Group V tatva doped silicon ki electrical conductivity ko badhate hain, jisse p-type aur n-type semiconductors bante hain.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_127",
+    "question_id": "Q_HI-EN_TEC_127",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "Upbhog, nivesh, sarkari vyay, aur shuddh niryat ko jodkar.",
-    "timestamp": "2026-10-10T11:58:33+05:30"
+    "response": "Generative AI models large datasets se patterns seekhte hain aur input ke jawab mein text, images aur digital data utpann kar sakte hain.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_128",
+    "question_id": "Q_HI-EN_TEC_128",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "Pramukh roop se dwipakshiya mashvaredan ko protsahit karti hai aur ismein panel aur Appellate Body duara sunvai shaamil hai.",
-    "timestamp": "2026-10-10T11:58:33+05:30"
+    "response": "2010s ke ant mein GPUs, TPUs aur advanced deep learning architectures ne bade paimane ke machine-learning models ka samarthan kiya.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_129",
+    "question_id": "Q_HI-EN_TEC_129",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "Deshon ki aarthik aur vittiya nitiyon, vinimay daron aur bhugtan santulan ki nigrani karta hai.",
-    "timestamp": "2026-10-10T11:58:33+05:30"
+    "response": "Transistors chhote aakar ke hote hain aur kam garmi paida karte hain, isliye transistorized computers apekshakrit compact sthanon mein kai binary logic circuits rakh sakte the.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_130",
+    "question_id": "Q_HI-EN_TEC_130",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "Sadasya deshon ke quota se aate hain; quota desh ke aarthik aakar par nirdharit hota hai.",
-    "timestamp": "2026-10-10T11:58:33+05:30"
+    "response": "Aadhunik computer memory mein binary sankhyayein 0s aur 1s ke roop mein sangrahit hoti hain, aur ek byte 256 alag-alag sankhyaon ko darsha sakta hai.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_131",
+    "question_id": "Q_HI-EN_TEC_131",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "American economist the; unhone quantity theory of money aur index numbers ke vikas mein yogdan diya.",
-    "timestamp": "2026-10-10T11:58:33+05:30"
+    "response": "Turing test Alan Turing ne 1950 mein prastavit kiya, aur yeh kisi machine ki manav baatcheet ki nakal karne ki kshamta ko maapta hai.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_132",
+    "question_id": "Q_HI-EN_TEC_132",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "German darshanik the; unhone Das Kapital likhi aur historical materialism tatha surplus value ka siddhant diya.",
-    "timestamp": "2026-10-10T11:58:33+05:30"
+    "response": "Adhikansh electronic circuits banane ke liye silicon semiconductor mahatvapurn hai, aur Germanium doosra sabse aam semiconductor hai.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_133",
+    "question_id": "Q_HI-EN_TEC_133",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "Italian economist the; Pareto efficiency aur 80/20 rule ke liye jaane jaate hain.",
-    "timestamp": "2026-10-10T11:58:33+05:30"
+    "response": "Programmable computer ki avdharna Charles Babbage ne di, aur unhone Analytical Engine mechanical computer ki parikalpana aur aavishkar kiya.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_134",
+    "question_id": "Q_HI-EN_TEC_134",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "American economist the; unhone 'conspicuous consumption' ki avdharna gadhi.",
-    "timestamp": "2026-10-10T11:58:33+05:30"
+    "response": "Internet Protocol Suite ko aam taur par TCP/IP kaha jaata hai, aur yeh alag-alag networks ke beech data sanchar ko sambhav banata hai.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_135",
+    "question_id": "Q_HI-EN_TEC_135",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "July 1944 mein sthapna hui, 44 deshon ne bhaag liya, aur 27 December 1945 ko aupcharik roop se astitva mein aaya.",
-    "timestamp": "2026-10-10T11:58:33+05:30"
+    "response": "ARPANET ke pehle nodes 29 October 1969 ko jode gaye the, aur 1971 ke ant tak isse 23 sites judi thi.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_136",
+    "question_id": "Q_HI-EN_TEC_136",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "1 January 1995 ko; Uruguay Round (1986-1994) vaartayein hui jinmein vaiparik vishyon par vistar se samjhaute hue.",
-    "timestamp": "2026-10-10T11:58:33+05:30"
+    "response": "Ek byte mein 8 bits hote hain, aur yeh 256 alag-alag sankhyaon ko darsha sakta hai.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_137",
+    "question_id": "Q_HI-EN_TEC_137",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "Broad indices: CPI, GDP Deflator; Narrow indices: 특정 shreni ke PPI ya vishesh vastu mulya soochkank.",
-    "timestamp": "2026-10-10T11:58:33+05:30"
+    "response": "Industrial Revolution ke liye 18vi sadi ke uttarardh se 19vi sadi ki shuruaat tak ki avadhi di gayi hai, jise koyle aur bhaap shakti jaise urja strot ne vishesh banaya.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_138",
+    "question_id": "Q_HI-EN_TEC_138",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "Income approach sabhi aay ko jodti hai, jabki Expenditure approach sabhi vyay (C+I+G+NX) ko jodti hai.",
-    "timestamp": "2026-10-10T11:58:33+05:30"
+    "response": "17vi sadi ki shuruaat se 20vi sadi tak technology ki shabdavali aur arth keval kalaon se badhkar vyapak roop se vaigyanik aur audyogik takneekiyon tak viksit hue.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_139",
+    "question_id": "Q_HI-EN_TEC_139",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "James Steuart ne 1767 mein; Adam Smith ne 1776 mein; Malthus ne 1803 mein lagbhag 20 baar prayog kiya.",
-    "timestamp": "2026-10-10T11:58:33+05:30"
+    "response": "Prarambhik ARPANET connection UCLA aur Stanford mein tha, aur teesri tatha chauthi sites UCSB aur University of Utah par thi.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_140",
+    "question_id": "Q_HI-EN_TEC_140",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "1929-1930s mein hua; is avadhi mein deflation tha, uske baad mudrasfiti ki samanya pravritti rahi.",
-    "timestamp": "2026-10-10T11:58:33+05:30"
+    "response": "Prarambhik vikas pathar ke auzaron se aag ke upyog aur pahiye tak hua, aur pahiye ne parivahan tatha machines ke vikas ko sambhav banaya.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_141",
+    "question_id": "Q_HI-EN_TEC_141",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "IMF Washington D.C. mein hai, WTO Geneva mein hai; IMF ke karyalaya 100 se adhik deshon mein hain.",
-    "timestamp": "2026-10-10T11:58:33+05:30"
+    "response": "Lekhan ne saanskritik gyan ke prasar, itihas, pustakalayon, schoolon, aur vaigyanik anusandhan mein mahatvapurn yogdan diya.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_142",
+    "question_id": "Q_HI-EN_TEC_142",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "Microeconomics vyaktigat ikaiyon aur bazaron ka, jabki Macroeconomics rashtriya aay, rozgar va samagra arthvyavastha ka adhyayan karta hai.",
-    "timestamp": "2026-10-10T11:58:33+05:30"
+    "response": "World Wide Web mein documents aur multimedia jaise sansadhan hain jo hyperlinks, URIs aur HTTP ke madhyam se jude aur access kiye jaate hain.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_143",
+    "question_id": "Q_HI-EN_TEC_143",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "Utpadan ke karakon ki pehchaan ki, shram vibhajan par charcha ki, aur aadhunik aarthik pranali ki shuruaat ko chihnit kiya.",
-    "timestamp": "2026-10-10T11:58:33+05:30"
+    "response": "Semiconductor ki chalakta conductors aur insulators ke beech hoti hai, aur Group III ya Group V tatva silicon ki electrical properties ko p-type ya n-type banakar prabhavit karte hain.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_144",
+    "question_id": "Q_HI-EN_TEC_144",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "Aarthik sthirta, vyapar ko sugam banana, garibi unmulan; iske 190 sadasya desh hain.",
-    "timestamp": "2026-10-10T11:58:33+05:30"
+    "response": "Generative AI models large datasets se seekhte hain aur text, images aur digital data ke roop mein outputs utpann kar sakte hain.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_145",
+    "question_id": "Q_HI-EN_TEC_145",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "GATT (General Agreement on Tariffs and Trade)",
-    "timestamp": "2026-10-10T11:58:33+05:30"
+    "response": "Charles Babbage ne Difference Engine aur Analytical Engine design ki thi.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_146",
+    "question_id": "Q_HI-EN_TEC_146",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "Marrakesh Agreement (WTO Agreement)",
-    "timestamp": "2026-10-10T11:58:33+05:30"
+    "response": "ENIAC (Electronic Numerical Integrator and Computer) prarambhik electronic general-purpose digital computer ke roop mein jaana jaata tha.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_147",
+    "question_id": "Q_HI-EN_TEC_147",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "Article I",
-    "timestamp": "2026-10-10T11:58:33+05:30"
+    "response": "Tathya mein varnit prarambhik prakar ke artificial neural network ka naam Perceptron hai.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_148",
+    "question_id": "Q_HI-EN_TEC_148",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "166 sadasya rajya",
-    "timestamp": "2026-10-10T11:58:33+05:30"
+    "response": "Binary-aadharit computer shabdavali mein paramparik roop se ek kilobyte 1024 bytes ka hota hai.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_149",
+    "question_id": "Q_HI-EN_TEC_149",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "Lagbhag 98%",
-    "timestamp": "2026-10-10T11:58:33+05:30"
+    "response": "ENIAC mein lagbhag 17,468 vacuum tubes thi.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_150",
+    "question_id": "Q_HI-EN_TEC_150",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "190 sadasya desh",
-    "timestamp": "2026-10-10T11:58:33+05:30"
+    "response": "Artificial intelligence ki sthapna se juda Dartmouth workshop 1956 mein hua tha.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_151",
+    "question_id": "Q_HI-EN_TEC_151",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "27 December 1945",
-    "timestamp": "2026-10-10T11:58:33+05:30"
+    "response": "Dartmouth Summer Research Project on Artificial Intelligence Dartmouth College mein yojit hua tha.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_152",
+    "question_id": "Q_HI-EN_TEC_152",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "1 January 1995",
-    "timestamp": "2026-10-10T11:58:33+05:30"
+    "response": "Prارambhik electronic computers mein vacuum tubes ki mukhya seemayein unka bada aakar, jyada bijli khapat, garmi paida karna aur jaldi kharab hona thi.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_153",
+    "question_id": "Q_HI-EN_TEC_153",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "Washington, D.C., United States",
-    "timestamp": "2026-10-10T11:58:33+05:30"
+    "response": "Stored-program avdharna computer ko memory mein instructions aur data dono rakhne deti hai, jisse yeh alag-alag karya asani se bina hardware badle kar sakta hai.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_154",
+    "question_id": "Q_HI-EN_TEC_154",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "Lagbhag 98% vyapar ki dekhrekh karta hai; lagbhag 25 deshon ki observer bhoomika hai.",
-    "timestamp": "2026-10-10T11:58:33+05:30"
+    "response": "Artificial intelligence mein symbolic AI, machine learning aur deep learning jaise drishtikon shaamil hain, jo pranaliyon ko reasoning, learning aur decision-making karne mein saksham banate hain.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_155",
+    "question_id": "Q_HI-EN_TEC_155",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "27 December 1945 ko लागू hui; iske 190 sadasya desh hain.",
-    "timestamp": "2026-10-10T11:58:33+05:30"
+    "response": "Semiconductor mein ashuddhiyon ko doping ke madhyam se niyantrit kiya ja sakta hai, jisse iske vidyut gun (conductivity) mein vriddhi hoti hai.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_156",
+    "question_id": "Q_HI-EN_TEC_156",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "General Agreement on Tariffs and Trade (GATT)",
-    "timestamp": "2026-10-10T11:58:33+05:30"
+    "response": "Charles Babbage ne Analytical Engine prastavit general-purpose mechanical computer design kiya tha.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_157",
+    "question_id": "Q_HI-EN_TEC_157",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "Marrakesh Agreement (WTO Agreement)",
-    "timestamp": "2026-10-10T11:58:33+05:30"
+    "response": "Prarambhik stored-program electronic computer ka naam Manchester Baby (Small-Scale Experimental Machine) ya ENIAC/EDSAC tha.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_158",
+    "question_id": "Q_HI-EN_TEC_158",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "Article I",
-    "timestamp": "2026-10-10T11:58:33+05:30"
+    "response": "Artificial intelligence shabd John McCarthy ne gadha tha.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_159",
+    "question_id": "Q_HI-EN_TEC_159",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "28 March 1947",
-    "timestamp": "2026-10-10T11:58:33+05:30"
+    "response": "Alan Turing se Turing machine ganitiya model juda hai.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_160",
+    "question_id": "Q_HI-EN_TEC_160",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "15 April 1994",
-    "timestamp": "2026-10-10T11:58:33+05:30"
+    "response": "Diode ek aisa semiconductor device hai jo mukhya roop se current ko ek disha mein bahne deta hai.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_161",
+    "question_id": "Q_HI-EN_TEC_161",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "166 sadasya",
-    "timestamp": "2026-10-10T11:58:33+05:30"
+    "response": "Pehla transatlantic telephone cable 1956 mein poora hua tha.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_162",
+    "question_id": "Q_HI-EN_TEC_162",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "Lagbhag 98%",
-    "timestamp": "2026-10-10T11:58:33+05:30"
+    "response": "Sputnik 1 1957 mein launch kiya gaya tha.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_163",
+    "question_id": "Q_HI-EN_TEC_163",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "25 deshon ki",
-    "timestamp": "2026-10-10T11:58:33+05:30"
+    "response": "Wright brothers ki pehli safal powered flight lagbhag 12 seconds tak chali thi.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_164",
+    "question_id": "Q_HI-EN_TEC_164",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "190 sadasya desh",
-    "timestamp": "2026-10-10T11:58:33+05:30"
+    "response": "Wright brothers ki pehli safal powered flight ne lagbhag 120 feet (37 meters) ki doori tay ki thi.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_165",
+    "question_id": "Q_HI-EN_TEC_165",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "27 December 1945",
-    "timestamp": "2026-10-10T11:58:33+05:30"
+    "response": "Transistor ka aavishkar 1947 mein hua tha.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_166",
+    "question_id": "Q_HI-EN_TEC_166",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "Lagbhag $100 billion se adhik rashi vibhinn deshon ko udhaar di.",
-    "timestamp": "2026-10-10T11:58:33+05:30"
+    "response": "Pehla vyavaharik integrated circuit 1958 mein pradarshit kiya gaya tha.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_167",
+    "question_id": "Q_HI-EN_TEC_167",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "1 January 1995",
-    "timestamp": "2026-10-10T11:58:33+05:30"
+    "response": "Wright brothers ne apni pehli safal powered flight Kitty Hawk, North Carolina ke paas ki thi.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_168",
+    "question_id": "Q_HI-EN_TEC_168",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "1 January 1995 (Marrakesh Agreement ke tehat)",
-    "timestamp": "2026-10-10T11:58:33+05:30"
+    "response": "Transistors chhote aakar, kam bijli khapat, aur bina warm-up time ke kaam karne ki kshamta ke karan vacuum tubes se behtar aur laabhkari the.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_169",
+    "question_id": "Q_HI-EN_TEC_169",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "Washington, D.C., United States",
-    "timestamp": "2026-10-10T11:58:33+05:30"
+    "response": "Integrated circuits ek hi semiconductor substrate par kai transistors aur components rakhte hain, jisne electronic pranaliyon ke aakar ko chhota aur ekikrit kiya.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_170",
+    "question_id": "Q_HI-EN_TEC_170",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "Lagbhag 98% vyapar ki dekhrekh karta hai; 25 deshon ki observer bhoomika hai.",
-    "timestamp": "2026-10-10T11:58:33+05:30"
+    "response": "Machine learning pranaliyan training data se patterns seekhti hain, aur training data unhe accurate predictions ya decisions lene ke liye sikhane mein mahatvapurn hota hai.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_171",
+    "question_id": "Q_HI-EN_TEC_171",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "GATT par 30 October 1947 ko hastakshar hue aur 1 January 1948 ko lagu hua; WTO 1 January 1995 ko sthapit hua.",
-    "timestamp": "2026-10-10T11:58:33+05:30"
+    "response": "Computer memory mein soochna binary digits (bits) ke roop mein sangrahit hoti hai, aur processor is sangrahit soochna ko padhkar ankganitiya aur tarkik nirdesh execute karta hai.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_172",
+    "question_id": "Q_HI-EN_TEC_172",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "190 sadasya desh hain, aur sadasyata 27 December 1945 ko lagu hui.",
-    "timestamp": "2026-10-10T11:58:33+05:30"
+    "response": "Domain Name System (DNS) domain names ko IP addresses mein anuvaad karta hai, jisse users ke liye Internet sansadhanon ki pehchaan karna aasan ho jaata hai.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_173",
+    "question_id": "Q_HI-EN_TEC_173",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "WTO ke 166 sadasya rajya hain aur IMF ke 190 sadasya desh hain.",
-    "timestamp": "2026-10-10T11:58:33+05:30"
+    "response": "World Wide Web Tim Berners-Lee ne viksit kiya, aur yeh HTTP, URIs aur HTML technologies ka upyog karta hai jo Internet par web resources pradan karti hain.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_174",
+    "question_id": "Q_HI-EN_TEC_174",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "GATT par 30 Oct 1947 ko hastakshar hue aur 1 Jan 1948 ko lagu hua; WTO Agreement ke Article I ke antargat WTO sthapit hai.",
-    "timestamp": "2026-10-10T11:58:33+05:30"
+    "response": "Konrad Zuse ne Z3 prarambhik programmable digital computer viksit kiya.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_175",
+    "question_id": "Q_HI-EN_TEC_175",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "TRIPS aur GATS dono par 15 April 1994 ko hastakshar hue aur 1 January 1995 ko lagu hue.",
-    "timestamp": "2026-10-10T11:58:33+05:30"
+    "response": "Neural-network siddhant ke vikas mein McCulloch-Pitts neuron artificial neuron ke prarambhik ganitiya model ke roop mein upyog kiya gaya.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_176",
+    "question_id": "Q_HI-EN_TEC_176",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "166 sadasya rajya hain, 98% vishwa vyapar ka hissa hai, aur 25 deshon ki observer bhoomika hai.",
-    "timestamp": "2026-10-10T11:58:33+05:30"
+    "response": "Tathya ke anusaar, mool IPv4 address space mein lagbhag 4.29 billion (4,294,967,296) sambhavit address maan hain.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_177",
+    "question_id": "Q_HI-EN_TEC_177",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "190 sadasya desh hain aur sadasyata 27 December 1945 ko lagu hui thi.",
-    "timestamp": "2026-10-10T11:58:33+05:30"
+    "response": "Electronic computers ki pehli peedhi se 1940s se 1950s ki avadhi judi hai, aur vacuum tubes iski mukhya electronic ghatak thi.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_178",
+    "question_id": "Q_HI-EN_TEC_178",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "1 January 1995 ko sthapit hua aur kaam shuru kiya; WTO Agreement ne antarrashtriya vyapar ke kanooni dhaancho ka pravdhan kiya.",
-    "timestamp": "2026-10-10T11:58:33+05:30"
+    "response": "Integrated circuits ke vikas ne nirmataon ko ek semiconductor padarth par kai transistors aur circuits ek saath banane mein saksham kiya, jisse electronic devices chhote aur saste hue.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_179",
+    "question_id": "Q_HI-EN_TEC_179",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "WTO 98% vishwa vyapar ki dekhrekh karta hai; IMF ke 190 sadasya desh hain.",
-    "timestamp": "2026-10-10T11:58:33+05:30"
+    "response": "Internet sanchar ke dauran packet switching data ko chhote packets mein todti hai, aur yeh packets paraspar jude networks se alag-alag rasto se guzarte hue ant mein destination par jud jaate hain.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
-    "question_id": "Q_HI-EN_ECO_180",
+    "question_id": "Q_HI-EN_TEC_180",
     "language": "HIEN",
     "model_name": "Gemini 3",
-    "response": "GATT 30 Oct 1947 ko hastakshrit aur 1 Jan 1948 ko lagu hua; WTO ke 166 sadasya rajya hain.",
-    "timestamp": "2026-10-10T11:58:33+05:30"
+    "response": "Artificial neural networks ke mool ghatak artificial neurons (nodes) hain, seekhne ke dauran unke weights aur biases samayojit kiye jaate hain, aur yeh image recognition ya NLP jaise karyon ka samarthan karte hain.",
+    "timestamp": "2026-10-19T12:40:33+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_001",
@@ -48574,7 +48574,7 @@
     "timestamp": "2026-10-10T21:38:33+05:30"
   },
   {
-    "question_id": "Q_NE_EDU_0100",
+    "question_id": "Q_NE_EDU_100",
     "language": "NE",
     "model_name": "Gemini 3",
     "response": "शिक्षा सचिव",
@@ -59915,7 +59915,7 @@
     "timestamp": "2026-10-11T00:38:33+05:30"
   },
   {
-    "question_id": "Q_TE_EDU_091",
+    "question_id": "Q_TE_EDU_100",
     "language": "TE",
     "model_name": "Gemini 3",
     "response": "మసాచుసెట్స్ బోర్డ్ ఆఫ్ ఎడ్యుకేషన్ కార్యదర్శి",
@@ -72516,7 +72516,7 @@
     "timestamp": "2026-10-11T03:58:33+05:30"
   },
   {
-    "question_id": "Q_TA_EDU_0100",
+    "question_id": "Q_TA_EDU_100",
     "language": "TA",
     "model_name": "Gemini 3",
     "response": "மாசசூசெட்ஸ் கல்வி வாரியத்தின் செயலாளர்",
