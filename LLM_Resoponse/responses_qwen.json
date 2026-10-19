@@ -13861,1260 +13861,1260 @@
   },
   {
     "question_id": "Q_HI-EN_GEO_001",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Nepal ki rajdhani Kathmandu hai.",
     "timestamp": "2026-10-11T18:02:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_002",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "India ki rajdhani New Delhi hai.",
     "timestamp": "2026-10-11T18:02:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_003",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "City proper jansankhya ke anusar India ka sabse bada shehar Mumbai hai.",
     "timestamp": "2026-10-11T18:02:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_004",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Metropolitan area jansankhya ke anusar India ka sabse bada shehar Delhi hai.",
     "timestamp": "2026-10-11T18:02:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_005",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Prithvi par mean sea level se sabse ooncha bindu Mount Everest (Sagarmatha) hai.",
     "timestamp": "2026-10-11T18:02:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_006",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Lakshadweep coral reefs aur atolls (pravaal bhittiyan) se bana hai.",
     "timestamp": "2026-10-11T18:02:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_007",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Andaman aur Nicobar Islands ek dweep-shrinkhala (island archipelago) hain jo jalmagna parvat-shrinkhala ka vistar hain.",
     "timestamp": "2026-10-11T18:02:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_008",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Nepal ka kshetrafal lagbhag 147,516 square kilometres hai (purana anuman 147,181 km²).",
     "timestamp": "2026-10-11T18:02:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_009",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "India ki tatrekha lagbhag 7,516.6 kilometres lambi hai (mainland aur dweep samet).",
     "timestamp": "2026-10-11T18:02:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_010",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Nepal ko 28 May 2008 ko federal republic ghoshit kiya gaya tha.",
     "timestamp": "2026-10-11T18:02:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_011",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Nepal ki uttari seema par China (Tibet) hai.",
     "timestamp": "2026-10-11T18:02:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_012",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Nepal ki dakshini, poorvi aur pashchimi seema par India hai.",
     "timestamp": "2026-10-11T18:02:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_013",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Pashchim mein India ke saath bhoomi seema Pakistan saajha karta hai.",
     "timestamp": "2026-10-11T18:02:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_014",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "India ki uttari bhoomi seemayein China, Nepal aur Bhutan saajha karte hain.",
     "timestamp": "2026-10-11T18:02:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_015",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "India ki poorvi bhoomi seemayein Bangladesh aur Myanmar saajha karte hain.",
     "timestamp": "2026-10-11T18:02:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_016",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "India ke dakshin-pashchim mein Arab Sagar (Arabian Sea) hai.",
     "timestamp": "2026-10-11T18:02:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_017",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "India ke dakshin-poorv mein Bengal ki Khadi (Bay of Bengal) hai.",
     "timestamp": "2026-10-11T18:02:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_018",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Ganga Bengal ki Khadi (Bay of Bengal) mein girti hai (Sundarban delta ke through).",
     "timestamp": "2026-10-11T18:02:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_019",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Narmada Arab Sagar mein girti hai (Gulf of Khambhat ke through).",
     "timestamp": "2026-10-11T18:02:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_020",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Nepal mukhya roop se Himalaya (Himal) kshetra aur Indo-Gangetic Plain (Ganga ka maidan) mein sthit hai.",
     "timestamp": "2026-10-11T18:02:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_021",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Hind Mahasagar (dakshin), Arab Sagar (dakshin-pashchim) aur Bengal ki Khadi (dakshin-poorv).",
     "timestamp": "2026-10-11T18:02:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_022",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "India ke do dweep-samooh Lakshadweep aur Andaman & Nicobar Islands hain.",
     "timestamp": "2026-10-11T18:02:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_023",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Duniya ka doosra sabse bada mahadweep Africa hai.",
     "timestamp": "2026-10-11T18:02:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_024",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Bhoomi kshetrafal aur jansankhya dono ke anusar duniya ka sabse bada mahadweep Asia hai.",
     "timestamp": "2026-10-11T18:02:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_025",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Kshetrafal ke anusar Africa ka sabse bada desh Algeria hai.",
     "timestamp": "2026-10-11T18:02:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_026",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Africa ka sabse chhota desh Seychelles hai.",
     "timestamp": "2026-10-11T18:02:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_027",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "African mahadweepiya mukhya bhoomi par sabse chhota rashtra The Gambia hai.",
     "timestamp": "2026-10-11T18:02:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_028",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Asia ki sabse lambi nadi Yangtze (Chang Jiang) hai.",
     "timestamp": "2026-10-11T18:02:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_029",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Duniya ki sabse oonchi parvat shrinkhala Himalaya hai.",
     "timestamp": "2026-10-11T18:02:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_030",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "African Plate ka doosra naam Nubian Plate hai.",
     "timestamp": "2026-10-11T18:02:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_031",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Africa ka sabse uttari bindu Ras ben Sakka (Tunisia) hai.",
     "timestamp": "2026-10-11T18:02:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_032",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Africa ka sabse dakshini bindu Cape Agulhas (South Africa) hai.",
     "timestamp": "2026-10-11T18:02:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_033",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Madagascar ki rajdhani Antananarivo hai.",
     "timestamp": "2026-10-11T18:02:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_034",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Africa ka kshetrafal lagbhag 30,370,000 square kilometres (30.37 million km²) hai.",
     "timestamp": "2026-10-11T18:02:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_035",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Africa ki tatrekha ki lambai lagbhag 26,000 kilometres hai.",
     "timestamp": "2026-10-11T18:02:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_036",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Asia ka kshetrafal lagbhag 44,579,000 square kilometres (44.58 million km²) hai.",
     "timestamp": "2026-10-11T18:02:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_037",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Asia ki tatrekha ki lambai lagbhag 62,800 kilometres hai.",
     "timestamp": "2026-10-11T18:02:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_038",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Old World ka Africa, Asia aur Europe mein teen-tarfa vibhajan chhathi sadi BCE (6th century BCE) se prayog mein hai.",
     "timestamp": "2026-10-11T18:02:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_039",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Philip Johan von Strahlenberg ne woh atlas 1730 mein prakashit kiya tha.",
     "timestamp": "2026-10-11T18:02:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_040",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Africa Bhoomadhya rekha (Equator) ke donon or faila hai.",
     "timestamp": "2026-10-11T18:02:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_041",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Africa Prime Meridian (0° / Greenwich meridian) ke donon or faila hai.",
     "timestamp": "2026-10-11T18:02:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_042",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Africa ke uttar mein Bhoosagar (Mediterranean Sea) hai.",
     "timestamp": "2026-10-11T18:02:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_043",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Africa ke dakshin-poorv mein Hind Mahasagar (Indian Ocean) hai.",
     "timestamp": "2026-10-11T18:02:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_044",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Africa ke pashchim mein Atlantic Mahasagar (Atlantic Ocean) hai.",
     "timestamp": "2026-10-11T18:02:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_045",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Bhoosagar (Mediterranean Sea) Africa ko Europe se alag karta hai.",
     "timestamp": "2026-10-11T18:02:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_046",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Sinai praaydweep (Sinai Peninsula) Africa ke uttar-poorvi chhor par Africa ko Asia se jodti hai.",
     "timestamp": "2026-10-11T18:02:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_047",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Poorv mein Asia ki seema par Pacific Mahasagar hai.",
     "timestamp": "2026-10-11T18:02:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_048",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Dakshin mein Asia ki seema par Hind Mahasagar (Indian Ocean) hai.",
     "timestamp": "2026-10-11T18:02:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_049",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Uttar mein Asia ki seema par Arctic Mahasagar hai.",
     "timestamp": "2026-10-11T18:02:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_050",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Asia Suez nahar ke poorv mein sthit hai.",
     "timestamp": "2026-10-11T18:02:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_051",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Asia Ural parvat shrinkhala ke poorv mein sthit hai.",
     "timestamp": "2026-10-11T18:02:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_052",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Asia Caucasus parvaton ke dakshin mein sthit hai.",
     "timestamp": "2026-10-11T18:02:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_053",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Bering jalsandhi (Bering Strait) Asia aur North America ke bhoo-bhagon ko alag karti hai.",
     "timestamp": "2026-10-11T18:02:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_054",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Africa mein apni mukhya bhoomi ke alawa aas-paas ke dweep bhi shaamil hain, aur ismein 54 poorn roop se manyata prapt samprabhu rajya hain.",
     "timestamp": "2026-10-11T18:02:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_055",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Mahadweep ke aakar aur jansankhya dono ke anusar Africa doosre sthan par hai.",
     "timestamp": "2026-10-11T18:02:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_056",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Asia Eurasia ka bhoo-bhag Europe ke saath saajha karta hai, aur Afro-Eurasia ka bhoo-bhag Europe aur Africa dono ke saath.",
     "timestamp": "2026-10-11T18:02:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_057",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Asia 49 deshon mein vibhajit hai, jinmein se 5 antar-mahadweepiya hain aur aanshik roop se Europe mein sthit hain.",
     "timestamp": "2026-10-11T18:02:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_058",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Africa ki jalvayu upnarkatiya (tropical) se lekar sabse oonchi chotiyon par upshaiti (subarctic) tak badalti hai.",
     "timestamp": "2026-10-11T18:02:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_059",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "South America mein sabse adhik jansankhya wala desh Brazil hai.",
     "timestamp": "2026-10-11T18:02:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_060",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Pashchimi South America ke bhoogol par Andes parvat shrinkhala haavi hai.",
     "timestamp": "2026-10-11T18:02:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_061",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "South America ke poorvi bhaag se Amazon nadi behti hai.",
     "timestamp": "2026-10-11T18:02:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_062",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "South America ke sabse bade sheharon mein soochibaddh shehar São Paulo hai.",
     "timestamp": "2026-10-11T18:02:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_063",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Pashchim mein South America ki seema par Pacific Mahasagar hai.",
     "timestamp": "2026-10-11T18:02:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_064",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Uttar aur poorv mein South America ki seema par Atlantic Mahasagar hai.",
     "timestamp": "2026-10-11T18:02:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_065",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Mexico North America ke Middle America upkshetra ka hissa hai.",
     "timestamp": "2026-10-11T18:02:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_066",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Northern America upkshetra mein Greenland (Canada aur United States ke saath) shaamil hai.",
     "timestamp": "2026-10-11T18:02:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_067",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Lower 48 United States ke physiographic vibhajanon mein se ek Rocky Mountains parvat pranali hai.",
     "timestamp": "2026-10-11T18:02:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_068",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Mexico ke physiographic vibhajanon mein se ek Baja California praaydweep hai.",
     "timestamp": "2026-10-11T18:02:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_069",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "North America ke sabse bade sheharon mein soochibaddh shehar Mexico City hai.",
     "timestamp": "2026-10-11T18:02:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_070",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "South America ka kshetrafal lagbhag 17,840,000 square kilometres hai.",
     "timestamp": "2026-10-11T18:02:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_071",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "2021 mein South America ki anumanit jansankhya lagbhag 439 million (43.9 crore) thi.",
     "timestamp": "2026-10-11T18:02:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_072",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "North America ka anumanit kshetrafal lagbhag 24,709,000 square kilometres hai.",
     "timestamp": "2026-10-11T18:02:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_073",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "2021 mein North America ki anumanit jansankhya lagbhag 592 million (59.2 crore) thi.",
     "timestamp": "2026-10-11T18:02:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_074",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Woh sampark lagbhag 1000 CE (AD) ka maana gaya hai (Norse/Viking contact).",
     "timestamp": "2026-10-11T18:02:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_075",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Martin Waldseemüller ke German naksha ne 1507 mein pehli baar America naam ka prayog kiya.",
     "timestamp": "2026-10-11T18:02:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_076",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "South America poori tarah se Pashchimi golardh mein sthit hai.",
     "timestamp": "2026-10-11T18:02:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_077",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "South America ka adhikansh bhaag Dakshini golardh mein hai.",
     "timestamp": "2026-10-11T18:02:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_078",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "South America ke dakshin mein Antarctica (Southern Ocean/Drake Passage ke paar) hai.",
     "timestamp": "2026-10-11T18:02:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_079",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "South America ke uttar-pashchim mein North America aur Caribbean Sea hai.",
     "timestamp": "2026-10-11T18:02:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_080",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "South America ke uttar mein North America mahadweep hai.",
     "timestamp": "2026-10-11T18:02:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_081",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "South America ke uttar aur poorv ki seema par Atlantic Mahasagar hai.",
     "timestamp": "2026-10-11T18:02:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_082",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Uttar mein North America ki seema par Arctic Mahasagar hai.",
     "timestamp": "2026-10-11T18:02:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_083",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Poorv mein North America ki seema par Atlantic Mahasagar hai.",
     "timestamp": "2026-10-11T18:02:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_084",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Dakshin aur pashchim mein North America ki seema par Pacific Mahasagar hai.",
     "timestamp": "2026-10-11T18:02:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_085",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "North America ke dakshin-poorv mein South America aur Caribbean Sea hai.",
     "timestamp": "2026-10-11T18:02:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_086",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "North America uttar mein Arctic Circle se aage (uske uttar tak) faila hai.",
     "timestamp": "2026-10-11T18:02:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_087",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "North America dakshin mein Tropic of Cancer ke aage (uske dakshin tak) faila hai.",
     "timestamp": "2026-10-11T18:02:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_088",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "North American mahadweepiya pole of inaccessibility South Dakota (USA) ke Allen shehar ke lagbhag 40 km uttar mein sthit hai.",
     "timestamp": "2026-10-11T18:02:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_089",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "South America mein 12 samprabhu rajya aur 3 nirbhar/kshetriya vibhajan shaamil hain.",
     "timestamp": "2026-10-11T18:02:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_090",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Kshetrafal aur jansankhya dono mein South America mahadweepon mein chautha (4th) sthan rakhta hai.",
     "timestamp": "2026-10-11T18:02:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_091",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "North America Uttari golardh aur Pashchimi golardh mein sthit hai.",
     "timestamp": "2026-10-11T18:12:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_092",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Do upkshetra hain: (1) Northern America — ismein Canada, United States aur Greenland (Bermuda, Saint Pierre & Miquelon bhi) shaamil hain; (2) Middle America — ismein Mexico, Central America aur Caribbean shaamil hain.",
     "timestamp": "2026-10-11T18:12:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_093",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "South America ki adhikansh jansankhya poorvi ya pashchimi taton ke paas rehti hai, jabki bheetari bhaag (jaise Amazon jungle) aur sudur dakshin virale aabadi wale kshetra hain.",
     "timestamp": "2026-10-11T18:12:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_094",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "South America ka adhikansh bhaag Dakshini golardh (Southern Hemisphere) mein hai.",
     "timestamp": "2026-10-11T18:12:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_095",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Russia ki rajdhani aur sabse bada shehar Moscow hai; yeh Eastern Europe aur Northern Asia mein faila hai; aur yeh 11 time zones mein faila hai.",
     "timestamp": "2026-10-11T18:12:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_096",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Lake Baikal Russia ke dakshini Siberia mein sthit hai; yeh duniya ki sabse gehri jheel hai (lagbhag 1,642 m); aur yeh duniya ka sabse bada meethe paani ka bhandar hai (lagbhag 23% duniya ka taja meethe paani).",
     "timestamp": "2026-10-11T18:12:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_097",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Ural parvat Russia ke pashchim mein uttar se dakshin failay hain (Arctic tat se Kazakhstan tak); yeh minerals/khanij mein samriddh hain; aur yeh paramparik roop se Europe aur Asia ke beech bhaugolik seema banate hain.",
     "timestamp": "2026-10-11T18:12:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_098",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "China ki rajdhani Beijing hai aur urban area ke anusar sabse adhik jansankhya wala shehar Shanghai hai; China mein 34 province-level vibhajan hain (23 prant, 5 swarajit kshetra, 4 municipalities aur 2 vishesht prashasnik kshetra).",
     "timestamp": "2026-10-11T18:12:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_099",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Russia ka kshetrafal lagbhag 17,098,246 km² (17.1 million km²) hai, iski tatrekha lagbhag 37,653 km (duniya ki sabse lambi) hai, aur yeh 14 deshon ke saath bhoomi seema saajha karta hai (aanshik manyata prapt Abkhazia aur South Ossetia sahit 16).",
     "timestamp": "2026-10-11T18:12:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_100",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Tsardom of Russia 1547 mein, Russian Empire 1721 mein, aur Soviet Union 1922 mein sthapit hue the.",
     "timestamp": "2026-10-11T18:12:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_101",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Russia Eastern Europe (Europe ka purvi hissa) aur Northern Asia (Asia ka uttari hissa) mein faila hai, yani Eurasia ke in dono hisson mein.",
     "timestamp": "2026-10-11T18:12:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_102",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Caucasus Mountains Russia ke dakshin-pashchim mein (Black aur Caspian samudron ke beech) sthit hain; Altai aur Sayan Mountains dakshin mein (Siberia mein, Kazakhstan/Mongolia/China ki seema ke paas) sthit hain; aur East Siberian Mountains aur Kamchatka Peninsula sudur poorv (Russian Far East) mein sthit hain.",
     "timestamp": "2026-10-11T18:12:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_103",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Russia ka sabse neecha bindu Caspian Sea ke tat par sthit hai, jo samudra tal se lagbhag 28 meter neeche hai.",
     "timestamp": "2026-10-11T18:12:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_104",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Volga European Russia mein sthit hai; yeh Europe ki sabse lambi nadi hai; aur yeh Volga delta banati hai (Caspian Sea mein girti hui).",
     "timestamp": "2026-10-11T18:12:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_105",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "China East Asia mein sthit hai; iska pashchimi kshetra parvat, ooncha plateau (jaise Tibetan Plateau) aur registon wala hai, jabki poorvi kshetra nichi alluvial maidanein aur tat ke paas ke kshetron wala hai.",
     "timestamp": "2026-10-11T18:12:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_106",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "China ki do sabse lambi nadiyan Yangtze aur Yellow River (Huang He) hain, dono Tibetan Plateau se nikalti hain; paramparik nichli bhoomi ki sabhyata mukhya roop se Yellow River (Huang He) aur Yangtze ke aaspaas kendrit thi.",
     "timestamp": "2026-10-11T18:12:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_107",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "China ki tatrekha ke saath Bohai Sea, Yellow Sea, East China Sea aur South China Sea shaamil hain, aur ye chaaron Pacific Ocean ka hissa hain.",
     "timestamp": "2026-10-11T18:12:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_108",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Pashchimi China mein pramukh parvat shrinkhalayein Himalaya, Kunlun aur Karakoram (Tian Shan bhi) hain; ye China ko South Asia aur Central Asia se alag karti hain; Mount Everest China-Nepal seema par sthit hai.",
     "timestamp": "2026-10-11T18:12:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_109",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Europe poori tarah Uttari golardh mein aur mukhya roop se Pashchimi golardh mein sthit hai; iske uttar mein Arctic Ocean, pashchim mein Atlantic Ocean, dakshin mein Mediterranean Sea aur poorv mein Asia hai.",
     "timestamp": "2026-10-11T18:12:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_110",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Europe bhaugolik roop se Asia ke saath ek hi bhoomi tala (Eurasia) saajha karta hai, aur Africa se Mediterranean Sea dwara alag hai; Europe ko Asia se alag karne ke liye aam taur par Ural parvat, Ural nadi, Caspian Sea, Caucasus parvat, Black Sea aur Turkish Straits (Bosphorus-Dardanelles) ka upyog kiya jaata hai.",
     "timestamp": "2026-10-11T18:12:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_111",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Australia (desh) mein Australian mainland (mahadweep), Tasmania dweep aur anek chhote dweep shaamil hain; iska bhoomi kshetrafal lagbhag 7,692,024 km² hai; ise duniya ka chhata sabse bada desh aur sabse purana, sabse flat aur sabse dry basi hua mahadweep kaha jaata hai.",
     "timestamp": "2026-10-11T18:12:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_112",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Australia ki rajdhani Canberra hai; metropolitan aur urban jansankhya dono ke anusar sabse bada shehar Sydney hai; desh prashasnik roop se 6 rajya aur 2 mukhya kshetron (plus chhote kshetra) mein sangathit hai.",
     "timestamp": "2026-10-11T18:12:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_113",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Europe ka anumanit kshetrafal lagbhag 10.18 million km² hai; 2021 mein jansankhya lagbhag 745 million thi; aur jansankhya ghanatva lagbhag 73 log per km² hai.",
     "timestamp": "2026-10-11T18:12:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_114",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Pehli darj European landing 1606 mein, James Cook dwara poorvi tat ka mapping 1770 mein, aur Australian colonies ka federation 1901 mein hua tha.",
     "timestamp": "2026-10-11T18:12:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_115",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Uttar mein Arctic Ocean, pashchim mein Atlantic Ocean, aur dakshin mein Mediterranean Sea Europe ki seema banate hain, aur iske poorv mein Asia hai.",
     "timestamp": "2026-10-11T18:12:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_116",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Europe ko Asia se alag karne wali seema ke roop mein aam taur par Ural parvat, Ural nadi, Caspian Sea, Caucasus parvat, Black Sea aur Turkish Straits (Bosphorus aur Dardanelles) ka upyog kiya jaata hai.",
     "timestamp": "2026-10-11T18:12:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_117",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Australia mainland (Australian mahadweep), Tasmania aur bahut se chhote dweepo se bana hai; iske registan bheetari/kendra aur pashchimi kshetra mein sthit hain, aur ushnakatibandhiya varshavan uttar-poorv (northeast) mein sthit hai.",
     "timestamp": "2026-10-11T18:12:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_118",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Australia ki jansankhya mukhya roop se poorvi aur dakshin-poorvi taton ke aaspaas kendrit hai; iski rajdhani Canberra hai; aur iske do sabse adhik jansankhya wale shehar Sydney aur Melbourne hain.",
     "timestamp": "2026-10-11T18:12:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_119",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Australia Dakshini golardh (aur Poorvi golardh) mein sthit hai; iske anumanit coordinates lagbhag 25°S, 133°E hain; aur Canberra ke anumanit coordinates lagbhag 35°S, 149°E hain.",
     "timestamp": "2026-10-11T18:12:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_120",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Australian mahadweep mainland (mukhya bhoomi), Tasmania dweep aur bahut se chhote dweepo se banta hai; Australia mein 6 rajya aur 2 mukhya kshetra hain (kuch aur chhote kshetra bhi hain).",
     "timestamp": "2026-10-11T18:12:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_121",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Europe lagbhag 10.18 million km² bada hai; 2021 mein ismein lagbhag 745 million log the; aur jansankhya ke hisaab se yeh Asia aur Africa ke baad teesra sabse bada mahadweep hai.",
     "timestamp": "2026-10-11T18:12:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_122",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Australia ka bhoomi kshetrafal lagbhag 7.69 million km² hai; yeh duniya ka sabse purana, sabse flat aur sabse dry basi hua mahadweep hai jiski mitti sabse kam upjau hai; iska bhoobhaag mukhya roop se registan/semi-arid hai.",
     "timestamp": "2026-10-11T18:12:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_123",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Kshetrafal ke anusar Middle East ka sabse bada desh Saudi Arabia hai.",
     "timestamp": "2026-10-11T18:12:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_124",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Source mein soochibaddh Middle East ka sabse bada shehar Istanbul hai.",
     "timestamp": "2026-10-11T18:12:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_125",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Egypt ko Middle East ke teen sabse adhik jansankhya wale deshon mein se ek ke roop mein pehchana gaya hai.",
     "timestamp": "2026-10-11T18:12:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_126",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Arabian Peninsula (Arab praaydweep) ko Middle East ka ek mahatvapurn bhaugolik kshetra pehchana gaya hai.",
     "timestamp": "2026-10-11T18:12:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_127",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Asia ke bhaugolik dakshin-poorvi kshetra ka naam Southeast Asia hai.",
     "timestamp": "2026-10-11T18:12:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_128",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Indonesia ko Southeast Asia ke deshon mein se ek ke roop mein pehchana gaya hai.",
     "timestamp": "2026-10-11T18:12:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_129",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Mainland Southeast Asia poori tarah Northern Hemisphere mein sthit hai.",
     "timestamp": "2026-10-11T18:12:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_130",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Source ke anusar Middle East ka kshetrafal lagbhag 7,207,575 square kilometres hai.",
     "timestamp": "2026-10-11T18:12:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_131",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Southeast Asia ka anumanit kshetrafal lagbhag 4,545,792 square kilometres hai.",
     "timestamp": "2026-10-11T18:12:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_132",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Alfred Thayer Mahan ne 1902 mein Middle East shabd ka prayog kiya, jisse ise adhik vyapak roop se jaana jaane laga.",
     "timestamp": "2026-10-11T18:12:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_133",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Middle East aam taur par Arabia, Asia Minor (Anatolia), Egypt, Iran, Levant, Mesopotamia aur Socotra Archipelago ko shaamil karta hai.",
     "timestamp": "2026-10-11T18:12:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_134",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Turkey ka Asian hissa Anatolia (Asia Minor) Middle East mein shaamil hai.",
     "timestamp": "2026-10-11T18:12:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_135",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Middle East Asia, Africa aur Europe - teen mahadweepon ke sangam par sthit hai.",
     "timestamp": "2026-10-11T18:12:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_136",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Nile (Nil) nadi Egypt mein krishi ko sahara dene wali sinchai pradan karti hai.",
     "timestamp": "2026-10-11T18:12:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_137",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Tigris aur Euphrates (Dajla aur Furat) nadiyan Mesopotamia mein krishi ko sahara dene wali sinchai pradan karti hain.",
     "timestamp": "2026-10-11T18:12:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_138",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Southeast Asia China ke dakshin mein sthit hai.",
     "timestamp": "2026-10-11T18:12:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_139",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Southeast Asia Indian subcontinent ke poorv mein sthit hai.",
     "timestamp": "2026-10-11T18:12:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_140",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Southeast Asia mainland Australia ke uttar mein sthit hai.",
     "timestamp": "2026-10-11T18:12:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_141",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Poorv mein Southeast Asia ki seema par Pacific Mahasagar hai.",
     "timestamp": "2026-10-11T18:12:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_142",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Uttar mein China/East Asia, pashchim mein Indian subcontinent (aur Bay of Bengal/Indian Ocean), poorv mein Pacific Ocean, aur dakshin mein Australia Southeast Asia ki seema banate hain.",
     "timestamp": "2026-10-11T18:12:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_143",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Indonesia (aur East Timor) ke dweepiy hisse bhoomadhya rekha ke dakshin mein sthit hain, jabki mainland Southeast Asia poori tarah Uttari golardh mein sthit hai.",
     "timestamp": "2026-10-11T18:12:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_144",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Middle East mein Arabia, Asia Minor (Anatolia), Egypt, Iran, Levant, Mesopotamia aur Socotra Archipelago jaise mahatvapurn bhaugolik kshetra shaamil hain.",
     "timestamp": "2026-10-11T18:12:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_145",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Prithvi ka sabse dakshini mahadweep Antarctica hai.",
     "timestamp": "2026-10-11T18:12:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_146",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Us bindu ko Dakshini Dhruv (South Pole) kehte hain.",
     "timestamp": "2026-10-11T18:12:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_147",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Duniya ki sabse badi subglacial jheel Lake Vostok hai.",
     "timestamp": "2026-10-11T18:12:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_148",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Antarctica ka kshetrafal lagbhag 14.2 million square kilometres (14,200,000 km²) hai.",
     "timestamp": "2026-10-11T18:12:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_149",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Antarctica mein pehli pushtikrit landing 1821 mein hui thi.",
     "timestamp": "2026-10-11T18:12:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_150",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Antarctica ko Southern Ocean (Dakshini Mahasagar) gherta hai.",
     "timestamp": "2026-10-11T18:12:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_151",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "North Pole Arctic Mahasagar (Arctic Ocean) mein sthit hai.",
     "timestamp": "2026-10-11T18:12:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_152",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "North Pole ke sabse nikat bhoomi ke roop mein aam taur par Kaffeklubben Island (Greenland ke paas) ki pehchaan ki jaati hai.",
     "timestamp": "2026-10-11T18:12:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_153",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Transantarctic Mountains Antarctica ko West Antarctica aur East Antarctica mein baantti hai.",
     "timestamp": "2026-10-11T18:12:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_154",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Antarctica Antarctic Circle ke andar sthit hai; ismein geographic South Pole (Dakshini Dhruv) hai; aur mahadweepiya aakar ke anusar yeh paanchva sabse bada mahadweep hai.",
     "timestamp": "2026-10-11T18:12:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_155",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "North Pole ka geodetic akshansh 90°N hai; yeh Uttari golardh mein hai; aur iski koi sthir time-zone nahi hai (sab meridians yahan milte hain).",
     "timestamp": "2026-10-11T18:12:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_156",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Pacific Ocean ko Prithvi ke paanch mahasagariya vibhajanon mein sabse bada (aur sabse gehra) vibhajan kaha jaata hai.",
     "timestamp": "2026-10-11T18:12:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_157",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Aakar ke anusar Indian Ocean Prithvi ke paanch mahasagariya vibhajanon mein teesra sabse bada hai.",
     "timestamp": "2026-10-11T18:12:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_158",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Sargasso Sea duniya ka ekmatra samudra hai jiski koi bhoomi seema nahi hai - ise tatrekaon (ocean currents, jaise North Atlantic Gyre) se ghira jaata hai.",
     "timestamp": "2026-10-11T18:12:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_159",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Challenger Deep (Mariana Ghaati mein) ko duniya ke sabse gehre gyat bindu ke roop mein pehchana gaya hai.",
     "timestamp": "2026-10-11T18:12:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_160",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Khule mahasagar mein photic zone satah se lagbhag 100 meter neeche tak hota hai, jahan suryakaash photosynthesis ke liye kaafi hota hai.",
     "timestamp": "2026-10-11T18:12:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_161",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Pacific Ocean ka satahi kshetrafal lagbhag 165,250,000 square kilometres hai.",
     "timestamp": "2026-10-11T18:12:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_162",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Indian Ocean ka satahi kshetrafal lagbhag 70,560,000 square kilometres hai.",
     "timestamp": "2026-10-11T18:12:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_163",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Ferdinand Magellan ne 1520 mein Pacific Ocean ka vartamaan naam (Mar Pacifico) gadha tha.",
     "timestamp": "2026-10-11T18:12:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_164",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Pashchim mein Asia aur Australia, aur poorv mein Americas (North aur South America) Pacific Ocean ki seema banate hain.",
     "timestamp": "2026-10-11T18:12:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_165",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Uttar mein Asia, pashchim mein Africa (aur Arab praaydweep), aur poorv mein Australia (Indochina/Malay peninsula ke saath) Indian Ocean ki seema banate hain.",
     "timestamp": "2026-10-11T18:12:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_166",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Paribhasha ke aadhar par, Indian Ocean ki dakshin mein seema 60°S par Southern Ocean ya seedhe Antarctica tak ho sakti hai.",
     "timestamp": "2026-10-11T18:12:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_167",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Indian Ocean poori tarah Poorvi golardh (Eastern Hemisphere) mein sthit hai.",
     "timestamp": "2026-10-11T18:12:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_168",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Challenger Deep Mariana Ghaati ke dakshini chhor par, pashchimi Pacific Ocean mein sthit hai.",
     "timestamp": "2026-10-11T18:12:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_169",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "20° Poorvi (East) meridian, jo Cape Agulhas se guzarta hai, Indian Ocean ko Atlantic Ocean se alag karta hai.",
     "timestamp": "2026-10-11T18:12:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_170",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "146°55' Poorvi (East) meridian, jo Tasmania ke South East Cape se guzarta hai, Indian Ocean ko Pacific Ocean se alag karta hai.",
     "timestamp": "2026-10-11T18:12:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_171",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Samudra (sea) aam taur par mahasagar se chhota hota hai aur aanshik roop se bhoomi (land) se ghira hua hota hai, jabki mahasagar bahut bada aur khula jal-nikay hota hai.",
     "timestamp": "2026-10-11T18:12:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_172",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Mahasagar Prithvi ki satah ka lagbhag 70.8% (71%) hissa dhakta hai, Prithvi ke paani ka lagbhag 97% rakhta hai, aur yeh Earth ke hydrosphere ka mukhya/pramukh ghatak hai.",
     "timestamp": "2026-10-11T18:12:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_173",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Pacific Ocean uttar mein Arctic Ocean se lekar dakshin mein Southern Ocean/Antarctica tak faila hai; iski pashchim mein seema Asia aur Australia, aur poorv mein Americas banate hain.",
     "timestamp": "2026-10-11T18:12:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_174",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Indian Ocean ka kshetrafal lagbhag 70,560,000 km², ausat gehrai lagbhag 3,741 m, aur adhiktam gehrai lagbhag 7,290 m hai; iski adhiktam gehrai Java (Sunda) Trench mein sthit hai.",
     "timestamp": "2026-10-11T18:12:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_175",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Amazon rainforest ek upnarkatiya moist broadleaf varshavan hai jo Amazon basin ke adhikansh hisse ko dhakta hai; Amazon basin lagbhag 7,000,000 km² bada hai, jismein se lagbhag 5,500,000 km² rainforest se dhaka hai; aur is kshetra mein 9 rashtron ka kshetra aata hai.",
     "timestamp": "2026-10-11T18:12:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_176",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Sahara uttari Africa ka vishal garm registan hai; iska kshetrafal lagbhag 9,200,000 km² hai; yeh duniya ka sabse bada hot/garm registan aur kul milakar (Antarctica aur Arctic ke baad) teesra sabse bada registan hai.",
     "timestamp": "2026-10-11T18:12:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_177",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Amazon rainforest ka anumanit kshetrafal lagbhag 5,500,000 km² aur Amazon basin ka lagbhag 7,000,000 km² hai; basin ka lagbhag 78-80% (lagbhag 4/5) hissa rainforest se dhaka hai.",
     "timestamp": "2026-10-11T18:12:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_178",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Amazon rainforest sambhavtah Eocene kaal mein (lagbhag 55 million saal pehle) bana, aur yeh tab se yani lagbhag 55 million saal se maujood hai.",
     "timestamp": "2026-10-11T18:12:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_179",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Manushya pehli baar Amazon kshetra mein kam se kam lagbhag 11,200 saal pehle basa tha; aur Francisco de Orellana ne 1542 mein pehli baar Amazon River ki poori lambai ki yatra ki.",
     "timestamp": "2026-10-11T18:12:34+05:30"
   },
   {
     "question_id": "Q_HI-EN_GEO_180",
-    "language": "HI-EN",
+    "language": "HIEN",
     "model_name": "Qwen 3.7",
     "response": "Sahara pichhle kai lakh saalon se (several hundred thousand years se) registan aur savanna ghaas ke maidan ke beech badalta raha hai; anumanit chakra ki lambai lagbhag 20,000 saal hai; aur yeh chakra Prithvi ki dhuri ke jhukav/precession (Milankovitch cycle) ke badlav se juda hai, jo North African monsoon ki sthiti badalta hai.",
     "timestamp": "2026-10-11T18:12:34+05:30"
