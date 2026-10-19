@@ -1,4 +1,3 @@
-
 import json
 from pathlib import Path
 from collections import Counter
@@ -67,9 +66,10 @@ for question in questions:
 # ============================================================
 # MERGE RESPONSES
 # One output row per model response.
-# Repeated question IDs are allowed.
+# Repeated question IDs are EXPECTED and allowed.
 # ============================================================
 
+# Exact 10 columns requested
 output_columns = [
     "question_id",
     "fact_id",
@@ -80,14 +80,12 @@ output_columns = [
     "model_name",
     "response",
     "timestamp",
-    "source_reference",
+    "source_url",
 ]
 
 merged_records = []
 unknown_question_ids = []
 missing_fields = []
-duplicate_response_keys = []
-seen_response_keys = set()
 
 for response in responses:
 
@@ -102,20 +100,6 @@ for response in responses:
         })
         continue
 
-    # A response is identified by question + model.
-    # Model version is intentionally excluded.
-    response_key = (qid, model_name)
-
-    if response_key in seen_response_keys:
-        duplicate_response_keys.append({
-            "question_id": qid,
-            "model_name": model_name,
-            "issue": "Repeated question/model combination"
-        })
-        continue
-
-    seen_response_keys.add(response_key)
-
     if qid not in question_index:
         unknown_question_ids.append({
             "question_id": qid,
@@ -125,15 +109,14 @@ for response in responses:
 
     question = question_index[qid]
 
-    # Select the required fields only.
+    # Select the required fields and map them to exact column names
     record = {
         "question_id": qid,
         "fact_id": question.get("fact_id"),
         "domain": question.get("domain"),
         "difficulty": question.get("difficulty"),
-
-        # Prefer fact_type from the dataset; fall back to
-        # question_type if that is how your dataset stores it.
+        
+        # Dataset uses "question_type" (e.g., "Entity"), fallback to "fact_type"
         "fact_type": (
             question.get("fact_type")
             or question.get("question_type")
@@ -149,11 +132,10 @@ for response in responses:
         "response": response.get("response"),
         "timestamp": response.get("timestamp"),
 
-        # Prefer the canonical source URL.
-        "source_reference": (
-            question.get("source_reference")
-            or question.get("source_url")
-            or question.get("source_reference_url")
+        # Renamed to source_url as requested
+        "source_url": (
+            question.get("source_url")
+            or question.get("source_reference")
         ),
     }
 
@@ -190,7 +172,6 @@ report = {
         Counter(question_counts.values())
     ),
     "unknown_question_ids": unknown_question_ids,
-    "duplicate_response_keys": duplicate_response_keys,
     "missing_fields": missing_fields,
 }
 
@@ -236,7 +217,6 @@ for count, number_of_questions in sorted(
     print(f"  {count} response(s): {number_of_questions} question(s)")
 
 print(f"\nUnknown question IDs: {len(unknown_question_ids)}")
-print(f"Duplicate question/model keys: {len(duplicate_response_keys)}")
 print(f"Missing-field issues: {len(missing_fields)}")
 
 print(f"\nMerged dataset: {OUTPUT_FILE}")
