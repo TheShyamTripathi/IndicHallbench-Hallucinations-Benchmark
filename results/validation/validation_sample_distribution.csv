@@ -1,0 +1,37 @@
+language,model_name,response_count
+EN,Claude Sonnet 5.5,100
+EN,DeepSeek-V4.1-Flash,100
+EN,GLM-5.3 Flash,100
+EN,GPT-5.6 Luna,100
+EN,Gemini 3,100
+EN,Qwen 3.7,100
+HI,Claude Sonnet 5.5,100
+HI,DeepSeek-V4.1-Flash,100
+HI,GLM-5.3 Flash,100
+HI,GPT-5.6 Luna,100
+HI,Gemini 3,100
+HI,Qwen 3.7,100
+HI-EN,Claude Sonnet 5.5,100
+HI-EN,DeepSeek-V4.1-Flash,100
+HI-EN,GLM-5.3 Flash,100
+HI-EN,GPT-5.6 Luna,100
+HI-EN,Gemini 3,100
+HI-EN,Qwen 3.7,100
+NE,Claude Sonnet 5.5,100
+NE,DeepSeek-V4.1-Flash,100
+NE,GLM-5.3 Flash,100
+NE,GPT-5.6 Luna,100
+NE,Gemini 3,100
+NE,Qwen 3.7,100
+TA,Claude Sonnet 5.5,100
+TA,DeepSeek-V4.1-Flash,100
+TA,GLM-5.3 Flash,100
+TA,GPT-5.6 Luna,100
+TA,Gemini 3,100
+TA,Qwen 3.7,100
+TE,Claude Sonnet 5.5,100
+TE,DeepSeek-V4.1-Flash,100
+TE,GLM-5.3 Flash,100
+TE,GPT-5.6 Luna,100
+TE,Gemini 3,100
+TE,Qwen 3.7,100

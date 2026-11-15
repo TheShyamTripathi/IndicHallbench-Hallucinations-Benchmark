@@ -1,0 +1,37 @@
+language,model_name,response_count,unique_questions
+EN,Claude Sonnet 5.5,1800,1800
+EN,DeepSeek-V4.1-Flash,1800,1800
+EN,GLM-5.3 Flash,1800,1800
+EN,GPT-5.6 Luna,1800,1800
+EN,Gemini 3,1800,1800
+EN,Qwen 3.7,1800,1800
+HI,Claude Sonnet 5.5,1800,1800
+HI,DeepSeek-V4.1-Flash,1800,1800
+HI,GLM-5.3 Flash,1800,1800
+HI,GPT-5.6 Luna,1800,1800
+HI,Gemini 3,1800,1800
+HI,Qwen 3.7,1800,1800
+HI-EN,Claude Sonnet 5.5,1800,1800
+HI-EN,DeepSeek-V4.1-Flash,1800,1800
+HI-EN,GLM-5.3 Flash,1800,1800
+HI-EN,GPT-5.6 Luna,1800,1800
+HI-EN,Gemini 3,1800,1800
+HI-EN,Qwen 3.7,1800,1800
+NE,Claude Sonnet 5.5,1800,1800
+NE,DeepSeek-V4.1-Flash,1800,1800
+NE,GLM-5.3 Flash,1800,1800
+NE,GPT-5.6 Luna,1800,1800
+NE,Gemini 3,1800,1800
+NE,Qwen 3.7,1800,1800
+TA,Claude Sonnet 5.5,1800,1800
+TA,DeepSeek-V4.1-Flash,1800,1800
+TA,GLM-5.3 Flash,1800,1800
+TA,GPT-5.6 Luna,1800,1800
+TA,Gemini 3,1800,1800
+TA,Qwen 3.7,1800,1800
+TE,Claude Sonnet 5.5,1800,1800
+TE,DeepSeek-V4.1-Flash,1800,1800
+TE,GLM-5.3 Flash,1800,1800
+TE,GPT-5.6 Luna,1800,1800
+TE,Gemini 3,1800,1800
+TE,Qwen 3.7,1800,1800

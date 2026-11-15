@@ -1,0 +1,28 @@
+{
+  "random_seed": 42,
+  "languages": [
+    "EN",
+    "HI",
+    "TA",
+    "TE",
+    "NE",
+    "HI-EN"
+  ],
+  "models": [
+    "Claude Sonnet 5.5",
+    "DeepSeek-V4.1-Flash",
+    "GLM-5.3 Flash",
+    "GPT-5.6 Luna",
+    "Gemini 3",
+    "Qwen 3.7"
+  ],
+  "questions_per_language": 100,
+  "expected_validation_responses": 3600,
+  "sampling_unit": "question_id within language; retain all six model responses",
+  "annotators": 2,
+  "existing_1015": "separate targeted single-reviewer error/pending subset",
+  "annotation_file": "C:\\Users\\CH.SC.U4CSE23160\\Neural Project\\IndicHallbench-Hallucinations-Benchmark\\data\\annotations\\final\\final_annotations.csv",
+  "response_file": "C:\\Users\\CH.SC.U4CSE23160\\Neural Project\\IndicHallbench-Hallucinations-Benchmark\\data\\annotations\\working\\responses.json",
+  "reference_file": "C:\\Users\\CH.SC.U4CSE23160\\Neural Project\\IndicHallbench-Hallucinations-Benchmark\\data\\annotations\\working\\references.json",
+  "validation_sample": "C:\\Users\\CH.SC.U4CSE23160\\Neural Project\\IndicHallbench-Hallucinations-Benchmark\\data\\validation\\validation_sample_internal.csv"
+}

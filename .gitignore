@@ -220,3 +220,4 @@ __marimo__/
 .streamlit/secrets.toml
 
 venv/
+data/validation/full_enriched_dataset_internal.csv

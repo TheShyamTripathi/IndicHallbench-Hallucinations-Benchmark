@@ -1,0 +1,4 @@
+=== IndicHallBench validation summary ===
+Sample rows: 3600
+Languages:   ['EN', 'HI', 'TA', 'TE', 'NE', 'HI-EN']
+Models:      ['Claude Sonnet 5.5', 'DeepSeek-V4.1-Flash', 'GLM-5.3 Flash', 'GPT-5.6 Luna', 'Gemini 3', 'Qwen 3.7']

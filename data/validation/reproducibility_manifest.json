@@ -1,0 +1,35 @@
+{
+  "study": "IndicHallBench — human validation (legacy sample adopted)",
+  "seed": 20261115,
+  "languages": [
+    "EN",
+    "HI",
+    "TA",
+    "TE",
+    "NE",
+    "HI-EN"
+  ],
+  "models": [
+    "Claude Sonnet 5.5",
+    "DeepSeek-V4.1-Flash",
+    "GLM-5.3 Flash",
+    "GPT-5.6 Luna",
+    "Gemini 3",
+    "Qwen 3.7"
+  ],
+  "questions_per_language_target": 100,
+  "expected_responses": 3600,
+  "actual_sample_rows": 3600,
+  "sample_key_sha256": "c3d11c9f05eba8f23f19dd89fa947c010305dda913b9afefb5d8c13d01245aef",
+  "sampling_note": "Legacy adoption: the 3,600-record sample corresponds to the original notebook's random draw (SEED=20261115). Re-annotation was not possible; the sample was reconstructed from the canonical keys present in the completed annotator files, not re-sampled.",
+  "annotators": 2,
+  "adjudication": "consensus resolution (two-annotator discussion)",
+  "annotation_source": "C:\\Users\\CH.SC.U4CSE23160\\Neural Project\\IndicHallbench-Hallucinations-Benchmark\\data\\annotations\\final\\final_annotations.csv",
+  "response_source": "C:\\Users\\CH.SC.U4CSE23160\\Neural Project\\IndicHallbench-Hallucinations-Benchmark\\data\\annotations\\working\\responses.json",
+  "reference_source": "C:\\Users\\CH.SC.U4CSE23160\\Neural Project\\IndicHallbench-Hallucinations-Benchmark\\data\\annotations\\working\\references.json",
+  "annotator_A_file": "C:\\Users\\CH.SC.U4CSE23160\\Neural Project\\IndicHallbench-Hallucinations-Benchmark\\data\\validation\\annotator_files\\annotator_A_completed.csv",
+  "annotator_B_file": "C:\\Users\\CH.SC.U4CSE23160\\Neural Project\\IndicHallbench-Hallucinations-Benchmark\\data\\validation\\annotator_files\\annotator_B_completed.csv",
+  "adjudicated_file": "C:\\Users\\CH.SC.U4CSE23160\\Neural Project\\IndicHallbench-Hallucinations-Benchmark\\data\\validation\\adjudicated_annotations.csv",
+  "results_directory": "C:\\Users\\CH.SC.U4CSE23160\\Neural Project\\IndicHallbench-Hallucinations-Benchmark\\results\\validation",
+  "bootstrap_replicates": 2000
+}
