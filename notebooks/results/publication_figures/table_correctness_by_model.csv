@@ -1,0 +1,7 @@
+model_name,Correct,Incorrect,Partially Correct
+Claude Sonnet 5.5,6913,1679,2208
+DeepSeek-V4.1-Flash,6485,2416,1899
+GLM-5.3 Flash,7680,1298,1822
+GPT-5.6 Luna,6438,2298,2064
+Gemini 3,5919,2739,2142
+Qwen 3.7,6024,2662,2114

@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="530.781025pt" height="335.896484pt" viewBox="0 0 530.781025 335.896484" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-15T10:30:55.576283</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.9, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 335.896484 
+L 530.781025 335.896484 
+L 530.781025 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 54.827425 286.557194 
+L 523.581025 286.557194 
+L 523.581025 26.68305 
+L 54.827425 26.68305 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="text_1">
+      <text style="font-size: 10.12px; font-family: 'Times New Roman', 'DejaVu Serif', serif; fill: #262626" transform="translate(123.747355 308.766954) rotate(-20)">False</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="text_2">
+      <text style="font-size: 10.12px; font-family: 'Times New Roman', 'DejaVu Serif', serif; fill: #262626" transform="translate(281.226642 307.872979) rotate(-20)">True</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="text_3">
+      <text style="font-size: 10.12px; font-family: 'Times New Roman', 'DejaVu Serif', serif; fill: #262626" transform="translate(430.957488 312.617047) rotate(-20)">Missing</text>
+     </g>
+    </g>
+    <g id="text_4">
+     <text style="font-size: 11.04px; font-family: 'Times New Roman', 'DejaVu Serif', serif; text-anchor: middle; fill: #262626" x="289.204225" y="326.334959" transform="rotate(-0 289.204225 326.334959)">Review required</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_1">
+      <path d="M 54.827425 286.557194 
+L 523.581025 286.557194 
+" clip-path="url(#p95d0d743dc)" style="fill: none; stroke: #cccccc; stroke-width: 0.8; stroke-linecap: round"/>
+     </g>
+     <g id="text_5">
+      <text style="font-size: 10.12px; font-family: 'Times New Roman', 'DejaVu Serif', serif; text-anchor: end; fill: #262626" x="46.527425" y="290.070731" transform="rotate(-0 46.527425 290.070731)">0</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_2">
+      <path d="M 54.827425 238.187278 
+L 523.581025 238.187278 
+" clip-path="url(#p95d0d743dc)" style="fill: none; stroke: #cccccc; stroke-width: 0.8; stroke-linecap: round"/>
+     </g>
+     <g id="text_6">
+      <text style="font-size: 10.12px; font-family: 'Times New Roman', 'DejaVu Serif', serif; text-anchor: end; fill: #262626" x="46.527425" y="241.700816" transform="rotate(-0 46.527425 241.700816)">10000</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_3">
+      <path d="M 54.827425 189.817362 
+L 523.581025 189.817362 
+" clip-path="url(#p95d0d743dc)" style="fill: none; stroke: #cccccc; stroke-width: 0.8; stroke-linecap: round"/>
+     </g>
+     <g id="text_7">
+      <text style="font-size: 10.12px; font-family: 'Times New Roman', 'DejaVu Serif', serif; text-anchor: end; fill: #262626" x="46.527425" y="193.3309" transform="rotate(-0 46.527425 193.3309)">20000</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_4">
+      <path d="M 54.827425 141.447447 
+L 523.581025 141.447447 
+" clip-path="url(#p95d0d743dc)" style="fill: none; stroke: #cccccc; stroke-width: 0.8; stroke-linecap: round"/>
+     </g>
+     <g id="text_8">
+      <text style="font-size: 10.12px; font-family: 'Times New Roman', 'DejaVu Serif', serif; text-anchor: end; fill: #262626" x="46.527425" y="144.960984" transform="rotate(-0 46.527425 144.960984)">30000</text>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_5">
+      <path d="M 54.827425 93.077531 
+L 523.581025 93.077531 
+" clip-path="url(#p95d0d743dc)" style="fill: none; stroke: #cccccc; stroke-width: 0.8; stroke-linecap: round"/>
+     </g>
+     <g id="text_9">
+      <text style="font-size: 10.12px; font-family: 'Times New Roman', 'DejaVu Serif', serif; text-anchor: end; fill: #262626" x="46.527425" y="96.591069" transform="rotate(-0 46.527425 96.591069)">40000</text>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="line2d_6">
+      <path d="M 54.827425 44.707615 
+L 523.581025 44.707615 
+" clip-path="url(#p95d0d743dc)" style="fill: none; stroke: #cccccc; stroke-width: 0.8; stroke-linecap: round"/>
+     </g>
+     <g id="text_10">
+      <text style="font-size: 10.12px; font-family: 'Times New Roman', 'DejaVu Serif', serif; text-anchor: end; fill: #262626" x="46.527425" y="48.221153" transform="rotate(-0 46.527425 48.221153)">50000</text>
+     </g>
+    </g>
+    <g id="text_11">
+     <text style="font-size: 11.04px; font-family: 'Times New Roman', 'DejaVu Serif', serif; text-anchor: middle; fill: #262626" x="14.8659" y="156.620122" transform="rotate(-90 14.8659 156.620122)">Number of responses</text>
+    </g>
+   </g>
+   <g id="patch_3">
+    <path d="M 70.452545 286.557194 
+L 195.453505 286.557194 
+L 195.453505 39.058009 
+L 70.452545 39.058009 
+z
+" clip-path="url(#p95d0d743dc)" style="fill: #5875a4; stroke: #ffffff; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 226.703745 286.557194 
+L 351.704705 286.557194 
+L 351.704705 225.528871 
+L 226.703745 225.528871 
+z
+" clip-path="url(#p95d0d743dc)" style="fill: #5875a4; stroke: #ffffff; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 382.954945 286.557194 
+L 507.955905 286.557194 
+L 507.955905 281.647647 
+L 382.954945 281.647647 
+z
+" clip-path="url(#p95d0d743dc)" style="fill: #5875a4; stroke: #ffffff; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="line2d_7">
+    <path clip-path="url(#p95d0d743dc)" style="fill: none; stroke: #424242; stroke-width: 1.8; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_8">
+    <path clip-path="url(#p95d0d743dc)" style="fill: none; stroke: #424242; stroke-width: 1.8; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_9">
+    <path clip-path="url(#p95d0d743dc)" style="fill: none; stroke: #424242; stroke-width: 1.8; stroke-linecap: round"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 54.827425 286.557194 
+L 54.827425 26.68305 
+" style="fill: none; stroke: #cccccc; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 54.827425 286.557194 
+L 523.581025 286.557194 
+" style="fill: none; stroke: #cccccc; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 9px; font-family: 'Times New Roman', 'DejaVu Serif', serif; text-anchor: middle; fill: #262626" x="132.953025" y="37.132853" transform="rotate(-0 132.953025 37.132853)">51,168</text>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 9px; font-family: 'Times New Roman', 'DejaVu Serif', serif; text-anchor: middle; fill: #262626" x="289.204225" y="223.603715" transform="rotate(-0 289.204225 223.603715)">12,617</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 9px; font-family: 'Times New Roman', 'DejaVu Serif', serif; text-anchor: middle; fill: #262626" x="445.455425" y="279.722491" transform="rotate(-0 445.455425 279.722491)">1,015</text>
+   </g>
+   <g id="text_15">
+    <text style="font-weight: 700; font-size: 11.04px; font-family: 'Times New Roman', 'DejaVu Serif', serif; text-anchor: middle; fill: #262626" x="289.204225" y="14.68305" transform="rotate(-0 289.204225 14.68305)">Distribution of review-required flags</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p95d0d743dc">
+   <rect x="54.827425" y="26.68305" width="468.7536" height="259.874144"/>
+  </clipPath>
+ </defs>
+</svg>
