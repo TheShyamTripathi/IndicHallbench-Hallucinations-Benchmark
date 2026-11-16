@@ -1,0 +1,47 @@
+{
+    "model": "FacebookAI/xlm-roberta-base",
+    "task": "Four-class correctness classification",
+    "train_rows": 45360,
+    "dev_rows": 9720,
+    "test_rows": 9720,
+    "labels": [
+        "Correct",
+        "Incorrect",
+        "Partially Correct"
+    ],
+    "seed": 42,
+    "test_metrics": {
+        "accuracy": 0.7917695473251029,
+        "macro_f1": 0.7373125254524074,
+        "weighted_f1": 0.7936952594894566,
+        "cohen_kappa": 0.6280724703323344,
+        "mcc": 0.6290892405538615,
+        "roc_auc_macro": 0.9137801704945501,
+        "log_loss": 0.7065882504730662,
+        "top2_accuracy": 0.9549382716049383,
+        "ece": 0.13808660132526865
+    },
+    "per_class": [
+        {
+            "label": "Correct",
+            "precision": 0.8812359744519247,
+            "recall": 0.8679020741244474,
+            "f1": 0.8745182012847966,
+            "support": 5882
+        },
+        {
+            "label": "Incorrect",
+            "precision": 0.7502863688430699,
+            "recall": 0.6609485368314834,
+            "f1": 0.7027896995708155,
+            "support": 1982
+        },
+        {
+            "label": "Partially Correct",
+            "precision": 0.5873452544704264,
+            "recall": 0.6901939655172413,
+            "f1": 0.6346296755016101,
+            "support": 1856
+        }
+    ]
+}

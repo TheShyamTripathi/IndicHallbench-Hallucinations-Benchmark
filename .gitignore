@@ -221,3 +221,7 @@ __marimo__/
 
 venv/
 data/validation/full_enriched_dataset_internal.csv
+results/xlmr_base_full_dataset/checkpoints/
+results/xlmr_base_full_dataset/best_model/
+results/xlmr_base_human_validation/checkpoints/
+results/xlmr_base_human_validation/best_model/

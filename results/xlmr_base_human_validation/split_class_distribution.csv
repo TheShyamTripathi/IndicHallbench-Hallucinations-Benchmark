@@ -1,0 +1,13 @@
+split,label,count,percentage
+Train,Correct,1947,77.44630071599046
+Train,Incorrect,71,2.824184566428003
+Train,Partially Correct,483,19.212410501193318
+Train,Uncertain,13,0.5171042163882259
+Dev,Correct,436,80.74074074074075
+Dev,Incorrect,31,5.7407407407407405
+Dev,Partially Correct,73,13.518518518518519
+Dev,Uncertain,0,0.0
+Test,Correct,420,76.92307692307693
+Test,Incorrect,4,0.7326007326007326
+Test,Partially Correct,122,22.344322344322347
+Test,Uncertain,0,0.0
