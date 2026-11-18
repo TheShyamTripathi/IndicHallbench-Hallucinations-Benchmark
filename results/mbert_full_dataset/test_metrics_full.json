@@ -1,0 +1,47 @@
+{
+    "model": "google-bert/bert-base-multilingual-cased",
+    "task": "Four-class correctness classification",
+    "train_rows": 45360,
+    "dev_rows": 9720,
+    "test_rows": 9720,
+    "labels": [
+        "Correct",
+        "Incorrect",
+        "Partially Correct"
+    ],
+    "seed": 42,
+    "test_metrics": {
+        "accuracy": 0.7703703703703704,
+        "macro_f1": 0.7121080340478697,
+        "weighted_f1": 0.7730387359874534,
+        "cohen_kappa": 0.5919084136949678,
+        "mcc": 0.5930823442079199,
+        "roc_auc_macro": 0.90070833291989,
+        "log_loss": 0.6751142826511181,
+        "top2_accuracy": 0.9446502057613169,
+        "ece": 0.12209838585843762
+    },
+    "per_class": [
+        {
+            "label": "Correct",
+            "precision": 0.8723367097450228,
+            "recall": 0.8492009520571234,
+            "f1": 0.8606133700895934,
+            "support": 5882
+        },
+        {
+            "label": "Incorrect",
+            "precision": 0.7073446327683616,
+            "recall": 0.6316851664984864,
+            "f1": 0.6673773987206824,
+            "support": 1982
+        },
+        {
+            "label": "Partially Correct",
+            "precision": 0.5580035971223022,
+            "recall": 0.6686422413793104,
+            "f1": 0.6083333333333333,
+            "support": 1856
+        }
+    ]
+}

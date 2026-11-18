@@ -1,0 +1,63 @@
+{
+    "model": "Custom TextCNN (Kim-2014)",
+    "task": "Four-class correctness classification",
+    "train_rows": 45360,
+    "dev_rows": 9720,
+    "test_rows": 9720,
+    "labels": [
+        "Correct",
+        "Incorrect",
+        "Partially Correct"
+    ],
+    "seed": 42,
+    "vocab_size": 46541,
+    "hyperparameters": {
+        "max_length": 256,
+        "embed_dim": 200,
+        "num_filters": 128,
+        "kernel_sizes": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "dropout": 0.3,
+        "lr": 0.001,
+        "epochs": 15,
+        "train_batch_size": 32
+    },
+    "test_metrics": {
+        "accuracy": 0.5877572016460906,
+        "macro_f1": 0.4990293188049593,
+        "weighted_f1": 0.5850870986802749,
+        "cohen_kappa": 0.3155242587071012,
+        "mcc": 0.3362696329560872,
+        "roc_auc_macro": 0.743693651927566,
+        "log_loss": 0.9095026549577642,
+        "top2_accuracy": 0.8486625514403292,
+        "ece": 0.0364721310911355
+    },
+    "per_class": [
+        {
+            "label": "Correct",
+            "precision": 0.7921243523316062,
+            "recall": 0.6497789867392043,
+            "f1": 0.713925469319137,
+            "support": 5882
+        },
+        {
+            "label": "Incorrect",
+            "precision": 0.4419134396355353,
+            "recall": 0.19576185671039353,
+            "f1": 0.27132867132867133,
+            "support": 1982
+        },
+        {
+            "label": "Partially Correct",
+            "precision": 0.3741598207617625,
+            "recall": 0.8098060344827587,
+            "f1": 0.5118338157670697,
+            "support": 1856
+        }
+    ]
+}

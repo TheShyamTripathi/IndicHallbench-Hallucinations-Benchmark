@@ -225,3 +225,15 @@ results/xlmr_base_full_dataset/checkpoints/
 results/xlmr_base_full_dataset/best_model/
 results/xlmr_base_human_validation/checkpoints/
 results/xlmr_base_human_validation/best_model/
+results/cnn_full_dataset/best_model.pt 
+results/cnn_v2_full_dataset/best_model.pt 
+results/indicbert_v2_full_dataset/best_model
+results/indicbert_v2_full_dataset/checkpoints
+results/mbert_full_dataset/best_model
+results/mbert_full_dataset/checkpoints
+results/bilstm_v2_full_dataset/best_model.pt 
+notebooks/tfidf_lr_hallucination.joblib
+notebooks/tfidf_svm_hallucination.joblib
+notebooks/Muril Bert.ipynb
+results/muril_base_full_dataset/checkpoints
+results/muril_base_full_dataset/best_model

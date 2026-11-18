@@ -1,0 +1,47 @@
+{
+    "model": "google/muril-base-cased",
+    "task": "Four-class correctness classification",
+    "train_rows": 45360,
+    "dev_rows": 9720,
+    "test_rows": 9720,
+    "labels": [
+        "Correct",
+        "Incorrect",
+        "Partially Correct"
+    ],
+    "seed": 42,
+    "test_metrics": {
+        "accuracy": 0.7961934156378601,
+        "macro_f1": 0.7453970707380159,
+        "weighted_f1": 0.7996497056442056,
+        "cohen_kappa": 0.6398247708824181,
+        "mcc": 0.6412692052043029,
+        "roc_auc_macro": 0.9158457063757836,
+        "log_loss": 0.5469458191237012,
+        "top2_accuracy": 0.9543209876543209,
+        "ece": 0.07479126097734085
+    },
+    "per_class": [
+        {
+            "label": "Correct",
+            "precision": 0.895221238938053,
+            "recall": 0.8599115946956818,
+            "f1": 0.8772112382934444,
+            "support": 5882
+        },
+        {
+            "label": "Incorrect",
+            "precision": 0.7493158182813355,
+            "recall": 0.6907164480322906,
+            "f1": 0.7188238382777632,
+            "support": 1982
+        },
+        {
+            "label": "Partially Correct",
+            "precision": 0.5849308961212661,
+            "recall": 0.7068965517241379,
+            "f1": 0.6401561356428397,
+            "support": 1856
+        }
+    ]
+}

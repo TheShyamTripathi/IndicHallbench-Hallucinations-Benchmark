@@ -1,0 +1,72 @@
+{
+    "model": "Hybrid Match-BiLSTM (shared BiLSTM encoder + soft-match + overlap features)",
+    "task": "3-class correctness classification",
+    "train_rows": 45360,
+    "dev_rows": 9720,
+    "test_rows": 9720,
+    "labels": [
+        "Correct",
+        "Incorrect",
+        "Partially Correct"
+    ],
+    "seed": 42,
+    "tokenizer_mode": "subword",
+    "pretrained_name": "xlm-roberta-base",
+    "embedding_rows": 21047,
+    "hyperparameters": {
+        "max_q_len": 48,
+        "max_g_len": 48,
+        "max_r_len": 160,
+        "lstm_hidden": 128,
+        "lstm_layers": 1,
+        "lstm_dropout": 0.2,
+        "match_hidden": 128,
+        "cls_hidden": 256,
+        "dropout": 0.4,
+        "emb_dropout": 0.2,
+        "use_match": true,
+        "use_hand": true,
+        "lr": 0.001,
+        "emb_lr": 0.0001,
+        "epochs_max": 20,
+        "patience": 4,
+        "select_metric": "accuracy",
+        "class_weight_mode": "sqrt",
+        "train_batch_size": 32
+    },
+    "best_dev_score": 0.7398148148148148,
+    "test_metrics": {
+        "accuracy": 0.7393004115226337,
+        "macro_f1": 0.677244267573979,
+        "weighted_f1": 0.742148341798075,
+        "cohen_kappa": 0.5371857518673995,
+        "mcc": 0.5385466533788691,
+        "roc_auc_macro": 0.879480671041085,
+        "log_loss": 0.6290927782328118,
+        "top2_accuracy": 0.934156378600823,
+        "ece": 0.05563956652710468
+    },
+    "per_class": [
+        {
+            "label": "Correct",
+            "precision": 0.8480658148083319,
+            "recall": 0.8236994219653179,
+            "f1": 0.8357050452781372,
+            "support": 5882
+        },
+        {
+            "label": "Incorrect",
+            "precision": 0.6651296829971182,
+            "recall": 0.5822401614530777,
+            "f1": 0.6209308582189939,
+            "support": 1982
+        },
+        {
+            "label": "Partially Correct",
+            "precision": 0.5224471830985915,
+            "recall": 0.6395474137931034,
+            "f1": 0.5750968992248062,
+            "support": 1856
+        }
+    ]
+}

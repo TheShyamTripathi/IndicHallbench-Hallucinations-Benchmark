@@ -1,0 +1,76 @@
+{
+    "model": "Hybrid Match-CNN (multi-kernel TextCNN encoder + soft-match + overlap features)",
+    "task": "3-class correctness classification",
+    "train_rows": 45360,
+    "dev_rows": 9720,
+    "test_rows": 9720,
+    "labels": [
+        "Correct",
+        "Incorrect",
+        "Partially Correct"
+    ],
+    "seed": 42,
+    "tokenizer_mode": "subword",
+    "pretrained_name": "xlm-roberta-base",
+    "embedding_rows": 21047,
+    "hyperparameters": {
+        "max_q_len": 48,
+        "max_g_len": 48,
+        "max_r_len": 160,
+        "num_filters": 128,
+        "kernel_sizes": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "match_hidden": 128,
+        "cls_hidden": 256,
+        "dropout": 0.4,
+        "emb_dropout": 0.1,
+        "use_match": true,
+        "use_hand": true,
+        "lr": 0.001,
+        "emb_lr": 0.0001,
+        "epochs_max": 20,
+        "patience": 4,
+        "select_metric": "accuracy",
+        "class_weight_mode": "sqrt",
+        "train_batch_size": 32
+    },
+    "best_dev_score": 0.7403292181069959,
+    "test_metrics": {
+        "accuracy": 0.7445473251028807,
+        "macro_f1": 0.6743177789311976,
+        "weighted_f1": 0.7417354850163819,
+        "cohen_kappa": 0.530290958597816,
+        "mcc": 0.5321782992209299,
+        "roc_auc_macro": 0.8763837992685236,
+        "log_loss": 0.7349801200440789,
+        "top2_accuracy": 0.9318930041152264,
+        "ece": 0.10343489380469048
+    },
+    "per_class": [
+        {
+            "label": "Correct",
+            "precision": 0.8188147668393783,
+            "recall": 0.8597415844950697,
+            "f1": 0.8387792337037652,
+            "support": 5882
+        },
+        {
+            "label": "Incorrect",
+            "precision": 0.7152274225444957,
+            "recall": 0.5474268415741675,
+            "f1": 0.6201771934838526,
+            "support": 1982
+        },
+        {
+            "label": "Partially Correct",
+            "precision": 0.5402072027627035,
+            "recall": 0.5899784482758621,
+            "f1": 0.5639969096059748,
+            "support": 1856
+        }
+    ]
+}

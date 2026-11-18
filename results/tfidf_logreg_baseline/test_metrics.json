@@ -1,0 +1,45 @@
+{
+    "model": "TF-IDF + Logistic Regression",
+    "task": "Four-class correctness classification",
+    "train_rows": 45360,
+    "dev_rows": 9720,
+    "test_rows": 9720,
+    "labels": [
+        "Correct",
+        "Incorrect",
+        "Partially Correct"
+    ],
+    "seed": 42,
+    "test_metrics": {
+        "accuracy": 0.5911522633744856,
+        "macro_f1": 0.52116517510585,
+        "weighted_f1": 0.601402608284323,
+        "cohen_kappa": 0.3075071794493385,
+        "mcc": 0.3114023475663609,
+        "roc_auc_macro": 0.7420200125771035,
+        "log_loss": 0.8810172915186806
+    },
+    "per_class": [
+        {
+            "label": "Correct",
+            "precision": 0.7776243093922652,
+            "recall": 0.6700102006120368,
+            "f1": 0.7198173515981735,
+            "support": 5882
+        },
+        {
+            "label": "Incorrect",
+            "precision": 0.36025768087215065,
+            "recall": 0.36680121089808276,
+            "f1": 0.3635,
+            "support": 1982
+        },
+        {
+            "label": "Partially Correct",
+            "precision": 0.40926347760060744,
+            "recall": 0.5808189655172413,
+            "f1": 0.4801781737193764,
+            "support": 1856
+        }
+    ]
+}
