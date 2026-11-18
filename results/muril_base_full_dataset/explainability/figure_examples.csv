@@ -1,5 +1,5 @@
 example,gold,language,P_hallu,shap_additivity_gap,phi_question,phi_ground_truth,phi_response
-true_positive_795,Incorrect,NE,0.9812,0.0,-0.0014,0.0327,0.0117
-true_positive_7430,Partially Correct,TA,0.9751,0.0,-0.0376,0.0648,0.0097
-false_alarm_4375,Correct,EN,0.8844,0.0,-0.0243,-0.0183,-0.0112
-false_alarm_4290,Correct,TE,0.6814,0.0,-0.0513,-0.0907,-0.1149
+true_positive_799,Incorrect,NE,0.9988,0.0,0.0002,0.0182,0.0206
+true_positive_7409,Partially Correct,NE,0.9961,0.0,-0.0294,-0.0375,0.1032
+false_alarm_4251,Correct,TE,0.9995,0.0,-0.0008,0.0138,0.0267
+false_alarm_4205,Correct,TA,0.9897,0.0,0.0413,-0.0102,-0.0012

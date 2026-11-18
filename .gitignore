@@ -234,6 +234,5 @@ results/mbert_full_dataset/checkpoints
 results/bilstm_v2_full_dataset/best_model.pt 
 notebooks/tfidf_lr_hallucination.joblib
 notebooks/tfidf_svm_hallucination.joblib
-notebooks/Muril Bert.ipynb
 results/muril_base_full_dataset/checkpoints
 results/muril_base_full_dataset/best_model
