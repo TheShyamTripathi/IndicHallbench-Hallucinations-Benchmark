@@ -1,0 +1,17 @@
+
+cff-version: 1.2.0
+message: "If you use IndicHallBench, please cite this work."
+title: "IndicHallBench: A Multilingual Hallucination Benchmark and Language-Aware Hallucination Detection Framework for Low-Resource South Asian Languages"
+type: software
+authors:
+  - family-names: Tripathi
+    given-names: Shyam
+  - family-names: Agrahari
+    given-names: Kritika
+  - family-names: Alam
+    given-names: Mahboob
+  - family-names: Anitha
+    given-names: G.
+version: 1.0.0
+date-released: "2026-11-18"
+repository-code: "https://github.com/TheShyamTripathi/IndicHallbench-Hallucinations-Benchmark"
